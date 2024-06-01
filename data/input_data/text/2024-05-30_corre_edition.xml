@@ -164,19 +164,18 @@
                                     <lem resp="#NC">Hynothéon</lem>
                                     <rdg wit="#ADIV_5Fb_1">Hijnothéon</rdg>
                                 </app>-->
-                        </name> sapientissimi <persName ref="#Salomon"
-                            >Salomonis</persName> regis, filii <persName
-                            ref="#David">Dauid</persName><persName ref="#Jacob">Israel</persName>,
-                        de <choice>
+                        </name> sapientissimi <persName ref="#Salomon">Salomonis</persName> regis,
+                        filii <persName ref="#David">Dauid</persName><persName ref="#Jacob"
+                            >Israel</persName>, de <choice>
                             <sic>Caldes</sic>
                             <corr resp="#NC">Chaldaeo</corr>
                         </choice>
                         <!--<app>
                                     <lem resp="#NC">Chaldaeo</lem>
                                     <rdg wit="#ADIV_5Fb_1">Caldes</rdg>
-                                </app>--> in Latinum. Altitudines orientis sunt nouem de
-                        quibus in hoc libro primo tractatu tractandum est, et de illius
-                            uirtutibus. In secundo, est tractandum de altitudinibus
+                                </app>--> in Latinum. Altitudines orientis
+                        sunt nouem de quibus in hoc libro primo tractatu tractandum est, et de
+                        illius uirtutibus. In secundo, est tractandum de altitudinibus
                         occidentalibus, quæ sunt septem, et meridionalibus quæ sunt quinque, et
                         septentrionalibus quæ sunt tres. In tertio, de modo faciendi sanctum <name
                             type="divin">Hælaon</name>, et de modo <choice>
@@ -201,10 +200,10 @@
                         altitudinis uocantur <name type="divin">Hrauel</name>, <name type="divin"
                             >Gabriel</name>, <name type="divin">Barachiel</name>, <name type="divin"
                             >Libes</name>, <name type="divin">Heliram</name>, et hæc altitudo habet
-                        operationem suam et potentiam die Solis et eius hora Luna crescente in
-                        bona dispositione et cum ista altitudine disponuntur natiuitates
-                        natorum ad bonum uel malum finem aliqua mulier concipere uel non et arbores
-                        fructus facere in quantitate, uel non, et hæc similia. </p>
+                        operationem suam et potentiam die Solis et eius hora Luna crescente in bona
+                        dispositione et cum ista altitudine disponuntur natiuitates natorum ad bonum
+                        uel malum finem aliqua mulier concipere uel non et arbores fructus facere in
+                        quantitate, uel non, et hæc similia. </p>
                 </div>
                 <div n="3" type="section">
                     <p>Secunda altitudo. Hæc altitudo uocatur <name type="divin">Corora</name> et
