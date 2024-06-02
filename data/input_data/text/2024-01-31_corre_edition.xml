@@ -92,7 +92,7 @@
 
             <titlePage type="document_front">
 
-                <pb n="Titre" xml:id="liber_hynotheon_front"/>
+                <pb n="Titre" xml:id="liber_hynotheon_front" facs="data/images/single/liber_hynotheon_front.jpg"/>
 
                 <lb/>
                 <lb/>
@@ -106,7 +106,18 @@
                 <lb/>
                 <lb/>
                 <lb/>
-
+                
+                <byline><hi>TEST/DEMO file</hi></byline>
+                
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                
                 <byline>Transcription, encodage et traduction de<lb/><hi>Nicolas Corre</hi></byline>
 
                 <lb/>
@@ -118,7 +129,7 @@
                 <lb/>
                 <lb/>
 
-                <byline>et avec les conseils d’Aurélien Berra TEST</byline>
+                <byline>et avec les conseils d’Aurélien Berra</byline>
                 <byline>pour la conception de l’édition numérique</byline>
 
                 <lb/>
@@ -2567,30 +2578,31 @@
             </div>
         </body>
         <back>
-            <div n="Liber Hynotheon" type="translation" xml:id="liberhynotheon_fr" xml:lang="fr">
+            <div><note n="1" xml:id="stand-off_note_1">TEST stand-off_note_1</note></div>
+            <div n="Liber Hynotheon FR" type="translation" xml:id="liberhynotheon_fr" xml:lang="fr">
 
                 <div n="p1" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-1">
                     <div n="1" type="chapitre">
                         <div n="1" type="section">
-                            <p>Au nom du Seigneur Jésus Christ. Ceci est le livre Hynothéon<note
+                            <p>Au nom du Seigneur Jésus Christ<ptr target="#stand-off_note_1" type="noteAnchor"/>. Ceci est le livre Hynothéon<note
                                     n="1">Ce nom « divin » est vraisemblablement d’origine grecque
                                     et pourrait être traduit par « une seule divinité (Henotheon) ».
                                     Dans le manuscrit R, il se retrouve aussi sous la forme
                                     Hynoytheon, pour être cette fois gravé sur l’autel, le « Saint
-                                    Hælaon »</note> du très sage roi Salomon<note n="2"
-                                    place="bottom">Un grand nombre de traités de magie sont
-                                    attribués depuis l’Antiquité au fils de David, considéré par la
-                                    tradition judéo-chrétienne et musulmane comme un exorciste et un
-                                    magicien tout-puissant</note>, fils de David Israël, traduit du
-                                chaldéen en latin. Les altitudes orientales sont au nombre de neuf ;
-                                il faut traiter de celles-ci, ainsi que de leurs vertus, dans ce
-                                livre, dans ce premier traité. Dans le second, il faut traiter des
-                                altitudes occidentales, qui sont sept, des méridionales, qui sont
-                                cinq, et des septentrionales, qui sont trois. Dans le troisième, de
-                                la manière de faire le saint Hælaon, et de la manière de le
-                                conserver, avant et après que le maître de l’Art aura commencé son
-                                opération, et de la préparation du maître de l’Art, et de nombreuses
-                                remarques en lien avec cet Art.</p>
+                                    Hælaon »</note> du très sage roi Salomon<note n="2">Un grand
+                                    nombre de traités de magie sont attribués depuis l’Antiquité au
+                                    fils de David, considéré par la tradition judéo-chrétienne et
+                                    musulmane comme un exorciste et un magicien
+                                tout-puissant</note>, fils de David Israël, traduit du chaldéen en
+                                latin. Les altitudes orientales sont au nombre de neuf ; il faut
+                                traiter de celles-ci, ainsi que de leurs vertus, dans ce livre, dans
+                                ce premier traité. Dans le second, il faut traiter des altitudes
+                                occidentales, qui sont sept, des méridionales, qui sont cinq, et des
+                                septentrionales, qui sont trois. Dans le troisième, de la manière de
+                                faire le saint Hælaon, et de la manière de le conserver, avant et
+                                après que le maître de l’Art aura commencé son opération, et de la
+                                préparation du maître de l’Art, et de nombreuses remarques en lien
+                                avec cet Art.</p>
                         </div>
                         <div n="2" type="section">
                             <p>Première altitude orientale. On appelle la première altitude Cynos et
