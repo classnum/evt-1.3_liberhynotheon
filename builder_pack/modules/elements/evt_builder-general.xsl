@@ -60,7 +60,8 @@
     </xsl:template>
 
     <!-- NOTE Note or annotation -->
-    <xsl:template match="//tei:note" mode="interp dipl #default">
+    <xsl:template match="//tei:note" mode="interp dipl transl #default">
+        <!-- Aurélien Berra 2024-06-02 added transl to enable visualisation of notes in translation -->
         <xsl:choose>
             <xsl:when
                 test="$root//tei:ptr[@type = 'noteAnchor'][@target = concat('#', current()/@xml:id)]">
@@ -120,7 +121,7 @@
         </xsl:element>
     </xsl:template>
 
-    <xsl:template match="tei:back//tei:ptr" mode="interp dipl #default">
+    <xsl:template match="tei:back//tei:ptr" mode="interp dipl transl #default">
         <xsl:choose>
             <xsl:when test="@type = 'noteAnchor'">
                 <xsl:if

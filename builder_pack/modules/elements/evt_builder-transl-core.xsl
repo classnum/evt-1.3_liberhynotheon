@@ -29,7 +29,9 @@
 	<!-- TRANSLATION - DIV - Container of Translation Edition -->
 	<xsl:template match="tei:div[starts-with(@type,'transl')] | tei:div[starts-with(@type,'transl')]" mode="transl">
 		<xsl:element name="div">
-			<xsl:attribute name="class">doc</xsl:attribute>
+			<!-- Aurélien Berra 2024-06-02 hack: added "current" value in class attribute to enable JS treatment of inline note popup -->
+			<!-- <xsl:attribute name="class">doc</xsl:attribute> -->
+			<xsl:attribute name="class">doc current</xsl:attribute>
 			<xsl:attribute name="data-doc" select="current()/(replace (@xml:id, '_transl', ''))"/>
 			<xsl:attribute name="title"><xsl:text>Doc. </xsl:text>
 				<xsl:choose>
