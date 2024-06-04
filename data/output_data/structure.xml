@@ -51,13 +51,6 @@
          <pb n="31">liber_hynotheon_ms_adiv_5fb1_page-31</pb>
          <pb n="32">liber_hynotheon_ms_adiv_5fb1_page-32</pb>
          <pb n="33">liber_hynotheon_ms_adiv_5fb1_page-33</pb>
-         <pb n="figure-1">figure-1</pb>
-         <pb n="figure-2">figure-2</pb>
-         <pb n="figure-3">figure-3</pb>
-         <pb n="figure-4">figure-4</pb>
-         <pb n="figure-5">figure-5</pb>
-         <pb n="figure-6">figure-6</pb>
-         <pb n="figure-7">figure-7</pb>
       </text>
    </textpage>
    <pages>
@@ -163,27 +156,6 @@
       </pair>
       <pair>
          <pb n="33">liber_hynotheon_ms_adiv_5fb1_page-33</pb>
-      </pair>
-      <pair>
-         <pb n="figure-1">figure-1</pb>
-      </pair>
-      <pair>
-         <pb n="figure-2">figure-2</pb>
-      </pair>
-      <pair>
-         <pb n="figure-3">figure-3</pb>
-      </pair>
-      <pair>
-         <pb n="figure-4">figure-4</pb>
-      </pair>
-      <pair>
-         <pb n="figure-5">figure-5</pb>
-      </pair>
-      <pair>
-         <pb n="figure-6">figure-6</pb>
-      </pair>
-      <pair>
-         <pb n="figure-7">figure-7</pb>
       </pair>
    </pages>
    <idno/>
