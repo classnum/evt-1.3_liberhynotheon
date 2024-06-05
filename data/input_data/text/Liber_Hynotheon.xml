@@ -2685,7 +2685,7 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                         </div>
                     </div>
                 </div>
-                <div n="p2" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-2">
+                <div n="p2" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-2" xml:id="fr_page-2" next="#fr_page-3">
                     <div n="4" type="section">
                         <p>Troisième altitude. On l’appelle Hermoy et elle exerce son pouvoir sur
                             les amis, les frères, les proches et les voisins, et sur le mouvement de
@@ -2794,7 +2794,13 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                     <div n="7" type="section">
                         <p>Sixième altitude. On l’appelle celle-ci Noxin, et les princes qui y
                             demeurent exercent par leur office leur pouvoir et leur efficience sur
-                            les États du monde. De région en région, ils font se mouvoir et changent
+                            les États </p>
+                            </div>
+                            </div>
+                            <div n="p3" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-3" xml:id="fr_page-3"
+                    prev="#fr_page-2">
+<div n="7" type="section">
+                            <p>du monde. De région en région, ils font se mouvoir et changent
                             les monarchies, les empires et les seigneuries du monde, par un
                             mouvement céleste et par leur commandement. Ils distinguent les maîtres
                             des serviteurs et ils manifestent leur nature par leurs vertus et leurs
@@ -2828,7 +2834,7 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                                 Scistheros, Onoy, Orneth, Gareth, Alay ».</note>.</p>
                     </div>
                 </div>
-                <div type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-3">
+                
                     <div n="8" type="section">
                         <p>Septième altitude. On appelle cette altitude Creor, et les princes qui y
                             demeurent exercent leur puissance sur les serments qui sont faits entre
@@ -2901,20 +2907,20 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                     </div>
                     <div n="10" type="section">
                         <p>Neuvième altitude. On appelle Suphor et les princes qui y demeurent ont
-                            le pouvoir et la puissance d’enrichir les hommes, ou encore de prendre
-                            leurs biens, selon ce qui leur plaît. Par leur office, ils rendent les
-                            hommes très beaux. De plus, ils ont l’efficience d’infuser toutes les
-                            sciences. Le nom des princes de cette altitude sont Paymon, Egy, Egysta,
-                            Zayn, Zæthau, Gratyn. </p>
+                            le pouvoir </p>
                     </div>
                 </div>
-                <div type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-4" xml:id="fr_page-4"
+                <div n="p4" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-4" xml:id="fr_page-4"
                     next="#fr_page-5">
                     <!-- AB. Ici et ci-dessous, exemple de jointure d'éléments non continus par les attributs next/prev
                                 (https://www.tei-c.org/release/doc/tei-p5-doc/en/html/NH.html#NHVE),
                                 pour aider à choisir une solution d'encodage des sauts de page dans la traduction. -->
                     <div n="11" type="section">
-                        <p>Et il faut savoir que toutes ces altitudes exercent leur efficience le
+                        <p>et la puissance d’enrichir les hommes, ou encore de prendre
+                            leurs biens, selon ce qui leur plaît. Par leur office, ils rendent les
+                            hommes très beaux. De plus, ils ont l’efficience d’infuser toutes les
+                            sciences. Le nom des princes de cette altitude sont Paymon, Egy, Egysta,
+                            Zayn, Zæthau, Gratyn. Et il faut savoir que toutes ces altitudes exercent leur efficience le
                             jour du soleil, et en son heure, c’est-à-dire de la première heure du
                             jour du soleil jusqu’à midi, et quand ceci est mis en œuvre par le
                             maître de l’Art, il doit faire un temps clair et serein, sans nuage,
@@ -2975,7 +2981,7 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                         </div>
                     </div>
                 </div>
-                <div type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-5" xml:id="fr_page-5"
+                <div n="p5" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-5" xml:id="fr_page-5"
                     prev="#fr_page-4">
                     <div n="3" type="section">
                         <p>Briel, Malamacoy, Malachim, Radasieh, Baidahath, Odmachiel.</p>
@@ -3036,7 +3042,7 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                             Anyal, Salmet, Chamæl.</p>
                     </div>
                 </div>
-                <div type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6">
+                <div n="p6" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6" xml:id="fr_page-6" next="#fr_page-7">
                     <div n="8" type="section">
                         <p>Septième et ultime altitude occidentale. On l’appelle Steher, et les
                             princes qui y demeurent ont la puissance de dévoiler un vol, ou non. Ils
@@ -3054,7 +3060,6 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                             occidentales.</p>
                     </div>
                 </div>
-                <div type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-7">
                     <div n="3" type="chapitre">
                         <div n="1" type="section">
                             <p>Voici les altitudes méridionales, qui sont cinq. Première altitude
@@ -3064,18 +3069,18 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                                 faire ce que désirent les hommes, ou non, comme il leur plaît. Les
                                 noms des princes de cette altitude sont Alaharahel, Sasahorohath,
                                 Hamaliel, Mirthoath, Sulthurohath.</p>
-                        </div>
                         <div n="2" type="section">
                             <p>Seconde altitude. On l’appelle Ahahager, et les princes qui y
                                 demeurent ont de l’efficience et de la puissance sur tous les
-                                poisons reconnus et inconnus. Ils font périr les hommes, ou non, ils
+                                poisons reconnus et inconnus. Ils font périr les hommes </p>
+                                </div>
+                                </div>
+                                <div n="p7" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-7" xml:id="fr_page-7">
+                                <div n="2" type="section"><p>, ou non, ils
                                 font s’ouvrir et se refermer les terres, comme il leur semble bon.
                                 Les noms des princes de cette altitude sont Agariel, Animirnaornus,
                                 Byleth, Sathouiel, Mahardahel.</p>
                         </div>
-                    </div>
-                </div>
-                <div type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-8">
                     <div n="3" type="section">
                         <p>Troisième altitude. On l’appelle Aehechym, et les princes qui y demeurent
                             ont de l’efficience et du pouvoir sur tous les instruments de musique et
@@ -3109,12 +3114,14 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                                 place="bottom">L’invocation des altitudes méridionales doit avoir
                                 lieu « le jour de Jupiter », soit un jeudi.</note>.</p>
                     </div>
-                </div>
-
-                <div type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-9">
                     <div n="4" type="chapitre">
                         <div n="1" type="section">
-                            <p>Des altitudes septentrionales, au nombre de trois. Première altitude.
+                            <p>Des altitudes septentrionales, au nombre de trois.</p>
+                            </div>
+                            </div> 
+                            <div n="p8" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-8" xml:id="fr_page-8" next="#fr_page-9">
+                           <div n="1" type="section">
+                        <p>Première altitude.
                                 On appelle celle-ci Hahanahor, et les princes qui y demeurent ont de
                                 l’efficience et du pouvoir sur la fortune de mer toute entière<note
                                     n="29" place="bottom">L’expression « fortune de mer » désigne
@@ -3151,8 +3158,13 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                             Raphahasel, Zechriahauel, Naniel.</p>
                     </div>
                     <div n="4" type="section">
-                        <p>Et il faut savoir que toutes ces altitudes exercent leur efficience et
-                            leur pouvoir le jour ♄ c’est-à-dire celui de Saturne, et à son heure,
+                        <p>Et il faut savoir que toutes ces altitudes exercent leur efficience et</p>
+                        </div>
+                        </div>
+<div n="p9" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-9" xml:id="fr_page-9"
+                    prev="#fr_page-8">
+<div n="4" type="section">
+<p>leur pouvoir le jour ♄ c’est-à-dire celui de Saturne, et à son heure,
                             comme nous l’avons noté dans le troisième traité<note n="30"
                                 place="bottom">L’invocation des altitudes septentrionales doit avoir
                                 lieu « le jour de Jupiter », soit un jeudi.</note>.</p>
@@ -3161,7 +3173,7 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
             </div>
             <div n="5" type="chapitre">
                 <div n="1" type="section">
-                    <p>Troisième traité De la manière dont doit être confectionné le saint
+                    <p>Troisième traité. De la manière dont doit être confectionné le saint
                         Stahelaon. Nous confectionnons le saint Stahelaon de cette manière. Le jour
                         ☿, c’est-à-dire celui de Mercure<note n="31" place="bottom">L’opération doit
                             avoir le « jour de Mercure », soit un mercredi. Cette précision
@@ -3249,7 +3261,12 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                 </div>
                 <div n="3" type="section">
                     <p>Il faut prendre garde à ce qu’aucun de ces cierges ne soit allumé, si ce
-                        n’est au moment de l’opération. Cependant, quand le Saint Stæleoin a été
+                        n’est au moment de l’opération. Cependant, quand le Saint Stæleoin</p>
+                        </div>
+                        </div> 
+                        <div n="p10" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-10">
+                        <div n="3" type="section">
+                        <p>a été
                         confectionné, que soit fait un sceau sur lequel ces noms sont gravés
                         seulement au verso, et que ce sceau soit d’argent et d’or très pur ! Qu’au
                         moment de l’opération, qu’il soit déposé à l’intérieur du second coffret !
@@ -3306,7 +3323,12 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                         la cire couleur de lin.</p>
                 </div>
                 <div n="5" type="section">
-                    <p>Voici maintenant le saint Stælaon des altitudes occidentales. Pour la
+                    <p>Voici maintenant le saint Stælaon des altitudes occidentales.</p>
+                    </div>
+                    </div> 
+                    <div n="p11" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-11">
+<div n="5" type="section"><p>
+                    Pour la
                         première altitude, on le confectionne avec de la cire de couleur verte. Il
                         est de même pour les cierges. Pour la seconde, celui de la seconde, avec de
                         la cire rouge. Pour la troisième, celui de la troisième avec de la cire
@@ -3337,20 +3359,20 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
             </div>
             <!-- AB. Ici, exemple d'intégration des figures : ce sont des pages normales, n'est-ce pas ?
                         Je ne comprends pas la nécessité d'un balisage spécifique.-->
-            <div type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-13">
+            <div n="p13" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-13">
                 <div n="fig1" type="figure">
                     <p>Figure 1. La manière dont doit être façonné le saint Stahelaon. Sur le second
                         coffret : THETAGRAMMATON. Sur le premier coffret, au centre : HEL. Ensuite à
                         l’angle 1 : Hynoytheon. 2 : Pthiaeumaton. 3 : Anbona. 4 : Yhehoua.</p>
                 </div>
-                <div type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-14">
+                <div n="p14" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-14">
                     <div n="fig2" type="figure">
                         <p>Figure 2. Sur le second coffret : THETHAGRAMMATON. Sur le premier
                             coffret, au centre : HEL. Ensuite à l’angle 1 : Hynoytheon. 2:
                             Ptihæumaton. 3 : Anabona. 4 : Ihehoua.</p>
                     </div>
                 </div>
-
+<div n="p15" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-15">
                 <div n="6" type="chapitre">
                     <div n="1" type="section">
                         <p>Il faut savoir que toutes les altitudes orientales exercent leur pouvoir
@@ -3455,7 +3477,12 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                                 l’air d’une chambre.</note>.</p>
                     </div>
                     <div n="2" type="section">
-                        <p>Voici maintenant les suffumigations des altitudes occidentales. Il faut
+                        <p>Voici maintenant les suffumigations des altitudes occidentales.</p>
+                        </div>
+                        </div> 
+                        <div n="p16" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-16">
+                       <div n="2" type="section">
+                        <p>Il faut
                             suffumiger la première altitude occidentale avec des odeurs de cannelle
                             et de storax calamitus ; la seconde avec des odeurs de safran et de
                             camphre ; la troisième avec des odeurs d’encens et de myrrhe ; la
@@ -3524,7 +3551,13 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                     <div n="3" type="section">
                         <p>Note que sur le second coffret, doit être écrit au moment de l’opération
                             (la prière accomplie ?), avec le stylet, le nom du grand Seigneur et
-                            Créateur de toutes les créatures qui est Thethagramaton, comme sur le
+                            Créateur</p>
+                            </div>
+                            </div>
+                             <div n="p17" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-17">
+                            <div n="3" type="section">
+                            <p>
+                            de toutes les créatures qui est Thethagramaton, comme sur le
                             dessin.</p>
                     </div>
                     <div n="4" type="section">
@@ -3596,6 +3629,7 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                             divine Majesté autant que je peux prier afin que tu daignes concéder une
                             telle grâce à moi ton serviteur n. (c'est-à-dire "un tel").</p>
                     </div>
+                     <div n="p18" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-18">
                     <div n="2" type="section">
                         <p>et que tu m’accordes de pouvoir et vouloir faire moi-même l’opération que
                             je veux entamer, et daigne accorder une telle grâce à la requête de mon
@@ -3667,6 +3701,7 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                             nombre de ses jours, et lui as donné pouvoir sur tout ce qui est sur la
                             terre.</p>
                     </div>
+                     <div n="p19" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-19">
                     <div n="4" type="section">
                         <p>Tu l’as fait craindre de toute chair, et lui as donné l’empire sur les
                             bêtes et sur les oiseaux, et tu as créé de sa substance un aide
@@ -3709,7 +3744,11 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                 </div>
                 <div n="12" type="chapitre">
                     <div n="1" type="section">
-                        <p>Note que pendant que le maître de l’Art prie à genoux, il faut que six
+                        <p>Note</p>
+                        </div>
+                        </div> 
+                         <div n="p20" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-20">
+                        <div n="1" type="section"><p>que pendant que le maître de l’Art prie à genoux, il faut que six
                             cierges soient allumés sur l’autel. Lorsque la prière susdite est
                             terminée, il devra écrire avec la plus grande dévotion le grand et
                             terrible Nom, c’est-à-dire le gracieux Thethagramaton, en majuscules,
@@ -3792,19 +3831,25 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                             mais nous les indiquerons ensuite pour les autres altitudes qui suivent
                             :</p>
                     </div>
+                    </div>
                 </div>
+                <div n="p21" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-21">
                 <div n="fig3" type="figure">
                     <p>Figure 3. Sceau de la première altitude orientale. Caractères des princes</p>
                 </div>
-
-                <div n="fig4" type="figure">
+</div>
+<div n="p22" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-22">
+<div n="fig4" type="figure">          
                     <p>Figure 4. Sceau de la seconde altitude orientale 2</p>
                 </div>
-
-                <div n="fig5" type="figure">
+</div>
+<div n="p23" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-23">
+                <div n="fig5" type="figure">          
                     <p>Figure 5. Sceau de la troisième altitude</p>
                 </div>
+</div>
 
+<div n="p25" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-25">
                 <div n="13" type="chapitre">
                     <div n="1" type="section">
                         <p>Il faut savoir qu’il faut que le maître de l’Art écrive le sceau de
@@ -3898,7 +3943,11 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                     </div>
                     <div n="2" type="section">
                         <p>et tous les autres noms connus de nous qui sont ceux-ci, à savoir On,
-                            Caph, Adicarday, Cby, On Abuinon, Ydios, Tetragrammaton, Emanuel,
+                            Caph, Adicarday, Cby, On Abuinon, Ydios,</p>
+                            </div>
+                            </div>
+                            <div n="p26" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-26">
+                            <div n="2" type="section"><p>Tetragrammaton, Emanuel,
                             Adonay, Agloto, Pantongraton, Hussio, Hel, Hely, Heloy, Heloa, Helya,
                             Helyen, Elyoa, Elyona, Ely, Vasala, Valy, Teul, Vaul, Vau, Seu, Signasis
                             Aghetan, Abyonitas, Ieue, Techtron, Techtron, Alausim, Chalbatl, Iobel,
@@ -3924,7 +3973,12 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                             Medandala, Nehauch, Soray, Cados, Nau, Anona, Alabay, Amura, Araora,
                             ARANTHAN, Homousyon, Esenehye, Achata, Au, Ah, Iender, Cos, Zhye,
                             Hhasidz, Zadie, Seday, Gibor, Hhesed, Relsidion, Malahahh, Ruaahhton,
-                            Mesahh, Tazahh, Nispha, Abtyso, Abhelahb Ylen, Eyhelnas, Rasni, Fas,
+                            Mesahh, Tazahh,</p>
+                            </div>
+                            </div>
+                            <div n="p27" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-27">
+                            <div n="2" type="section">
+                            <p>Nispha, Abtyso, Abhelahb Ylen, Eyhelnas, Rasni, Fas,
                             Ary, Rirhohh, Heehfilo, Hemehey, Lehohth, Nyas, Glagla, Asato, Hascheye,
                             Aumar, Sol, Thauth, Va, Benchi, Sthason, Adonias, Adon, Abiashar,
                             Abiagail, Elcana, Elnathan, Ezieniel, Cois, Sachiel, Sedecsias, Sadael,
@@ -3988,7 +4042,12 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                 <div n="17" type="chapitre">
                     <div n="1" type="section">
                         <p>Note. Et note, ô maître de l’Art, que tu dois dire trois fois
-                            l’invocation, avec la plus grande vénération, les mains lavées à l’eau
+                            l’invocation,</p>
+                            </div>
+                            </div>
+                            <div n="p28" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-28">
+                            <div n="1" type="section"><p> 
+                            avec la plus grande vénération, les mains lavées à l’eau
                             de rose, avec le sceau du grand Dieu<note n="72" place="bottom">Il est
                                 probable que l’auteur voulait plutôt dire le « grand sceau de Dieu
                                 (sigillo magno Dei) », et non sigillo magni Dei, comme dans Figura
@@ -4053,19 +4112,22 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                     <div n="5" type="section">
                         <p>Et sache, ô maître de l’Art, que ce livre est meilleur qu’un trésor
                             puisque si tu fais les opérations de l’altitude, tu auras ce que tu
-                            auras souhaité. 6 Et sache que nous avons mis en œuvre toutes les
+                            auras souhaité. Et sache que nous avons mis en œuvre toutes les
                             altitudes, et elles sont authentiques puisque nous avons eu ce que nous
                             avons souhaité. Ce livre peut véritablement être appelé le trésor des
                             trésors. Fin</p>
                     </div>
                 </div>
+                </div>
+                <div n="p29" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-29">
                 <div n="fig6" type="figure">
                     <p>Figure 6. Dessin de la tenue du maître de l’Art. Sur la manche droite :
                         ELIZBETH. Sur la manche gauche : ABESSALOM. En triangle : AVORRA ADONAY
                         EMANVEL. Dans le bas : OZA, caractères, SAPHAD. « De l’autre côté » :
                         ELCANA, caractères, ELIMELGH, caractères.</p>
                 </div>
-
+</div>
+<div n="p31" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-31">
                 <div n="19" type="chapitre">
                     <div n="1" type="section">
                         <p>Nous avons indiqué précédemment qu’il fallait réaliser le grand sceau de
@@ -4171,7 +4233,11 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                                 uentorum.</note>, toi qui as frappé les premiers-nés de l’Égypte,
                             depuis l’homme jusqu’à la bête<note n="82" place="bottom">Il s’agit
                                 d’une citation du Ps. 134, 8 : Qui percussit primogenita Ægypti ab
-                                homine usque ad pecus.</note>, qui séparas la lumière d’avec les
+                                homine usque ad pecus.</note>,</p>
+                                </div>
+                                </div>
+<div n="p32" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-32">
+                                <div n="3" type="section"><p>qui séparas la lumière d’avec les
                                 ténèbres<note n="83" place="bottom">L’allusion à Gn. 1, 4 : diuisit
                                 lucem a tenebris, est évidente.</note>, qui fit les grands corps
                             lumineux, le Soleil et la Lune<note n="84" place="bottom">L’auteur
@@ -4198,13 +4264,15 @@ Le Liber Hynotheon est principalement le résultat d’une réécriture de l’A
                             ainsi soit-il ! »</p>
                     </div>
                 </div>
+                </div>
+                <div n="p33" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-33">
                 <div n="fig7" type="figure">
                     <p>Figure 7. Ceci est le grand sceau de Dieu : HELOEN ADONAY PIUS ANABONA
                         ARANITAN. Ceci est la seconde partie du sceau : THETHAGRAMMATON ANABONA
                         IHEHOVA HELOEN A W ADONAY</p>
                 </div>
             </div>
-
+</div>
         </back>
     </text>
 </TEI>
