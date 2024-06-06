@@ -135,63 +135,61 @@
             </titlePage>
 
             <div>
-
                 <head>Liber Hynotheon</head>
-
                 <lb/>
-
                 <div type="paratext" subtype="intro">
-                    <p>Le <title>Liber Hynotheon</title> Au sein des Archives départementales
-                        d’Ille-et-Vilaine, un manuscrit classé sous la côte 5 Fb1 porte le nom de
-                        Liber Hynotheon. Transcrit sur du papier, il est constitué de 9 feuillets
-                        cousus ensemble. L’auteur indique que ce livret serait la traduction en
-                        latin d’une œuvre plus ancienne écrite en chaldéen, celle-ci recèlerait les
-                        secrets de la magie du très sage Salomon. L’œuvre révèle que le monde est
-                        divisé en différentes « altitudes » ou plans, chacune dénommée selon les
-                        points cardinaux : il y a neuf altitudes orientales, sept occidentales, cinq
-                        méridionales et trois septentrionales. Chacune d’entre elles porte un nom
-                        qui lui est propre, et les « princes » qui y demeurent possèdent des
-                        pouvoirs particuliers, comme par exemple celui de favoriser la croissance
-                        des fruits. Les princes d’une altitude donnée peuvent être invoqués à une
-                        heure et un jour précis, et à chaque altitude correspond une odeur et une
-                        couleur spécifiques. À la suite de préparatifs complexes (ou preparatio), et
-                        d’une mise en œuvre particulière (ou operatio), le traité indique comment
-                        parlementer avec un prince de l’altitude afin d’obtenir l’accomplissement de
-                        la « requête de son cœur (petitionem sui cordis) » (XIV, 2). L’origine de ce
-                        texte, comme son auteur ou les possesseurs successifs, restent encore
-                        inconnus. Comme les autres manuscrits de magie rassemblés à ses côtés au
-                        sein des Archives départementales d’Ille-et-Vilaine, il est vraisemblable
-                        que ce document provienne des archives du Parlement de Bretagne. La mention
-                        d’un pape, oiseau de Louisiane connu en France seulement à partir de 1758,
-                        constitue le seul indicateur temporel sûr. Il a dû être saisi ensuite par la
-                        justice, au moins avant la dissolution du Parlement (1790) : après 1682, la
-                        sorcellerie ne fut plus considérée comme un crime pour la justice. Les
-                        prétendus sorciers pouvaient encore être poursuivis pour escroquerie ou
-                        tromperie, ce qui justifierait la présence de ce manuscrit au sein des
-                        archives judiciaires bretonnes d’Ancien Régime. Il est difficile d’en dire
-                        plus, car le Liber Hynotheon a été séparé de l’ensemble des pièces et des
-                        minutes du procès auquel il devait être lié. Son aspect « pittoresque » tout
-                        comme son intérêt « ethnographique » justifiaient qu’il soit mis en avant
-                        par les archivistes, mais ce déplacement s’est fait au prix d’une perte
-                        dommageable d’informations. La source principale de ce texte semble être
-                        l’Ars Almadel, ou Almandal. Ce traité de magie rituelle est fameux : il
-                        servait à invoquer et à conjurer les anges par l’intermédiaire d’un autel de
-                        petite taille qui donne son titre au grimoire. Son nom indique une origine
-                        arabe, mais il aurait été conçu dans l’Iran ancien, voire même dans
-                        l’Extrême Orient. Après avoir été introduit en Europe, ses différentes
-                        avatars médiévaux ont été tout à fait christianisés. Selon Jean-Patrice
-                        Boudet, il existe deux versions principales de l’Ars Almadel, connues par au
-                        moins six manuscrits en latin, et deux traductions en allemand datant du XVe
-                        siècle. Dans la première version, la plus proche de l’archétype oriental,
-                        l’Almandal est constitué d’une plaque de métal, alors que dans la seconde
-                        version, l’autel est fait en cire. Ces texte furent maintes fois recopiés,
-                        et transformés, et les différentes versions circulèrent à travers toute
-                        l’Europe à partir du Moyen Âge. L’Almandal fut traduit en anglais, en hébreu
-                        ou en allemand, et finalement en français entre la fin du XVIIIe et le début
-                        du XIXe siècle. Le texte retrouvé aux Archives départementales constituerait
-                        ainsi une étape particulière au sein de la chaîne de transmission de l’Ars
-                        Almadel du Moyen-Âge jusqu’à l’époque contemporaine. Selon toute
-                        vraisemblance, ce texte constitue la copie d’un prototype qui est
+                    <p>Au sein des Archives départementales d’Ille-et-Vilaine, un manuscrit classé
+                        sous la côte 5 Fb1 porte le nom de Liber Hynotheon. Transcrit sur du papier,
+                        il est constitué de 9 feuillets cousus ensemble. L’auteur indique que ce
+                        livret serait la traduction en latin d’une œuvre plus ancienne écrite en
+                        chaldéen, celle-ci recèlerait les secrets de la magie du très sage Salomon.
+                        L’œuvre révèle que le monde est divisé en différentes « altitudes » ou
+                        plans, chacune dénommée selon les points cardinaux : il y a neuf altitudes
+                        orientales, sept occidentales, cinq méridionales et trois septentrionales.
+                        Chacune d’entre elles porte un nom qui lui est propre, et les « princes »
+                        qui y demeurent possèdent des pouvoirs particuliers, comme par exemple celui
+                        de favoriser la croissance des fruits. Les princes d’une altitude donnée
+                        peuvent être invoqués à une heure et un jour précis, et à chaque altitude
+                        correspond une odeur et une couleur spécifiques. À la suite de préparatifs
+                        complexes (ou preparatio), et d’une mise en œuvre particulière (ou
+                        operatio), le traité indique comment parlementer avec un prince de
+                        l’altitude afin d’obtenir l’accomplissement de la « requête de son cœur
+                        (petitionem sui cordis) » (XIV, 2).</p>
+                    <p>L’origine de ce texte, comme son auteur ou les possesseurs successifs,
+                        restent encore inconnus. Comme les autres manuscrits de magie rassemblés à
+                        ses côtés au sein des Archives départementales d’Ille-et-Vilaine, il est
+                        vraisemblable que ce document provienne des archives du Parlement de
+                        Bretagne. La mention d’un pape, oiseau de Louisiane connu en France
+                        seulement à partir de 1758, constitue le seul indicateur temporel sûr. Il a
+                        dû être saisi ensuite par la justice, au moins avant la dissolution du
+                        Parlement (1790) : après 1682, la sorcellerie ne fut plus considérée comme
+                        un crime pour la justice. Les prétendus sorciers pouvaient encore être
+                        poursuivis pour escroquerie ou tromperie, ce qui justifierait la présence de
+                        ce manuscrit au sein des archives judiciaires bretonnes d’Ancien Régime. Il
+                        est difficile d’en dire plus, car le Liber Hynotheon a été séparé de
+                        l’ensemble des pièces et des minutes du procès auquel il devait être lié.
+                        Son aspect « pittoresque » tout comme son intérêt « ethnographique »
+                        justifiaient qu’il soit mis en avant par les archivistes, mais ce
+                        déplacement s’est fait au prix d’une perte dommageable d’informations.</p>
+                    <p>La source principale de ce texte semble être l’Ars Almadel, ou Almandal. Ce
+                        traité de magie rituelle est fameux : il servait à invoquer et à conjurer
+                        les anges par l’intermédiaire d’un autel de petite taille qui donne son
+                        titre au grimoire. Son nom indique une origine arabe, mais il aurait été
+                        conçu dans l’Iran ancien, voire même dans l’Extrême Orient. Après avoir été
+                        introduit en Europe, ses différentes avatars médiévaux ont été tout à fait
+                        christianisés. Selon Jean-Patrice Boudet, il existe deux versions
+                        principales de l’Ars Almadel, connues par au moins six manuscrits en latin,
+                        et deux traductions en allemand datant du XVe siècle. Dans la première
+                        version, la plus proche de l’archétype oriental, l’Almandal est constitué
+                        d’une plaque de métal, alors que dans la seconde version, l’autel est fait
+                        en cire. Ces texte furent maintes fois recopiés, et transformés, et les
+                        différentes versions circulèrent à travers toute l’Europe à partir du Moyen
+                        Âge. L’Almandal fut traduit en anglais, en hébreu ou en allemand, et
+                        finalement en français entre la fin du XVIIIe et le début du XIXe siècle. Le
+                        texte retrouvé aux Archives départementales constituerait ainsi une étape
+                        particulière au sein de la chaîne de transmission de l’Ars Almadel du
+                        Moyen-Âge jusqu’à l’époque contemporaine.</p>
+                    <p>Selon toute vraisemblance, ce texte constitue la copie d’un prototype qui est
                         aujourd’hui perdu. Les nombreuses corrections qui parsèment le manuscrit
                         semblent indiquer en effet que le copiste ne comprenait pas très bien ce
                         qu’il faisait. Seule certitude, le modèle principal de ce texte est une
@@ -207,28 +205,27 @@
                         servir » : des extraits des différents livres de la Bible, - Genèse, Psaumes
                         ou Apocalypse -, des notes prises à partir de textes de magie rituelle, ou
                         bien encore des concepts empruntés à Aristote ou à des traités de
-                        scolastique médiévaux. Le Liber Hynotheon est principalement le résultat
-                        d’une réécriture de l’Ars Almadel, dans le but notamment d’accroître «
-                        l’efficacité des rites, ou bien de simplifier la tradition, voire de
-                        christianiser des rites demeurés suspects ». Cet effort d’adaptation n’a
-                        rien en soi de particulièrement original : fin connaisseur de l’Almandal en
-                        particulier, et des traités de magie salomoniques en général, Julien
-                        Véronèse a notamment mis en avant les différentes dynamiques à l’œuvre dans
-                        la transmission de ce genre de textes. Si le travail de réécriture des
-                        traités de magie est permanent, ce phénomène a abouti avec le Liber
-                        Hynotheon à la formation d’une œuvre originale et unique. Et si les
-                        différentes versions « canoniques » de l’Almadel ont déjà éditées, le
-                        manuscrit rennais est par contre encore inédit. Les rituels magiques latins
-                        attribués à Salomon ont déjà fait l’objet de multiples travaux, plus
-                        particulièrement sur la période qui s’étend entre Antiquité et Moyen Âge,
-                        mais le Liber Hynotheon permet de poursuivre la chaîne de transmission de
-                        ces textes jusqu’aux Lumières. Ultime avatar des traités de magie médiévaux,
-                        annonciateur des textes ésotériques, ce traité est révélateur des dynamiques
-                        transitionnelles à l’œuvre entre l’ère moderne et le monde contemporain.
-                    </p>
+                        scolastique médiévaux.</p>
+                    <p>Le Liber Hynotheon est principalement le résultat d’une réécriture de l’Ars
+                        Almadel, dans le but notamment d’accroître « l’efficacité des rites, ou bien
+                        de simplifier la tradition, voire de christianiser des rites demeurés
+                        suspects ». Cet effort d’adaptation n’a rien en soi de particulièrement
+                        original : fin connaisseur de l’Almandal en particulier, et des traités de
+                        magie salomoniques en général, Julien Véronèse a notamment mis en avant les
+                        différentes dynamiques à l’œuvre dans la transmission de ce genre de textes.
+                        Si le travail de réécriture des traités de magie est permanent, ce phénomène
+                        a abouti avec le Liber Hynotheon à la formation d’une œuvre originale et
+                        unique. Et si les différentes versions « canoniques » de l’Almadel ont déjà
+                        éditées, le manuscrit rennais est par contre encore inédit. Les rituels
+                        magiques latins attribués à Salomon ont déjà fait l’objet de multiples
+                        travaux, plus particulièrement sur la période qui s’étend entre Antiquité et
+                        Moyen Âge, mais le Liber Hynotheon permet de poursuivre la chaîne de
+                        transmission de ces textes jusqu’aux Lumières. Ultime avatar des traités de
+                        magie médiévaux, annonciateur des textes ésotériques, ce traité est
+                        révélateur des dynamiques transitionnelles à l’œuvre entre l’ère moderne et
+                        le monde contemporain.</p>
                 </div>
             </div>
-
         </front>
 
         <body>
@@ -292,7 +289,7 @@
                         operationem suam et potentiam die Solis et eius hora Luna crescente in bona
                         dispositione et cum ista altitudine disponuntur natiuitates natorum ad bonum
                         uel malum finem aliqua mulier concipere uel non et arbores fructus facere in
-                        quantitate, uel non, et hæc similia. </p>
+                        quantitate, uel non, et hæc similia.</p>
                 </div>
                 <div n="3" type="section">
                     <p>Secunda altitudo. Hæc altitudo uocatur <name type="divin">Corora</name> et
@@ -341,7 +338,7 @@
                                         <lem resp="#NC">Yachanay</lem>
                                         <rdg wit="#ADIV_5Fb_1">Ijachanaij</rdg>
                                     </app>--></name>, <name type="divin"
-                            >Helem</name>, <name type="divin">Enthithoi</name>. </p>
+                            >Helem</name>, <name type="divin">Enthithoi</name>.</p>
                 </div>
                 <div n="5" type="section">
                     <p>Quarta altitudo. Hæc uocatur <name type="divin">Panteon</name> et principes
@@ -390,7 +387,7 @@
                             </choice><!--<app>
                                     <lem resp="#NC">Susceye</lem>
                                     <rdg wit="#ADIV_5Fb_1">Susceije</rdg>
-                                </app>--></name>. </p>
+                                </app>--></name>.</p>
                 </div>
                 <div n="6" type="section">
                     <p>Quinta altitudo. Hæc uocatur <name type="divin"><choice>
@@ -440,7 +437,7 @@
                             </choice><!--<app>
                                     <lem resp="#NC">Hanalay</lem>
                                     <rdg wit="#ADIV_5Fb_1">Hanalaij</rdg>
-                                </app>--></name>. </p>
+                                </app>--></name>.</p>
                 </div>
                 <div n="7" type="section">
                     <p>Sexta altitudo. Hæc uocatur <name type="divin">Noxin</name>, et principes,
@@ -489,7 +486,7 @@
                             </choice><!--<app>
                                     <lem resp="#NC">Alay</lem>
                                     <rdg wit="#ADIV_5Fb_1">Alaij</rdg>
-                                </app>--></name>. </p>
+                                </app>--></name>.</p>
                 </div>
                 <div n="8" type="section">
                     <p>Septima altitudo. Hæc altitudo appellatur <name type="divin">Creor</name> et
@@ -552,7 +549,7 @@
                             </choice><!--<app>
                                     <lem resp="#NC">Clyominth</lem>
                                     <rdg wit="#ADIV_5Fb_1">Clijominth</rdg>
-                                </app>--></name>. </p>
+                                </app>--></name>.</p>
                 </div>
                 <div n="9" type="section">
                     <p>Octaua altitudo. Hæc altitudo appellatur <name type="divin">Sapheth</name> et
@@ -578,7 +575,7 @@
                             </choice><!--<app>
                                     <lem resp="#NC">Alphanay</lem><rdg resp="#NC">Alphanaij</rdg>
                                 </app>--></name>, <name type="divin"
-                            >Ladatin</name>. </p>
+                            >Ladatin</name>.</p>
                 </div>
                 <div n="10" type="section">
                     <p>Nona altitudo. Hæc uocatur <name type="divin">Suphor</name> et principes qui
@@ -613,7 +610,7 @@
                                 <corr resp="#NC">Gratyn</corr>
                             </choice><!--<app>
                                     <lem resp="#NC">Gratyn</lem><rdg resp="#NC">Gratijn</rdg>
-                                </app>--></name>. </p>
+                                </app>--></name>.</p>
                 </div>
                 <div n="11" type="section">
                     <p>Et est sciendum quod omnes hæ altitudines habent uirtutem suam die solis, et
@@ -626,7 +623,7 @@
                 <div n="1" type="section">
                     <p>Tractatus secundus de altitudinibus occidentalibus, meridionalibus
                             <del>meridionalib</del> et septentrionalibus. In primis tractandum est
-                        de occidentalibus quæ sunt septem et primum de prima. </p>
+                        de occidentalibus quæ sunt septem et primum de prima.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Prima altitudo occidentalis. Hæc altitudo occidentalis uocatur <name
@@ -709,7 +706,7 @@
                                     <lem resp="#NC">Machdeynchi</lem><rdg resp="#NC">Machdeijnchi</rdg>
                                 </app>--></name>, <name type="divin"
                             >Nobemarach</name>
-                        <del>Noberiarach</del>. </p>
+                        <del>Noberiarach</del>.</p>
                 </div>
                 <div n="5" type="section">
                     <p>Quarta altitudo. Hæc uocatur <name type="divin">Chrimehit</name>, et
@@ -744,7 +741,7 @@
                                 <corr resp="#NC">Alyabith</corr>
                             </choice><!--<app>
                                     <lem resp="#NC">Alyabith</lem><rdg resp="#NC">Alijabith</rdg>
-                                </app>--></name>. </p>
+                                </app>--></name>.</p>
                 </div>
                 <div n="6" type="section">
                     <p>Quinta altitudo. Hæc uocatur <name type="divin">Giephatin</name>, et
@@ -769,7 +766,7 @@
                                 <corr resp="#NC">Camyn</corr>
                             </choice><!--<app>
                                     <lem resp="#NC">Camyn</lem><rdg resp="#NC">Camijn</rdg>
-                                </app>--></name>. </p>
+                                </app>--></name>.</p>
                 </div>
                 <div n="7" type="section">
                     <p>Sexta altitudo. Hæc uocatur <name type="divin">Agusth</name> et principes qui
@@ -1043,7 +1040,7 @@
                         faciant quidquid uolunt uel non, ut eis uidetur. Nomina principum huius
                         altitudinis sunt <name type="divin">Auubzelon</name>, <name type="divin"
                             >Zharahol</name>, <name type="divin">Raphahasel</name>, <name
-                            type="divin">Zechriahauel</name>, <name type="divin">Naniel</name>. </p>
+                            type="divin">Zechriahauel</name>, <name type="divin">Naniel</name>.</p>
                 </div>
                 <div n="4" type="section">
                     <p>Et est sciendum quod omnes hæ altitudines habent uirtutem et <pb n="9"
@@ -1175,7 +1172,7 @@
                         eadem cera ut in exemplo, longitudinis palmi semis et latitudinis ad
                         proportionem. Et hæc debet esse uacua et supra primam capsulam candelæ
                         septem debent permanere et supra capsulam debent esse foramina mittendi
-                        dictas candelas. </p>
+                        dictas candelas.</p>
                 </div>
                 <div n="3" type="section">
                     <p>Cauendum autem est ne aliqua illius candelæ <add place="supra linea">t</add>
@@ -1301,7 +1298,7 @@
                         </choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
                                         <rdg wit="#ADIV_5Fb_1">uiridi</rdg>
-                                    </app>--> coloris. </p>
+                                    </app>--> coloris.</p>
                 </div>
                 <div n="6" type="section">
                     <p>Nunc <choice>
@@ -1377,11 +1374,11 @@
                 <div n="1" type="section">
                     <p>Et est sciendum quod omnes altitudines orientales habent potentiam suam et
                         uirtutem die solis et eius hora et tempus operationis est <del>et</del> a
-                        principio diei solis usque ad meridiem. </p>
+                        principio diei solis usque ad meridiem.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Omnes altitudines occidentales habent uirtutem et potentiam suam die ♂, id
-                        est Martis, et tempus operationis est a meridie usque ad occasum. </p>
+                        est Martis, et tempus operationis est a meridie usque ad occasum.</p>
                 </div>
                 <div n="3" type="section">
                     <p>Omnes altitudines meridionales habent potentiam suam in nocte
@@ -1392,7 +1389,7 @@
                                         <lem resp="#NC">est</lem>
                                         <rdg wit="#ADIV_5Fb_1">et</rdg>
                                     </app>--> incipiendum a tertia hora
-                        noctis usque ad octauam. </p>
+                        noctis usque ad octauam.</p>
                 </div>
                 <div n="4" type="section">
                     <p>Omnes altitudines <choice>
@@ -1405,7 +1402,7 @@
                         suam ♄, id est Saturni, et in eius hora luna decrescente si ad malum finem,
                         si autem ad bonum finem in nocte ☿, id est Mercurii, incipiendo a secunda
                             (<add place="in margine">uelaia</add><supplied>uel a prima</supplied>)
-                        hora noctis usque ad nonam operatione luna crescente in pari numero. </p>
+                        hora noctis usque ad nonam operatione luna crescente in pari numero.</p>
                 </div>
                 <div n="5" type="section">
                     <p>Sciendum etiam et quod omnia sanctissima Hahelam sunt facienda ut primum <choice>
@@ -1505,7 +1502,7 @@
                         </choice><!--<app>
                                         <lem resp="#NC">benzoini</lem>
                                         <rdg wit="#ADIV_5Fb_1">belguioni</rdg>
-                                    </app>-->. </p>
+                                    </app>-->.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Nunc sequuntur suffumigationes altitudinum occidentalium. <pb n="16"
@@ -1540,7 +1537,7 @@
                         </choice><!--<app>
                                         <lem resp="#NC">phiæ</lem>
                                         <rdg wit="#ADIV_5Fb_1">phie</rdg>
-                                    </app>--> et anglicæ. </p>
+                                    </app>--> et anglicæ.</p>
                 </div>
                 <div n="3" type="section">
                     <p>Nunc sequuntur suffumigationes altitudinum meridionalium. Prima altitudo
@@ -1559,7 +1556,7 @@
                         </choice><!--<app>
                                         <lem resp="#NC">asari</lem>
                                         <rdg wit="#ADIV_5Fb_1">assari</rdg>
-                                    </app>--> et ligni aloes. </p>
+                                    </app>--> et ligni aloes.</p>
                 </div>
                 <div n="4" type="section">
                     <p>Sequuntur suffumigationes altitudinium septentrionalium. Prima cum odoribus
@@ -1573,7 +1570,7 @@
                         occidentales, meridionales et septentrionales, sint incipiendæ istæ
                         operationes tempore sereno et claro et non nubiloso luna crescente in pari
                         numero ; si autem ad malum finem incipiendæ modo contrario id est tempore
-                        nubiloso. </p>
+                        nubiloso.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Nota quod <choice>
@@ -1584,7 +1581,7 @@
                                         <rdg wit="#ADIV_5Fb_1">stillum</rdg>
                                     </app>--> argenteum est fabricandum die
                         solis hora ☿ id est Mercurii luna crescente et cum illo scribe nomina :
-                        sanctum est <name type="divin">Stælaon</name>. </p>
+                        sanctum est <name type="divin">Stælaon</name>.</p>
                 </div>
                 <div n="3" type="section">
                     <p>Nota quod in secunda capsula scribi debet tempore operationis (finita <choice>
@@ -1597,12 +1594,12 @@
                         imperatoris et creatoris <pb n="17"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-17.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-17"/>omnium creaturarum quod
-                        est + <name type="divin">Thethagramaton</name> ut in exemplo. </p>
+                        est + <name type="divin">Thethagramaton</name> ut in exemplo.</p>
                 </div>
                 <div n="4" type="section">
                     <p>Nota quod omnes principes omnium altitudinum habent colores et odores pro eo
                         quod iussu Dei omnipotentis regunt et gubernant mundum et faciunt nasci et
-                        corrumpi <del>corumpi</del> colores et odores ut eis uidetur. </p>
+                        corrumpi <del>corumpi</del> colores et odores ut eis uidetur.</p>
                 </div>
                 <div n="5" type="section">
                     <p>Nota quod sanctissimum <name type="divin">Stahelaon</name> ut diximus est
@@ -1615,7 +1612,7 @@
                                         <lem resp="#NC">suffumigandum</lem>
                                         <rdg wit="#ADIV_5Fb_1">suffumagandum</rdg>
                                     </app>--> est odoribus propriis
-                        altitudinis et tempore operationis illo uti ut dicendum est. </p>
+                        altitudinis et tempore operationis illo uti ut dicendum est.</p>
                 </div>
                 <div n="6" type="section">
                     <p>Nota quod nomina et signa ex utraque parte capsulæ scribenda sunt et in aliis
@@ -1626,13 +1623,13 @@
                 <div n="1" type="section">
                     <p>De preparationibus artistæ. Ante operationem, oportet ut artista sit secretus
                         et solus uel cum uno socio fidelissimo et habeat cubiculum mundatum ab omni
-                        sorde et immunditia. </p>
+                        sorde et immunditia.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Et illud ante preparationem suffumiget et cum odoribus illius altitudinis
                         quod efficere uult per spatium quinque dierum bis in die finitis quinque
                         diebus, debet ieiunare tres dies et mane et sero etiam suffumigare cubiculum
-                        odoribus propriis illius altitudinis. </p>
+                        odoribus propriis illius altitudinis.</p>
                 </div>
                 <div n="3" type="section">
                     <p>Finita suffumigatione, recitare debet psalmos patris nostri <persName
@@ -1662,7 +1659,7 @@
                                         <rdg wit="#ADIV_5Fb_1">uoleam</rdg>
                                     </app>--> facere operationem meam quam
                         uolo incipere et tantam gratiam concedere ut petitionem cordis mei habeat
-                        absque fallacia per tuam maximam uirtutem et potestatem. </p>
+                        absque fallacia per tuam maximam uirtutem et potestatem.</p>
                 </div>
                 <div n="3" type="section">
                     <p>Domine, Deus meus, auribus percipe orationem meam et intende
@@ -1708,7 +1705,7 @@
                         Deus <name type="divin">Iahoua</name>, Deus <name type="divin">Cados</name>
                         et Deus omnium in te sperantium, Deus uirtuosissimus atque sapientissimus et
                         seruator cordium, miserere mei et intende uoci deprecationis meæ dum oro ad
-                        te, <del>deum</del> dum extollo manus meas ad templum sanctum tuum. </p>
+                        te, <del>deum</del> dum extollo manus meas ad templum sanctum tuum.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Tu autem <del>domine</del>, Deus meus, suauis et <choice>
@@ -1765,7 +1762,7 @@
                                         <lem resp="#NC">scientiam</lem>
                                         <rdg wit="#ADIV_5Fb_1">scientia</rdg>
                                     </app>-->, spiritus, sensu impleuisti
-                        cor illorum, et mala et bona ostendisti illis. </p>
+                        cor illorum, et mala et bona ostendisti illis.</p>
                 </div>
                 <div n="5" type="section">
                     <p>Recordare, benignissime Deus quoniam dixisti in æternum misericordia
@@ -1792,7 +1789,7 @@
                         Et est scribendum dictum sanctum nomen in secunda capsula, ut dictum est, et
                         artista habeat petitionem scriptam in carta uirginea et mittat <add
                             place="in margine">uel u</add> illam prope sigillum, ut supra
-                        adnotauimus. </p>
+                        adnotauimus.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Et postea, cum maxima ueneratione, candelas accendat sanctissimi Stahelaon ;
@@ -1827,19 +1824,19 @@
                                         <lem resp="#NC">serico</lem>
                                         <rdg wit="#ADIV_5Fb_1">seic</rdg>
                                     </app>--> eiusdem coloris cum croco
-                            <del>aqua</del> aqua rosarum et musco. </p>
+                            <del>aqua</del> aqua rosarum et musco.</p>
                 </div>
                 <div n="5" type="section">
                     <p>Et sciendum est quod sigilla altitudinum orientalum sunt scribenda calamo
                         aquilino et etiam caractera principum. Sigilla altitudinum occidentalium
-                        sunt scribenda et caractera principum calamo pauonis. </p>
+                        sunt scribenda et caractera principum calamo pauonis.</p>
                 </div>
                 <div n="6" type="section">
                     <p>Sigilla altitudinum meridionalium et etiam caractera principum sunt scribenda
                         calamo ~ papæ, extracto ex ala sinistra. Sigilla altitudinum
                         septentrionalium ac etiam caractera principum scribenda sunt cum calamo
                         hirundinis extracto ex ala dextra si ad bonum finem sunt, si ad malum finem
-                        calamo galli nigri. </p>
+                        calamo galli nigri.</p>
                 </div>
                 <div n="7" type="section">
                     <p>Hæc sunt sigilla et caractera altitudinum occidentalium, postea uero
@@ -1878,7 +1875,7 @@
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-25"/> Est enim sciendum quod
                         sigillum altitudinis et caractera principum sunt scribenda hora operationis
                         ab artista et sunt mittenda in foramine et postea illud claudatur et artista
-                        sequatur operationem suam. </p>
+                        sequatur operationem suam.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Nos supra diximus quod artista genuflexus suffumigare debet sanctissimum
@@ -1892,7 +1889,7 @@
                             <persName>Abraham</persName>, Deus <persName>Israel</persName> » &amp;
                         est dicenda ante primam horam illius planetæ, quæ <del>qua</del> operatur
                         altitudo. Etiam est sciendum quod artista, dum scribit sigillum altitudinis
-                        et caractera principum debet etiam genuflexus permanere. </p>
+                        et caractera principum debet etiam genuflexus permanere.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Hæc est inuocatio seu coniuratio principum altitudinis et est dicenda ab
@@ -2328,7 +2325,7 @@
                                         <lem resp="#NC">rosmarino</lem>
                                         <rdg wit="#ADIV_5Fb_1">rosma uino</rdg>
                                     </app>--> accensos et super illos
-                        proiiciat de odoribus altitudinis. </p>
+                        proiiciat de odoribus altitudinis.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Et quam cito ipse sentiat odores, tunc dulciter <choice>
@@ -2340,7 +2337,7 @@
                                     </app>--> artistæ. Et dicet « quid petis
                         ? adquid uocatis principes nostræ altitudinis ? ». Et artista cum
                         ueneratione respondeat ut « hæc petitio quæ eis ex officio incumbit, mihi ab
-                        eis sit concedenda ». </p>
+                        eis sit concedenda ».</p>
                 </div>
                 <div n="3" type="section">
                     <p>Et debet artista dicere suam petitionem non petendo aliquid quod non
@@ -2375,13 +2372,13 @@
                         sigillo magni Dei, sigilla, candelas sancti Hahelaon, in pari numero, et
                         postea ad locum suum repones sigillum et reitera per duas alias uices
                         inuocationem, et procul dubio, antequam lumen ueniat, ad figuram sigilli,
-                        nuntius apparebit et quidquid uoleris obtinebis. </p>
+                        nuntius apparebit et quidquid uoleris obtinebis.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Postquam princeps dabit artistæ nomen ignotum et petitionem cordis sui
                         satisfecerit, artista <del>debebit</del> debet genuflexus iterum suffimigium
                         illi facere cum odoribus illius altitudinis et finito dicere cum ueneratione
-                        : </p>
+                        :</p>
                 </div>
                 <div n="3" type="section">
                     <p>« Maximas gratias ago uobis principibus altitudinis », et debet nominare
@@ -2406,7 +2403,7 @@
                 <div n="1" type="section">
                     <p>Scias, o Artista, quod quando operationem tuam facis, debes te uestire ueste
                         alba ut subucula sacerdotalis, et in ueste sunt scribenda cum coloribus
-                        altitudinis hæc nomina et caractera ut exemplo apparebit. </p>
+                        altitudinis hæc nomina et caractera ut exemplo apparebit.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Et postquam <choice>
@@ -2417,12 +2414,12 @@
                                         <rdg wit="#ADIV_5Fb_1">siue peris</rdg>
                                     </app>--> suffumigare illam odoribus
                         altitudinis. Et nota quod in ueste scribere debes nomina et caractera die ☿,
-                        id est Mercurii, et hora solis, luna crescente, in pari numero. </p>
+                        id est Mercurii, et hora solis, luna crescente, in pari numero.</p>
                 </div>
                 <div n="3" type="section">
                     <p>Et postea illam seruare in loco mundissimo, et tempore operationis (non
                         preparationis) se uestire illa, et finita operatione illam lauare aqua
-                        rosarum et seruare. </p>
+                        rosarum et seruare.</p>
                 </div>
                 <div n="4" type="section">
                     <p>Et in omnibus altitudinibus sunt scribenda nomina et nulla alia differentia
@@ -2436,7 +2433,7 @@
                 </div>
                 <div n="5" type="section">
                     <p>Et scias, o Artista, quod melior est liber hic quam thesaurum, quoniam si
-                        feceris operationes altitudinis, habebis quidquid optaueris. </p>
+                        feceris operationes altitudinis, habebis quidquid optaueris.</p>
                 </div>
                 <div n="6" type="section">
                     <p>Et scias quod omnes altitudines operati sumus. Et uerae sunt quoniam habuimus
@@ -2476,7 +2473,7 @@
                     <p>Idcirco sigillum est fabricandum die ♃, id est Iouis, uel solis, hora ☿, id
                         est Mercurii, et nomina et signa ut in exemplo sunt sculpenda die solis uel
                         ♀, luna <del>cresce</del> crescente, in pari numero et eius hora uel hora
-                        Iouis. </p>
+                        Iouis.</p>
                 </div>
                 <div n="3" type="section">
                     <p>Et postquam sigillum erit completum, suffumigare illud debet artista cum
@@ -2512,7 +2509,7 @@
                 <div n="4" type="section">
                     <p>Et scias quod sufficit in omnibus altitudinibus hoc sigilum et etiam quod
                         finita operatione illud est seruandum in panno serico rubeo cum odoribus et
-                        est mittendum in capsula lignea cum maxima ueneratione. </p>
+                        est mittendum in capsula lignea cum maxima ueneratione.</p>
                 </div>
                 <div n="5" type="section">
                     <p>Scias quod finita suffumigatione cum ueneratione genuflexus debes <choice>
@@ -2584,7 +2581,7 @@
                         </choice><!--<app>
                                         <lem resp="#NC">luminaria</lem>
                                         <rdg wit="#ADIV_5Fb_1">luminam</rdg>
-                                    </app>--> magna, solem et lunam, </p>
+                                    </app>--> magna, solem et lunam,</p>
                 </div>
                 <div n="4" type="section">
                     <p>Deus <choice>
@@ -2982,11 +2979,11 @@
                                 Arphel, Alahanay, et Zadam ». L’auteur de la Cabale divine a lu dans
                                 sa source religione (« religion »), celui du Liber Hynotheon regione
                                 (« région »). Ceci peut s’expliquer par l’insistance mise sur la
-                                vitesse et la rapidité de l’action.</note>. </p>
+                                vitesse et la rapidité de l’action.</note>.</p>
                     </div>
                     <div n="10" type="section" xml:id="p3-4-ante" next="#p3-4-post">
                         <p>Neuvième altitude. On appelle Suphor et les princes qui y demeurent ont
-                            le pouvoir </p>
+                            le pouvoir</p>
                     </div>
                 </div>
                 <div n="p4" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-4">
@@ -3415,7 +3412,7 @@
                 </div>
                 <div n="p11" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-11">
                     <div n="5" type="section" xml:id="p10-11-post" prev="#p10-11-ante">
-                        <p> Pour la première altitude, on le confectionne avec de la cire de couleur
+                        <p>Pour la première altitude, on le confectionne avec de la cire de couleur
                             verte. Il est de même pour les cierges. Pour la seconde, celui de la
                             seconde, avec de la cire rouge. Pour la troisième, celui de la troisième
                             avec de la cire dorée. Pour la quatrième, celui de la quatrième avec de
@@ -3652,7 +3649,7 @@
                 </div>
                 <div n="p17" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-17">
                     <div n="3" type="section" xml:id="p16-17-post" prev="#p16-17-ante">
-                        <p> de toutes les créatures qui est Thethagramaton, comme sur le dessin.</p>
+                        <p>de toutes les créatures qui est Thethagramaton, comme sur le dessin.</p>
                     </div>
                     <div n="4" type="section">
                         <p>Note que tous les princes de toutes les altitudes ont des couleurs et des
@@ -3902,7 +3899,7 @@
                 </div>
                 <div n="p20" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-20">
                     <div n="4" type="section" xml:id="p19-20-post" prev="#p19-20-ante">
-                        <p> que les sceaux et les caractères des princes doivent être écrits sur un
+                        <p>que les sceaux et les caractères des princes doivent être écrits sur un
                             papier vierge, avec les couleurs caractéristiques de cette altitude, ou
                             sur une pièce d’étoffe de soie de la même couleur, avec du safran, de
                             l’eau de rose et du musc.</p>
@@ -4160,8 +4157,8 @@
                 </div>
                 <div n="p28" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-28">
                     <div n="1" type="section" xml:id="p27-28-post" prev="#p27-28-ante">
-                        <p> avec la plus grande vénération, les mains lavées à l’eau de rose, avec
-                            le sceau du grand Dieu<note n="72" place="bottom">Il est probable que
+                        <p>avec la plus grande vénération, les mains lavées à l’eau de rose, avec le
+                            sceau du grand Dieu<note n="72" place="bottom">Il est probable que
                                 l’auteur voulait plutôt dire le « grand sceau de Dieu (sigillo magno
                                 Dei) », et non sigillo magni Dei, comme dans Figura septima : Hoc
                                 est sigillum magnum Dei.</note>, les sceaux et les chandelles du
