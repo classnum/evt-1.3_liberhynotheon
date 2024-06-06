@@ -1853,7 +1853,7 @@
             <div n="fig4" type="figure">
                 <p><pb n="22" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-22.jpg"
                         xml:id="liber_hynotheon_ms_adiv_5fb1_page-22"/>Figura quarta. Sigillum
-                    secundæ altitudinis orientalis 2.</p>
+                    secundæ altitudinis orientalis 2</p>
             </div>
 
             <div n="fig5a" type="figure">
@@ -2437,7 +2437,8 @@
                 </div>
                 <div n="6" type="section">
                     <p>Et scias quod omnes altitudines operati sumus. Et uerae sunt quoniam habuimus
-                        optatum nostrum. Et liber iste uere uocari posest thesaurum thesaurorum.</p>
+                        optatum nostrum. Et liber iste uere uocari posest thesaurum thesaurorum.
+                        Finis</p>
                 </div>
             </div>
 
@@ -3144,16 +3145,16 @@
                             <div n="2" type="section" xml:id="p6-7-ante" next="#p6-7-post">
                                 <p>Seconde altitude. On l’appelle Ahahager, et les princes qui y
                                     demeurent ont de l’efficience et de la puissance sur tous les
-                                    poisons reconnus et inconnus. Ils font périr les hommes </p>
+                                    poisons reconnus et inconnus. Ils font périr les hommes, ou</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div n="p7" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-7">
                     <div n="2" type="section" xml:id="p6-7-post" prev="#p6-7-ante">
-                        <p>, ou non, ils font s’ouvrir et se refermer les terres, comme il leur
-                            semble bon. Les noms des princes de cette altitude sont Agariel,
-                            Animirnaornus, Byleth, Sathouiel, Mahardahel.</p>
+                        <p>non, ils font s’ouvrir et se refermer les terres, comme il leur semble
+                            bon. Les noms des princes de cette altitude sont Agariel, Animirnaornus,
+                            Byleth, Sathouiel, Mahardahel.</p>
                     </div>
                     <div n="3" type="section">
                         <p>Troisième altitude. On l’appelle Aehechym, et les princes qui y demeurent
@@ -3841,17 +3842,9 @@
                     </div>
                     <div n="6" type="section">
                         <p>Et ceci doit être préparé avant que le maître de l’Art n’entame son
-                            opération.</p>
+                            opération. Note</p>
                     </div>
-
-                    <div n="12" type="chapitre">
-                        <div n="1" type="section" xml:id="p19-20-ante" next="#p19-20-post">
-                            <p>Note</p>
-                        </div>
-                    </div>
-                </div>
-                <div n="p20" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-20">
-                    <div n="1" type="section" xml:id="p19-20-post" prev="#p19-20-ante">
+                    <div n="1" type="section">
                         <p>que pendant que le maître de l’Art prie à genoux, il faut que six cierges
                             soient allumés sur l’autel. Lorsque la prière susdite est terminée, il
                             devra écrire avec la plus grande dévotion le grand et terrible Nom,
@@ -3900,10 +3893,15 @@
                             des princes dans le trou, il doit suffumiger ceux-ci avec leurs odeurs
                             caractéristiques.</p>
                     </div>
-                    <div n="4" type="section">
-                        <p>Note que les sceaux et les caractères des princes doivent être écrits sur
-                            un papier vierge, avec les couleurs caractéristiques de cette altitude,
-                            ou sur une pièce d’étoffe de soie de la même couleur, avec du safran, de
+                    <div n="4" type="section" xml:id="p19-20-ante" next="#p19-20-post">
+                        <p>Note</p>
+                    </div>
+                </div>
+                <div n="p20" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-20">
+                    <div n="4" type="section" xml:id="p19-20-post" prev="#p19-20-ante">
+                        <p> que les sceaux et les caractères des princes doivent être écrits sur un
+                            papier vierge, avec les couleurs caractéristiques de cette altitude, ou
+                            sur une pièce d’étoffe de soie de la même couleur, avec du safran, de
                             l’eau de rose et du musc.</p>
                     </div>
                     <div n="5" type="section">
@@ -3936,7 +3934,6 @@
                             :</p>
                     </div>
                 </div>
-
                 <div n="p21" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-21">
                     <div n="fig3" type="figure">
                         <p>Figure 3. Sceau de la première altitude orientale. Caractères des
