@@ -2653,7 +2653,7 @@
         <back>
             <div n="Liber Hynotheon" type="translation" xml:id="liberhynotheon_fr" xml:lang="fr">
 
-                <div n="p1" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-1">
+                <div n="1" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-1">
                     <div n="1" type="chapitre">
                         <div n="1" type="section">
                             <p>Au nom du Seigneur Jésus Christ. Ceci est le livre Hynothéon<note
@@ -2768,7 +2768,7 @@
                         </div>
                     </div>
 
-                    <div n="p2" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-2">
+                    <div n="2" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-2">
                         <div n="4" type="section">
                             <p>Troisième altitude. On l’appelle Hermoy et elle exerce son pouvoir
                                 sur les amis, les frères, les proches et les voisins, et sur le
@@ -2887,7 +2887,7 @@
                                 sur les États </p>
                         </div>
                     </div>
-                    <div n="p3" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-3">
+                    <div n="3" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-3">
                         <div n="7" type="section">
                             <p>du monde. De région en région, ils font se mouvoir et changent les
                                 monarchies, les empires et les seigneuries du monde, par un
@@ -3004,7 +3004,7 @@
                                 ont le pouvoir </p>
                         </div>
                     </div>
-                    <div n="p4" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-4">
+                    <div n="4" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-4">
                         <!-- AB. Ici et ci-dessous, exemple de jointure d'éléments non continus par les attributs next/prev
                                 (https://www.tei-c.org/release/doc/tei-p5-doc/en/html/NH.html#NHVE),
                                 pour aider à choisir une solution d'encodage des sauts de page dans la traduction. -->
@@ -3077,7 +3077,7 @@
                                     noms des princes de cette altitude sont</p>
                             </div>
                         </div>
-                        <div n="p5" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-5">
+                        <div n="5" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-5">
                             <div n="3" type="section">
                                 <p>Briel, Malamacoy, Malachim, Radasieh, Baidahath, Odmachiel.</p>
                             </div>
@@ -3143,7 +3143,7 @@
                                     Bachay, Son, Balchochanth, Anay, Anyal, Salmet, Chamæl.</p>
                             </div>
                         </div>
-                        <div n="p6" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6">
+                        <div n="6" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6">
                             <div n="8" type="section">
                                 <p>Septième et ultime altitude occidentale. On l’appelle Steher, et
                                     les princes qui y demeurent ont la puissance de dévoiler un vol,
@@ -3179,7 +3179,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div n="p7" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-7">
+                            <div n="7" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-7">
                                 <div n="2" type="section">
                                     <p>, ou non, ils font s’ouvrir et se refermer les terres, comme
                                         il leur semble bon. Les noms des princes de cette altitude
@@ -3228,7 +3228,7 @@
                                         <p>Des altitudes septentrionales, au nombre de trois.</p>
                                     </div>
                                 </div>
-                                <div n="p8" type="page"
+                                <div n="8" type="page"
                                     corresp="#liber_hynotheon_ms_adiv_5fb1_page-8">
                                     <div n="1" type="section">
                                         <p>Première altitude. On appelle celle-ci Hahanahor, et les
@@ -3279,7 +3279,7 @@
                                             efficience et</p>
                                     </div>
                                 </div>
-                                <div n="p9" type="page"
+                                <div n="9" type="page"
                                     corresp="#liber_hynotheon_ms_adiv_5fb1_page-9">
                                     <div n="4" type="section">
                                         <p>leur pouvoir le jour ♄ c’est-à-dire celui de Saturne, et
@@ -3423,7 +3423,7 @@
                                                 Cependant, quand le Saint Stæleoin</p>
                                         </div>
                                     </div>
-                                    <div n="p10" type="page"
+                                    <div n="10" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-10">
                                         <div n="3" type="section">
                                             <p>a été confectionné, que soit fait un sceau sur lequel
@@ -3510,7 +3510,7 @@
                                                 occidentales.</p>
                                         </div>
                                     </div>
-                                    <div n="p11" type="page"
+                                    <div n="11" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-11">
                                         <div n="5" type="section">
                                             <p> Pour la première altitude, on le confectionne avec
@@ -3552,7 +3552,7 @@
                                     </div>
                                     <!-- AB. Ici, exemple d'intégration des figures : ce sont des pages normales, n'est-ce pas ?
                         Je ne comprends pas la nécessité d'un balisage spécifique.-->
-                                    <div n="p13" type="page"
+                                    <div n="13" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-13">
                                         <div n="fig1" type="figure">
                                             <p>Figure 1. La manière dont doit être façonné le saint
@@ -3562,7 +3562,7 @@
                                                 Anbona. 4 : Yhehoua.</p>
                                         </div>
                                     </div>
-                                    <div n="p14" type="page"
+                                    <div n="14" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-14">
                                         <div n="fig2" type="figure">
                                             <p>Figure 2. Sur le second coffret : THETHAGRAMMATON.
@@ -3571,7 +3571,7 @@
                                                 4 : Ihehoua.</p>
                                         </div>
                                     </div>
-                                    <div n="p15" type="page"
+                                    <div n="15" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-15">
                                         <div n="6" type="chapitre">
                                             <div n="1" type="section">
@@ -3717,7 +3717,7 @@
                                                   occidentales.</p>
                                             </div>
                                         </div>
-                                        <div n="p16" type="page"
+                                        <div n="16" type="page"
                                             corresp="#liber_hynotheon_ms_adiv_5fb1_page-16">
                                             <div n="2" type="section">
                                                 <p>Il faut suffumiger la première altitude
@@ -3816,7 +3816,7 @@
                                                   Créateur</p>
                                             </div>
                                         </div>
-                                        <div n="p17" type="page"
+                                        <div n="17" type="page"
                                             corresp="#liber_hynotheon_ms_adiv_5fb1_page-17">
                                             <div n="3" type="section">
                                                 <p> de toutes les créatures qui est Thethagramaton,
@@ -3914,7 +3914,7 @@
                                                   tel").</p>
                                             </div>
                                         </div>
-                                        <div n="p18" type="page"
+                                        <div n="18" type="page"
                                             corresp="#liber_hynotheon_ms_adiv_5fb1_page-18">
                                             <div n="2" type="section">
                                                 <p>et que tu m’accordes de pouvoir et vouloir faire
@@ -4010,7 +4010,7 @@
                                                   terre.</p>
                                             </div>
                                         </div>
-                                        <div n="p19" type="page"
+                                        <div n="19" type="page"
                                             corresp="#liber_hynotheon_ms_adiv_5fb1_page-19">
                                             <div n="4" type="section">
                                                 <p>Tu l’as fait craindre de toute chair, et lui as
@@ -4070,7 +4070,7 @@
                                                 <p>Note</p>
                                             </div>
                                         </div>
-                                        <div n="p20" type="page"
+                                        <div n="20" type="page"
                                             corresp="#liber_hynotheon_ms_adiv_5fb1_page-20">
                                             <div n="1" type="section">
                                                 <p>que pendant que le maître de l’Art prie à genoux,
@@ -4184,28 +4184,28 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div n="p21" type="page"
+                                    <div n="21" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-21">
                                         <div n="fig3" type="figure">
                                             <p>Figure 3. Sceau de la première altitude orientale.
                                                 Caractères des princes</p>
                                         </div>
                                     </div>
-                                    <div n="p22" type="page"
+                                    <div n="22" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-22">
                                         <div n="fig4" type="figure">
                                             <p>Figure 4. Sceau de la seconde altitude orientale
                                                 2</p>
                                         </div>
                                     </div>
-                                    <div n="p23" type="page"
+                                    <div n="23" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-23">
                                         <div n="fig5" type="figure">
                                             <p>Figure 5. Sceau de la troisième altitude</p>
                                         </div>
                                     </div>
 
-                                    <div n="p25" type="page"
+                                    <div n="25" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-25">
                                         <div n="13" type="chapitre">
                                             <div n="1" type="section">
@@ -4332,7 +4332,7 @@
                                                   Abuinon, Ydios,</p>
                                             </div>
                                         </div>
-                                        <div n="p26" type="page"
+                                        <div n="26" type="page"
                                             corresp="#liber_hynotheon_ms_adiv_5fb1_page-26">
                                             <div n="2" type="section">
                                                 <p>Tetragrammaton, Emanuel, Adonay, Agloto,
@@ -4375,7 +4375,7 @@
                                                   Mesahh, Tazahh,</p>
                                             </div>
                                         </div>
-                                        <div n="p27" type="page"
+                                        <div n="27" type="page"
                                             corresp="#liber_hynotheon_ms_adiv_5fb1_page-27">
                                             <div n="2" type="section">
                                                 <p>Nispha, Abtyso, Abhelahb Ylen, Eyhelnas, Rasni,
@@ -4463,7 +4463,7 @@
                                                   dire trois fois l’invocation,</p>
                                             </div>
                                         </div>
-                                        <div n="p28" type="page"
+                                        <div n="28" type="page"
                                             corresp="#liber_hynotheon_ms_adiv_5fb1_page-28">
                                             <div n="1" type="section">
                                                 <p> avec la plus grande vénération, les mains lavées
@@ -4560,7 +4560,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div n="p29" type="page"
+                                    <div n="29" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-29">
                                         <div n="fig6" type="figure">
                                             <p>Figure 6. Dessin de la tenue du maître de l’Art. Sur
@@ -4570,7 +4570,7 @@
                                                 » : ELCANA, caractères, ELIMELGH, caractères.</p>
                                         </div>
                                     </div>
-                                    <div n="p31" type="page"
+                                    <div n="31" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-31">
                                         <div n="19" type="chapitre">
                                             <div n="1" type="section">
@@ -4753,7 +4753,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div n="p33" type="page"
+                                    <div n="33" type="page"
                                         corresp="#liber_hynotheon_ms_adiv_5fb1_page-33">
                                         <div n="fig7" type="figure">
                                             <p>Figure 7. Ceci est le grand sceau de Dieu : HELOEN
