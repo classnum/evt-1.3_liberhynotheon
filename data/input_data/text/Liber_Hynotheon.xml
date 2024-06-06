@@ -2764,8 +2764,7 @@
                         </div>
                     </div>
 
-                    <div n="p2" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-2"
-                        xml:id="fr_page-2" next="#fr_page-3">
+                    <div n="p2" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-2">
                         <div n="4" type="section">
                             <p>Troisième altitude. On l’appelle Hermoy et elle exerce son pouvoir
                                 sur les amis, les frères, les proches et les voisins, et sur le
@@ -2884,8 +2883,7 @@
                                 sur les États </p>
                         </div>
                     </div>
-                    <div n="p3" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-3"
-                        xml:id="fr_page-3" prev="#fr_page-2">
+                    <div n="p3" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-3">
                         <div n="7" type="section">
                             <p>du monde. De région en région, ils font se mouvoir et changent les
                                 monarchies, les empires et les seigneuries du monde, par un
@@ -3002,8 +3000,7 @@
                                 ont le pouvoir </p>
                         </div>
                     </div>
-                    <div n="p4" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-4"
-                        xml:id="fr_page-4" next="#fr_page-5">
+                    <div n="p4" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-4">
                         <!-- AB. Ici et ci-dessous, exemple de jointure d'éléments non continus par les attributs next/prev
                                 (https://www.tei-c.org/release/doc/tei-p5-doc/en/html/NH.html#NHVE),
                                 pour aider à choisir une solution d'encodage des sauts de page dans la traduction. -->
@@ -3076,8 +3073,7 @@
                                     noms des princes de cette altitude sont</p>
                             </div>
                         </div>
-                        <div n="p5" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-5"
-                            xml:id="fr_page-5" prev="#fr_page-4">
+                        <div n="p5" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-5">
                             <div n="3" type="section">
                                 <p>Briel, Malamacoy, Malachim, Radasieh, Baidahath, Odmachiel.</p>
                             </div>
@@ -3143,8 +3139,7 @@
                                     Bachay, Son, Balchochanth, Anay, Anyal, Salmet, Chamæl.</p>
                             </div>
                         </div>
-                        <div n="p6" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6"
-                            xml:id="fr_page-6" next="#fr_page-7">
+                        <div n="p6" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6">
                             <div n="8" type="section">
                                 <p>Septième et ultime altitude occidentale. On l’appelle Steher, et
                                     les princes qui y demeurent ont la puissance de dévoiler un vol,
@@ -3180,8 +3175,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div n="p7" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-7"
-                                xml:id="fr_page-7">
+                            <div n="p7" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-7">
                                 <div n="2" type="section">
                                     <p>, ou non, ils font s’ouvrir et se refermer les terres, comme
                                         il leur semble bon. Les noms des princes de cette altitude
@@ -3231,8 +3225,7 @@
                                     </div>
                                 </div>
                                 <div n="p8" type="page"
-                                    corresp="#liber_hynotheon_ms_adiv_5fb1_page-8"
-                                    xml:id="fr_page-8" next="#fr_page-9">
+                                    corresp="#liber_hynotheon_ms_adiv_5fb1_page-8">
                                     <div n="1" type="section">
                                         <p>Première altitude. On appelle celle-ci Hahanahor, et les
                                             princes qui y demeurent ont de l’efficience et du
@@ -3283,8 +3276,7 @@
                                     </div>
                                 </div>
                                 <div n="p9" type="page"
-                                    corresp="#liber_hynotheon_ms_adiv_5fb1_page-9"
-                                    xml:id="fr_page-9" prev="#fr_page-8">
+                                    corresp="#liber_hynotheon_ms_adiv_5fb1_page-9">
                                     <div n="4" type="section">
                                         <p>leur pouvoir le jour ♄ c’est-à-dire celui de Saturne, et
                                             à son heure, comme nous l’avons noté dans le troisième
