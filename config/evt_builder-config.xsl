@@ -368,7 +368,7 @@
 	<!-- EN: On/Off term list -->
 	<!-- IT: Attiva/disattiva lista terms -->
 	<!-- default: true() -->
-	<xsl:param name="list_term" select="false()"/>
+	<xsl:param name="list_term" select="true()"/>
 
 	<!-- EN: On/Off gloss list -->
 	<!-- IT: Attiva/disattiva lista glosses -->
