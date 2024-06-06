@@ -81,6 +81,11 @@
                         </persName>
                         <sex>M</sex>
                     </person>
+                    <!-- L’inclusion des noms divins dans la liste des noms, sans distinction possible, n’est pas satisfaisante. -->
+                    <!--<person xml:id="Hynotheon">
+                        <persName type="divin">Hynothéon
+                            </persName>
+                    </person>-->
                 </listPerson>
             </sourceDesc>
         </fileDesc>
@@ -239,14 +244,15 @@
                             <sic>Chisti</sic>
                             <corr resp="#NC">Christi</corr>
                         </choice><!--<app><lem resp="#NC">Christi</lem><rdg wit="#ADIV_5Fb_1">Chisti</rdg></app>-->.
-                        Liber est <name type="divin"><choice>
+                        Liber est <choice>
                                 <sic>Hijnothéon</sic>
-                                <corr resp="#NC">Hynothéon</corr>
+                            <!-- Test de l’encodage des noms divins comme termes, compilés dans une liste des mots à part sur EVT. -->
+                            <corr resp="#NC"><term ref="#Hynotheon">Hynothéon</term></corr>
                             </choice><!--<app>
                                     <lem resp="#NC">Hynothéon</lem>
                                     <rdg wit="#ADIV_5Fb_1">Hijnothéon</rdg>
                                 </app>-->
-                        </name> sapientissimi <persName ref="#Salomon">Salomonis</persName> regis,
+                         sapientissimi <persName ref="#Salomon">Salomonis</persName> regis,
                         filii <persName ref="#David">Dauid</persName><persName ref="#Jacob"
                             >Israel</persName>, de <choice>
                             <sic>Caldes</sic>
@@ -259,8 +265,7 @@
                         sunt nouem de quibus in hoc libro primo tractatu tractandum est, et de
                         illius uirtutibus. In secundo, est tractandum de altitudinibus
                         occidentalibus, quæ sunt septem, et meridionalibus quæ sunt quinque, et
-                        septentrionalibus quæ sunt tres. In tertio, de modo faciendi sanctum <name
-                            type="divin">Hælaon</name>, et de modo <choice>
+                        septentrionalibus quæ sunt tres. In tertio, de modo faciendi sanctum <term ref="#Hælaon">Hælaon</term>, et de modo <choice>
                             <sic>seruandia</sic>
                             <corr resp="#NC">seruandi</corr>
                         </choice>
@@ -284,7 +289,7 @@
                                     <rdg wit="#ADIV_5Fb_1">Cijnos</rdg>
                                 </app>--></name>, et principes huius
                         altitudinis uocantur <name type="divin">Hrauel</name>, <name type="divin"
-                            >Gabriel</name>, <name type="divin">Barachiel</name>, <name type="divin"
+                            >Gabriel</name>, <term ref="#Barachiel">Barachiel</term>, <name type="divin"
                             >Libes</name>, <name type="divin">Heliram</name>, et hæc altitudo habet
                         operationem suam et potentiam die Solis et eius hora Luna crescente in bona
                         dispositione et cum ista altitudine disponuntur natiuitates natorum ad bonum
