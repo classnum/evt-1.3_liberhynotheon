@@ -10,6 +10,7 @@
    </translation>
    <liste>
       <listPerson active="1" lang="def">LIST_PERSON</listPerson>
+      <listTerm active="1" lang="def">LIST_TERM</listTerm>
    </liste>
    <editions>
       <edition data-key="dipl">Diplomatic</edition>
