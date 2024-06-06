@@ -1048,7 +1048,6 @@
                         est Saturni et in eius hora ut in tertio tractatu adnotauimus.</p>
                 </div>
             </div>
-
             <div n="5" type="chapitre">
                 <div n="1" type="section">
                     <p>Tractatus tertius. De modo fabricandi sanctum <name type="divin"
@@ -1392,7 +1391,7 @@
                         noctis usque ad octauam. </p>
                 </div>
                 <div n="4" type="section">
-                    <p>. Omnes altitudines <choice>
+                    <p>Omnes altitudines <choice>
                             <sic>septemtrionales</sic>
                             <corr resp="#NC">septentrionales</corr>
                         </choice><!--<app>
@@ -1404,7 +1403,7 @@
                             (<add place="in margine">uelaia</add><supplied>uel a prima</supplied>)
                         hora noctis usque ad nonam operatione luna crescente in pari numero. </p>
                 </div>
-                <div n="6" type="section">
+                <div n="5" type="section">
                     <p>Sciendum etiam et quod omnia sanctissima Hahelam sunt facienda ut primum <choice>
                             <sic>orientes</sic>
                             <corr resp="#NC">orientis</corr>
@@ -2393,7 +2392,7 @@
                         facere omnia ».</p>
                 </div>
                 <div n="4" type="section">
-                    <p>. Tunc ipse maxima cum grauitate cum artista alloquetur, et postea euocarit
+                    <p>Tunc ipse maxima cum grauitate cum artista alloquetur, et postea euocarit
                         tunc artista surget et extinguet candelas. Et cum maxima ueneratione,
                         sanctum Hahelaon reponat in loco mundissimo cum odoribus illius
                         altitudinis.</p>
@@ -2461,14 +2460,13 @@
                     <pb n="30" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-30.jpg"
                         xml:id="liber_hynotheon_ms_adiv_5fb1_page-30"/></p>
             </div>
+            <pb n="31" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-31.jpg"
+                xml:id="liber_hynotheon_ms_adiv_5fb1_page-31"/>
             <div n="19" type="chapitre">
                 <div n="1" type="section">
-                    <p>
-                        <pb n="31"
-                            facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-31.jpg"
-                            xml:id="liber_hynotheon_ms_adiv_5fb1_page-31"/>Supra diximus quod erat
-                        fabricandum sigillum magni Dei et erant sculpenda in illo nomina ut supra.
-                        Sed non diximus modum neque tempus quando debet fabricari.</p>
+                    <p>Supra diximus quod erat fabricandum sigillum magni Dei et erant sculpenda in
+                        illo nomina ut supra. Sed non diximus modum neque tempus quando debet
+                        fabricari.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Idcirco sigillum est fabricandum die ♃, id est Iouis, uel solis, hora ☿, id
@@ -3085,34 +3083,34 @@
                             Layngyron, Pessino, Fas, Han, Syachy, Zamnathor, Camyn.</p>
                     </div>
                     <div n="7" type="section">
-                        <p>. Sixième altitude. On l’appelle Agusth, et les princes qui y demeurent
-                            ont de la puissance et de l’efficience sur tous les oiseaux du ciel et
-                            les animaux de la terre et les enchanteurs ont celui de les attraper ou
-                            non, comme bon leur semble<note n="26" place="bottom">Le texte latin
-                                propose comme leçon cauiatores, mais ce terme n’a pas de
-                                signification claire. Nous proposons de corriger ce terme en
-                                cantatores (« enchanteurs »). Il ne s’agit pas de latin classique,
-                                même si Apulée (Les métamorphoses ou l’Âne d’or, II, 20) l’emploie
-                                sous la forme féminine pour évoquer les sorcières. On le retrouve
-                                par contre sous le calame de MARIUS VICTORINUS (290-364), Ad
-                                Justinum Manichaeum, IX, C., c. 1004 : Hic enim iam delectat
-                                Babylonis magos ac Ctesiphonticos cantatores), pour désigner les
-                                enchanteurs de Ctesiphon, à l’équivalent des Mages de Babylone. On
-                                se situe bien dans le contexte des Chaldéens évoqués au début du
-                                traité. Si jamais notre hypothèse est exacte, cela signifierait
-                                alors que le maître de l’Art s’affirme bien comme « enchanteur » au
-                                moment où il invoque les princes. Le texte renvoie à un autre
-                                passage du manuscrit, en I. 6, mais une version française de
-                                l’Almadel, la Stéganographie (fin XVIIIe), précise que les princes
-                                du cinquième ordre ont notamment le pouvoir « d’émouvoir tous les
-                                animaux » (annexe 5, p. 186). L’auteur inconnu renvoie à leur
-                                pouvoir « de mouvoir » (I,6) les animaux, mais aussi à celui de les
-                                charmer, ou de les enchanter, comme dans le cas présent. On peut y
-                                voir une réflexion faite par un francophone (sur l’homonymie entre «
-                                de mouvoir » et « d’émouvoir ») sur le double sens de mouere en
-                                latin (« bouger » à l’actif, et « être ému » au passif).</note>. Les
-                            noms des princes de cette altitude sont Bachay, Son, Balchochanth, Anay,
-                            Anyal, Salmet, Chamæl.</p>
+                        <p>Sixième altitude. On l’appelle Agusth, et les princes qui y demeurent ont
+                            de la puissance et de l’efficience sur tous les oiseaux du ciel et les
+                            animaux de la terre et les enchanteurs ont celui de les attraper ou non,
+                            comme bon leur semble<note n="26" place="bottom">Le texte latin propose
+                                comme leçon cauiatores, mais ce terme n’a pas de signification
+                                claire. Nous proposons de corriger ce terme en cantatores («
+                                enchanteurs »). Il ne s’agit pas de latin classique, même si Apulée
+                                (Les métamorphoses ou l’Âne d’or, II, 20) l’emploie sous la forme
+                                féminine pour évoquer les sorcières. On le retrouve par contre sous
+                                le calame de MARIUS VICTORINUS (290-364), Ad Justinum Manichaeum,
+                                IX, C., c. 1004 : Hic enim iam delectat Babylonis magos ac
+                                Ctesiphonticos cantatores), pour désigner les enchanteurs de
+                                Ctesiphon, à l’équivalent des Mages de Babylone. On se situe bien
+                                dans le contexte des Chaldéens évoqués au début du traité. Si jamais
+                                notre hypothèse est exacte, cela signifierait alors que le maître de
+                                l’Art s’affirme bien comme « enchanteur » au moment où il invoque
+                                les princes. Le texte renvoie à un autre passage du manuscrit, en I.
+                                6, mais une version française de l’Almadel, la Stéganographie (fin
+                                XVIIIe), précise que les princes du cinquième ordre ont notamment le
+                                pouvoir « d’émouvoir tous les animaux » (annexe 5, p. 186). L’auteur
+                                inconnu renvoie à leur pouvoir « de mouvoir » (I,6) les animaux,
+                                mais aussi à celui de les charmer, ou de les enchanter, comme dans
+                                le cas présent. On peut y voir une réflexion faite par un
+                                francophone (sur l’homonymie entre « de mouvoir » et « d’émouvoir »)
+                                sur le double sens de mouere en latin (« bouger » à l’actif, et «
+                                être ému » au passif).</note>. Les noms des princes de cette
+                            altitude sont Bachay, Son, Balchochanth, Anay, Anyal, Salmet,
+                            Chamæl.</p>
                     </div>
                 </div>
                 <div n="p6" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6">
@@ -3132,7 +3130,6 @@
                                 « le jour de Mars », soit un mardi.</note>. Fin des altitudes
                             occidentales.</p>
                     </div>
-
                     <div n="3" type="chapitre">
                         <div n="1" type="section">
                             <p>Voici les altitudes méridionales, qui sont cinq. Première altitude
@@ -3627,7 +3624,6 @@
                             odeurs de bois d’aloès et de camphre; la troisième avec des odeurs de
                             myrrhe et d’encens.</p>
                     </div>
-
                     <div n="8" type="chapitre">
                         <div n="1" type="section">
                             <p>Il faut savoir que pour toutes les altitudes autant orientales,
@@ -3674,7 +3670,6 @@
                             du coffret, et que notre sceau est suffisant pour les deux autres
                             faces.</p>
                     </div>
-
                     <div n="9" type="chapitre">
                         <div n="1" type="section">
                             <p>Des préparatifs du maître de l’Art. Avant l’opération, il est
@@ -3754,7 +3749,6 @@
                             celui-ci avec les odeurs des altitudes après qu’il est façonné. La
                             suffumigation achevée, qu’il dise ceci :</p>
                     </div>
-
                     <div n="11" type="chapitre">
                         <div n="1" type="section">
                             <p>Prière « Dieu, dont la divinité est sans fin<note n="53"
@@ -3844,57 +3838,62 @@
                         <p>Et ceci doit être préparé avant que le maître de l’Art n’entame son
                             opération. Note</p>
                     </div>
-                    <div n="1" type="section">
-                        <p>que pendant que le maître de l’Art prie à genoux, il faut que six cierges
-                            soient allumés sur l’autel. Lorsque la prière susdite est terminée, il
-                            devra écrire avec la plus grande dévotion le grand et terrible Nom,
-                            c’est-à-dire le gracieux Thethagramaton, en majuscules, avec un stylet
-                                d’argent<note n="61" place="bottom">Le manuscrit donne delictens,
-                                qui, malgré les apparences, n’est pas un participe latin classique,
-                                et constitue en hapax. Par contre, en moyen français, parlé environ
-                                de 1340 à 1611, on trouve la forme delictans (avec des variantes
-                                comme delittans ou delittens) avec le sens d’ « agréable, gracieux,
-                                délicieux », notamment chez Christine de Pisan (1364-1430) dans le
-                                Dit de Poissy, V. 625 : « De retourner au lieu si delictans » (éd.
-                                de Paul POUGIN 1857, p. 549). Le terme est lui-même
-                                vraisemblablement formé à partir du latin delectabilis (« qui plaît,
-                                qui a du charme »). Son emploi dans le Liber Hynotheon témoignerait
-                                d’une forme de contamination entre le français et le latin.</note>.
-                            Il faut écrire cedit saint Nom sur le second coffret, comme nous l’avons
-                            dit. Il faut que le maître de l’Art ait écrit sa requête sur un papier
-                            vierge, et qu’il le mette à côté du sceau, comme nous l’avons indiqué
-                            précédemment.</p>
-                    </div>
-                    <div n="2" type="section">
-                        <p>Ensuite, avec une très grande vénération, qu’il allume les cierges du
-                            très saint Stahelaon, et après qu’elles aient été allumées, qu’il
-                            suffumige à nouveau le très saint Stahelaon ! La suffumigation terminée,
-                            à genoux, qu’il entame son opération de cette manière !</p>
-                    </div>
-                    <div n="3" type="section">
-                        <p>Nous avons dit auparavant que le premier coffret ne doit pas être creux —
-                            et il ne doit pas être creux. Cependant, il devra être pratiqué un trou
-                            vers l’intérieur par le maître de l’Art avec un stylet d’argent jusqu’au
-                            saint nom Stahelaon. À l’intérieur, il devra déposer le sceau de
-                            l’altitude et les caractères des princes, avec leurs noms
-                                appropriés<note n="62" place="bottom">Les « caractères des Princes
-                                (caractera principum) » constitueraient une forme d’écriture qui
-                                permettrait d’évoquer les entités supérieures sous leur nom
-                                véritable. L’usage de caractera -ou charakteres en grec- constituent
-                                une pratique bien établie, héritée de la magie antique, et que l’on
-                                retrouve aussi bien sur les lamelles de defixio que dans les Papyrus
-                                Grecs Magiques. Même si l’inventaire de ces caractères et leur
-                                possible déchiffrement restent encore à faire, on peut néanmoins les
-                                regarder, selon GRAF 2015, p. 230, « comme un développement du
-                                système graphique des hiéroglyphes qui offrait la possibilité
-                                d’écrire avec des signes non-alphabétiques ». Cf. GRÉVIN &amp;
-                                VÉRONÈSE 2004.</note>. Ensuite, il devra fermer le trou. Avant que
-                            le maître de l’Art n’ait mis le sceau de l’altitude et les caractères
-                            des princes dans le trou, il doit suffumiger ceux-ci avec leurs odeurs
-                            caractéristiques.</p>
-                    </div>
-                    <div n="4" type="section" xml:id="p19-20-ante" next="#p19-20-post">
-                        <p>Note</p>
+                    <div n="12" type="chapitre">
+                        <div n="1" type="section">
+                            <p>que pendant que le maître de l’Art prie à genoux, il faut que six
+                                cierges soient allumés sur l’autel. Lorsque la prière susdite est
+                                terminée, il devra écrire avec la plus grande dévotion le grand et
+                                terrible Nom, c’est-à-dire le gracieux Thethagramaton, en
+                                majuscules, avec un stylet d’argent<note n="61" place="bottom">Le
+                                    manuscrit donne delictens, qui, malgré les apparences, n’est pas
+                                    un participe latin classique, et constitue en hapax. Par contre,
+                                    en moyen français, parlé environ de 1340 à 1611, on trouve la
+                                    forme delictans (avec des variantes comme delittans ou
+                                    delittens) avec le sens d’ « agréable, gracieux, délicieux »,
+                                    notamment chez Christine de Pisan (1364-1430) dans le Dit de
+                                    Poissy, V. 625 : « De retourner au lieu si delictans » (éd. de
+                                    Paul POUGIN 1857, p. 549). Le terme est lui-même
+                                    vraisemblablement formé à partir du latin delectabilis (« qui
+                                    plaît, qui a du charme »). Son emploi dans le Liber Hynotheon
+                                    témoignerait d’une forme de contamination entre le français et
+                                    le latin.</note>. Il faut écrire cedit saint Nom sur le second
+                                coffret, comme nous l’avons dit. Il faut que le maître de l’Art ait
+                                écrit sa requête sur un papier vierge, et qu’il le mette à côté du
+                                sceau, comme nous l’avons indiqué précédemment.</p>
+                        </div>
+                        <div n="2" type="section">
+                            <p>Ensuite, avec une très grande vénération, qu’il allume les cierges du
+                                très saint Stahelaon, et après qu’elles aient été allumées, qu’il
+                                suffumige à nouveau le très saint Stahelaon ! La suffumigation
+                                terminée, à genoux, qu’il entame son opération de cette manière
+                                !</p>
+                        </div>
+                        <div n="3" type="section">
+                            <p>Nous avons dit auparavant que le premier coffret ne doit pas être
+                                creux — et il ne doit pas être creux. Cependant, il devra être
+                                pratiqué un trou vers l’intérieur par le maître de l’Art avec un
+                                stylet d’argent jusqu’au saint nom Stahelaon. À l’intérieur, il
+                                devra déposer le sceau de l’altitude et les caractères des princes,
+                                avec leurs noms appropriés<note n="62" place="bottom">Les «
+                                    caractères des Princes (caractera principum) » constitueraient
+                                    une forme d’écriture qui permettrait d’évoquer les entités
+                                    supérieures sous leur nom véritable. L’usage de caractera -ou
+                                    charakteres en grec- constituent une pratique bien établie,
+                                    héritée de la magie antique, et que l’on retrouve aussi bien sur
+                                    les lamelles de defixio que dans les Papyrus Grecs Magiques.
+                                    Même si l’inventaire de ces caractères et leur possible
+                                    déchiffrement restent encore à faire, on peut néanmoins les
+                                    regarder, selon GRAF 2015, p. 230, « comme un développement du
+                                    système graphique des hiéroglyphes qui offrait la possibilité
+                                    d’écrire avec des signes non-alphabétiques ». Cf. GRÉVIN &amp;
+                                    VÉRONÈSE 2004.</note>. Ensuite, il devra fermer le trou. Avant
+                                que le maître de l’Art n’ait mis le sceau de l’altitude et les
+                                caractères des princes dans le trou, il doit suffumiger ceux-ci avec
+                                leurs odeurs caractéristiques.</p>
+                        </div>
+                        <div n="4" type="section" xml:id="p19-20-ante" next="#p19-20-post">
+                            <p>Note</p>
+                        </div>
                     </div>
                 </div>
                 <div n="p20" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-20">
@@ -4100,7 +4099,6 @@
                             prédestinées par Dieu, accomplissez cette requête. Amen. Ainsi soit-il,
                             ainsi soit-il, ainsi soit-il ».</p>
                     </div>
-
                     <div n="16" type="chapitre">
                         <div n="1" type="section">
                             <p>L’invocation terminée, apparaîtra un seul prince de cette altitude,
@@ -4194,7 +4192,6 @@
                             range le saint Hahelaon dans un lieu très propre, avec les odeurs de
                             cette altitude.</p>
                     </div>
-
                     <div n="18" type="chapitre">
                         <div n="1" type="section">
                             <p>Sache, ô maître de l’Art, que quand tu fais ton opération, tu dois te
