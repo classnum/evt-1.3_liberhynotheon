@@ -275,7 +275,11 @@
                         artistæ et de multis adnotationibus ad hanc artem pertinentibus.</p>
                 </div>
                 <div n="2" type="section">
-                    <p>Prima altitudo orientis. Altitudo prima uocatur <name type="divin"><choice>
+                    <!-- Exemple de sous-titre en italique et gras -->
+                    <head rend="italic bold">Prima altitudo orientis</head>
+                    <p><!--Prima altitudo orientis. -->Altitudo
+                            <!-- Exemple de mot en italique --><emph rend="italic">prima</emph>
+                        uocatur <name type="divin"><choice>
                                 <sic>Cijnos</sic>
                                 <corr resp="#NC">Cynos</corr>
                             </choice><!--<app>
