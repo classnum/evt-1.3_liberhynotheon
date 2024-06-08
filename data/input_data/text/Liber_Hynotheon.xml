@@ -403,8 +403,14 @@
                                     <rdg wit="#ADIV_5Fb_1">Cijm</rdg>
                                 </app>--></name> et principes qui
                         morantur in ea habent potestatem <del>potentiam</del> ex officio suo cum
-                        motu cæli mouere omnia animantia secundum naturam ad filios procreandi
-                        multiplicandi in genere omnium <choice>
+                        motu cæli mouere omnia animantia secundum naturam ad filios procreandos<!--<app>
+                                    <lem resp="#NC">procreandos</lem>
+                                    <rdg wit="#ADIV_5Fb_1">procreandi</rdg>
+                                </app>-->
+                        multiplicandos<!--<app>
+                                    <lem resp="#NC">multiplicandos/lem>
+                                    <rdg wit="#ADIV_5Fb_1">mulltiplicandi</rdg>
+                                </app>--> in genere omnium <choice>
                             <sic>spetie earum</sic>
                             <corr resp="#NC">specietatum</corr>
                         </choice>
@@ -2802,7 +2808,7 @@
                                 parfaits, tantôt sur le mode corporel. Ce passage du Liber Hynotheon
                                 serait un lointain écho des discussions théologiques qui animèrent
                                 l’Université de Paris entre le XIIIe et le XIVe siècle.</note>. Les
-                            princes de cette altitude empêchent ou permettent un mouvement local
+                            princes de cette altitude empêchent ou permettent le mouvement local
                             selon ce qui leur plaît<note n="14" place="bottom">Les pouvoirs de cette
                                 altitude évoquent fortement ceux de la troisième altitude, décrite
                                 dans la Cabale Divine : « De l’ordre appelée Hermon, ou Hermus, sous
@@ -2836,7 +2842,7 @@
                         <p>Cinquième altitude. On l’appelle Cym, et les princes qui y demeurent ont
                             le pouvoir, selon leur office, de faire mouvoir d’un mouvement céleste
                             tous les êtres vivants selon leur nature, afin qu’ils procréent des
-                            descendants et de se multiplier dans la lignée de chaque espèce, tant
+                            descendants et qu'ils se multiplient dans la lignée de chaque espèce, tant
                             sous la terre &lt;que sur la terre&gt;<note n="16" place="bottom"
                                 >Almadel [31] (éd. VÉRONÈSE 2012, p. 152) : Quinta altitudo vocatur
                                 Bym et principes ejus habent potestatem ex officio cum motu celi
@@ -2849,8 +2855,8 @@
                                 rapport au texte biblique (Gn. 1, 28) : les animaux créés sont
                                 situés « sur la terre (super terram) », et non en-dessous. Dans la
                                 mesure où les processus d’inversion sont caractéristiques de la
-                                magie, cette ‘confusion’ doit être volontaire.</note>, de la même
-                            manière qu’il y a les poissons et les animaux volants. Ils régentent et
+                                magie, cette ‘confusion’ doit être volontaire.</note>, par exemple
+                                 les poissons et les animaux volants. Ils régentent et
                             gouvernent le mouvement des animaux. Grâce à un don de Dieu, ils peuvent
                             infuser aux hommes les sciences naturelles, dont les formes sont la
                             physique, la médecine, l’alchimie, et une partie d’entre elles<note
@@ -3122,8 +3128,7 @@
                 <div n="p6" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6">
                     <div n="8" type="section">
                         <p>Septième et ultime altitude occidentale. On l’appelle Steher, et les
-                            princes qui y demeurent ont la puissance de dévoiler un vol, ou non. Ils
-                            l’exercent sur les embuscades des voleurs, aussi bien sur terre que sur
+                            princes qui y demeurent ont la puissance de dévoiler un vol, ou non, et sur les embuscades des voleurs, aussi bien sur terre que sur
                             mer. Ils mettent en danger les hommes et les femmes, ou non, comme il
                             leur plaît. Les noms des princes de cette altitude sont Maxuel, Arahath,
                             Sarohoth, Maguth, Mehestrach, Dyebuzon.</p>
@@ -3138,7 +3143,7 @@
                     </div>
                     <div n="3" type="chapitre">
                         <div n="1" type="section">
-                            <p>Voici les altitudes méridionales, qui sont cinq. Première altitude
+                            <p>Voici les altitudes méridionales, et il y en a cinq. Première altitude
                                 méridionale. On l’appelle Rahath, et les princes de cette altitude
                                 ont de l’efficience et du pouvoir sur toutes les sciences
                                 superstitieuses et sur les maléfices. Et ils forcent les démons à
@@ -3224,7 +3229,7 @@
                     </div>
                     <div n="3" type="section">
                         <p>Troisième et ultime altitude. On l’appelle Sephahahan et les princes de
-                            cette altitude, ceux qui y demeurent, ont l’efficience et le pouvoir de
+                            cette altitude qui y demeurent ont l’efficience et le pouvoir de
                             distribuer toutes les semences et ils les font germer, ou non. Ils
                             exercent leur domination sur toutes sortes d’armes, et ils font échouer
                             les hommes invincibles, ou non. En outre, ils rendent les hommes très
