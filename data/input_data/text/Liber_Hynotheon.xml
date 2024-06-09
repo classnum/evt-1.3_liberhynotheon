@@ -1380,7 +1380,7 @@
             <div n="fig1" type="figure">
                 <pb n="13" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-13.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-13"/>
-                <p>Figura prima. Modus formandi <del>fomandi</del> sanctum <name type="divin"
+                <head rend="italic bold">Figura prima</head> <p>Modus formandi <del>fomandi</del> sanctum <name type="divin"
                         >Stahelaon</name>
                     <name type="divin">THETAGRAMMATON</name>
                     <name type="divin">HEL</name> 1. <name type="divin">Hynoytheon</name> 2. <name
@@ -1392,7 +1392,7 @@
             <div n="fig2" type="figure">
                 <pb n="14" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-14.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-14"/>
-                <p>Figura secunda. <name type="divin">THETHAGRAMMATON</name>
+                <head rend="italic bold">Figura secunda</head> <p><name type="divin">THETHAGRAMMATON</name>
                     <name type="divin">HEL</name> 1. <name type="divin">Hynoytheon</name> 2. <name
                         type="divin">Ptihaeumaton</name> 3. <name type="divin">Anabona</name> 4.
                         <name type="divin">Ihehoua</name>
@@ -1875,20 +1875,23 @@
             </div>
 
             <div n="fig3" type="figure">
-                <p><pb n="21" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-21.jpg"
-                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-21"/>Figura tertia. Sigillum primæ
+                <pb n="21" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-21.jpg"
+                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-21"/>
+                        <head rend="italic bold">Figura tertia</head> <head rend="italic bold">Sigillum primæ</head>
                     altitudinis orientalis Caractera principum</p>
             </div>
 
             <div n="fig4" type="figure">
-                <p><pb n="22" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-22.jpg"
-                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-22"/>Figura quarta. Sigillum
+                <pb n="22" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-22.jpg"
+                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-22"/><head rend="italic bold">Figura quarta</head> 
+                        <p>Sigillum
                     secundæ altitudinis orientalis 2</p>
             </div>
 
             <div n="fig5a" type="figure">
-                <p><pb n="23" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-23.jpg"
-                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-23"/>Figura quinta. Sigillum
+                <pb n="23" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-23.jpg"
+                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-23"/><head rend="italic bold">Figura quinta</head> 
+                        <p>Sigillum
                     tertiæ altitudinis</p>
             </div>
             <div n="fig5b" type="figure">
@@ -3307,7 +3310,7 @@
                                     dans les champs d’Hamen »). Ces champs désignent Sihr von’Omân
                                     al Shihr, ville et région de la côte sud de l’Arabie, sur
                                     l’Océan Indien. Cf. GRAND-CLÉMENT 2023, p. 160.</note>, du
-                                    costus<note n="34" place="bottom">Comme le précise le Robert
+                                    costus<note n="34" place="bottom">Comme le précise le <emph rend="italic">Robert</emph>
                                     (1986), le costus est une plante herbacée et vivace poussant
                                     dans les régions tropicales, dont le rhizome tubéreux et
                                     rampant, employé autrefois comme aromate et comme parfum,
