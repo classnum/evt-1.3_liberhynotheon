@@ -39,7 +39,7 @@ p {
     font-style: italic;
     padding-top: 5em;
     padding-bottom: 1em;
-    color: blue;
+    /*color: blue;*/
 }
 
 #text_frame[data-page=liber_hynotheon_front] h1[data-type="sub"] {
