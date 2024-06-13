@@ -2306,25 +2306,25 @@
                                 <corr resp="#NC">Hyshahabhel</corr>
                             </choice><!--<app>
                                     <lem resp="#NC">Hyshahabhel</lem><rdg resp="#NC">Hijshahabhel</rdg>
-                                </app>--></persName></name>, <name type="divin"><choice>
+                                </app>--></persName></name>, <name type="divin"><persName ref="Sohamuhahyz"><choice>
                                 <sic>Sohamuhahijz</sic>
                                 <corr resp="#NC">Sohamuhahyz</corr>
                             </choice><!--<app>
                                     <lem resp="#NC">Sohamuhahyz</lem><rdg resp="#NC">Sohamuhahijz</rdg>
-                                </app>--></name>, <name type="divin"><choice>
+                                </app>--></persName></name>, <name type="divin"><persName ref="Mothosyhohan"><choice>
                                 <sic>Mothosijhohan</sic>
                                 <corr resp="#NC">Mothosyhohan</corr>
                             </choice><!--<app>
                                             <lem resp="#NC">Mothocyhohan</lem>
                                             <rdg wit="#ADIV_5Fb_1">Mothocijhohan</rdg>
-                                        </app>--></name>
-                        <del>Motholijhohan</del>, <name type="divin">Zachohohur</name>, <name
-                            type="divin">Neher</name>, <name type="divin">Dahaol</name>
-                        <del>Dahaal</del>, <name type="divin">Bochur</name>.</p>
+                                        </app>--></persName></name>
+                        <del>Motholijhohan</del>, <name type="divin"><persName ref="Zachohohur">Zachohohur</persName></name>, <name
+                            type="divin"><persName ref="Neher">Neher</persName></name>, <name type="divin"><persName ref="Dahaol">Dahaol</persName></name>
+                        <del>Dahaal</del>, <name type="divin"><persName ref="Bochur">Bochur</persName></name>.</p>
                 </div>
                 <div n="3" type="section">
                     <head rend="italic bold">Tertia et ultima altitudo</head>
-                    <p>Hæc uocatur <name type="divin">Sephaphahan</name> et principes huius
+                    <p>Hæc uocatur <name type="divin"><persName ref="Sephaphahan">Sephaphahan</persName></name> et principes huius
                         altitudinis qui morantur in ea habent uirtutem et potentiam suam <choice>
                             <sic>distrugendi</sic>
                             <corr resp="#NC">distribuendi</corr>
@@ -2342,9 +2342,9 @@
                                         <rdg wit="#ADIV_5Fb_1">luxoriae</rdg>
                                     </app>--> et apparentiam faciunt ut ipsi
                         faciant quidquid uolunt uel non, ut eis uidetur. Nomina principum huius
-                        altitudinis sunt <name type="divin">Auubzelon</name>, <name type="divin"
-                            >Zharahol</name>, <name type="divin">Raphahasel</name>, <name
-                            type="divin">Zechriahauel</name>, <name type="divin">Naniel</name>.</p>
+                        altitudinis sunt <name type="divin"><persName ref="Auubzelon">Auubzelon</persName></name>, <name type="divin"
+                            ><persName ref="Zharahol">Zharahol</persName></name>, <name type="divin"><persName ref="Raphahasel">Raphahasel</persName></name>, <name
+                            type="divin"><persName ref="Zechriahauel">Zechriahauel</persName></name>, <name type="divin"><persName ref="Naniel">Naniel</persName></name>.</p>
                 </div>
                 <div n="4" type="section">
                     <p>Et est sciendum quod omnes hæ altitudines habent uirtutem et <pb n="9"
@@ -2356,9 +2356,9 @@
             <div n="5" type="chapitre">
                 <div n="1" type="section">
                     <head rend="italic bold">Tractatus tertius</head>
-                    <p>De modo fabricandi sanctum <name type="divin">Stahelaon</name>
+                    <p>De modo fabricandi sanctum <name type="divin"><persName ref="Stahelaon">Stahelaon</persName></name>
                         <del>Haelaon</del>. Nos fabricamus sanctum <name type="divin"
-                            >Stahelaon</name>
+                            ><persName ref="Stahelaon">Stahelaon</persName></name>
                         <del>Haelaon</del> hoc modo. In die ☿, id est Mercurii, <choice>
                             <sic>accipiemus</sic>
                             <corr resp="#NC">accepimus</corr>
@@ -2396,53 +2396,53 @@
                                         <rdg wit="#ADIV_5Fb_1">argento</rdg>
                                     </app>-->nouo ad hoc fabricato ; et
                         nomina Dei <del>diuini</del> uiui scripti debent die operationis. In primo
-                        foramine, scribatur <name type="divin"><choice>
+                        foramine, scribatur <name type="divin"><persName ref="Adonay"><choice>
                                 <sic>Adonaij</sic>
                                 <corr resp="#NC">Adonay</corr>
                             </choice><!--<app>
                                         <lem resp="#NC">Adonay</lem>
                                         <rdg wit="#ADIV_5Fb_1">Adonaij</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Helyon"><choice>
                                 <sic>Helijon</sic>
                                 <corr resp="#NC">Helijon</corr>
-                            </choice><!--<app><lem resp="#NC">Helyon</lem><rdg wit="#ADIV_5Fb_1">Helijon</rdg></app>-->n</name>,
-                            <name type="divin">Pius</name>. In secundo, <name type="divin"><choice>
+                            </choice><!--<app><lem resp="#NC">Helyon</lem><rdg wit="#ADIV_5Fb_1">Helijon</rdg></app>-->n</persName></name>,
+                            <name type="divin"><persName ref="Pius">Pius</persName></name>. In secundo, <name type="divin"><persName ref="Hhælym"><choice>
                                 <sic>Hhælijm</sic>
                                 <corr resp="#NC">Hhælym</corr>
                             </choice><!--<app>
                                             <lem resp="#NC">Hhælym</lem>
                                             <rdg wit="#ADIV_5Fb_1">Hhælijm</rdg>
-                                        </app>--></name>
-                        <del>Sthælijm</del>, <name type="divin"><choice>
+                                        </app>--></persName></name>
+                        <del>Sthælijm</del>, <name type="divin"><persName ref="Steloy"><choice>
                                 <sic>Steloij</sic>
                                 <corr resp="#NC">Steloy</corr>
                             </choice><!--<app>
                                             <lem resp="#NC">Steloy</lem><rdg wit="#ADIV_5Fb_1">Steloij</rdg>
-                                        </app>--></name><del>Stheloij</del>,
-                            <name type="divin"><choice>
+                                        </app>--></persName></name><del>Stheloij</del>,
+                            <name type="divin"><persName ref="Stely"><choice>
                                 <sic>Stelij</sic>
                                 <corr resp="#NC">Stely</corr>
                             </choice><!--<app>
                                             <lem resp="#NC">Stely</lem><rdg wit="#ADIV_5Fb_1">Stelij</rdg>
-                                        </app>--></name>. In tertio,
-                            <name type="divin">Ioth</name>, <name type="divin">Beth</name>, <name
-                            type="divin">Agla</name>. In quarto, <name type="divin"
-                            >Tethagramaton</name>
-                        <del>Chethagramaton</del>, <name type="divin"><choice>
+                                        </app>--></persName></name>. In tertio,
+                            <name type="divin"><persName ref="Ioth">Ioth</persName></name>, <name type="divin"><persName ref="Beth">Beth</persName></name>, <name
+                            type="divin"><persName ref="Agla">Agla</persName></name>. In quarto, <name type="divin"
+                            ><persName ref="Tethagramaton">Tethagramaton</persName></name>
+                        <del>Chethagramaton</del>, <name type="divin"><persName ref="Suday"><choice>
                                 <sic>Sudaij</sic>
                                 <corr resp="#NC">Suday</corr>
                             </choice><!--<app>
                                             <lem resp="#NC">Suday</lem><rdg wit="#ADIV_5Fb_1">Sudaij</rdg>
-                                        </app>--></name> et <name
-                            type="divin"><choice>
+                                        </app>--></persName></name> et <name
+                            type="divin"><persName ref="Ya"><choice>
                                 <sic>Ija</sic>
                                 <corr resp="#NC">Ya</corr>
                             </choice><!--<app>
                                             <lem resp="#NC">Ya</lem><rdg wit="#ADIV_5Fb_1">Ija</rdg>
-                                        </app>--></name>.</p>
+                                        </app>--></persName></name>.</p>
                 </div>
                 <div n="2" type="section">
-                    <p>Et est sciendum quod sanctum <name type="divin">Hælaon</name>
+                    <p>Et est sciendum quod sanctum <name type="divin"><persName ref="Hælaon">Hælaon</persName></name>
                         <del>Sthaelaon</del>, dum fabricatur, in angulum et angulum ut in figura
                         signum nostrum faciendum est ; et inter <choice>
                             <sic>signum</sic>
@@ -2459,14 +2459,14 @@
                                         <rdg wit="#ADIV_5Fb_1">stillo</rdg>
                                     </app>--> argenteo ad hoc fabricato, ut
                         in exemplo, in medio autem ficti debet nomen sanctum <name type="divin"
-                            >Hel</name>, ut in exemplo, in medio <choice>
+                            ><persName ref="Hel">Hel</persName></name>, ut in exemplo, in medio <choice>
                             <sic>stanctum</sic>
                             <corr resp="#NC">sanctum</corr>
                         </choice><!--<app>
                                         <lem resp="#NC">sanctum</lem>
                                         <rdg wit="#ADIV_5Fb_1">stanctum</rdg>
                                     </app>--> nomen <name type="divin"
-                            >Hel</name> ; et capsula non debet esse uacua et supra <choice>
+                            ><persName ref="Hel">Hel</persName></name> ; et capsula non debet esse uacua et supra <choice>
                             <sic>capsula</sic>
                             <corr resp="#NC">capsulam</corr>
                         </choice><!--<app>
@@ -2481,7 +2481,7 @@
                 <div n="3" type="section">
                     <p>Cauendum autem est ne aliqua illius candelæ <add place="supra linea">t</add>
                         accendatur nisi tempore operationis. Cum autem sanctum <name type="divin"
-                            >Stæleion</name>
+                            ><persName ref="Stæleion">Stæleion</persName></name>
                         <pb n="10"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-10.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-10"/> compositum fuit, fiat
@@ -2508,9 +2508,9 @@
                                         <rdg wit="#ADIV_5Fb_1">aloe</rdg>
                                     </app>-->, storacis et calamitæ et illa
                         cooperiatur panno serico albo. Hæc sunt nomina sigilli <name type="divin"
-                            >Steloen</name>
-                        <name type="divin">Adonay</name>, <name type="divin">Pius</name>, <name
-                            type="divin">Anabona</name>, <name type="divin">Aranithan</name>, ut
+                            ><persName ref="Steloen">Steloen</persName></name>
+                        <name type="divin"><persName ref="Adonay">Adonay</persName></name>, <name type="divin"><persName ref="Pius">Pius</persName></name>, <name
+                            type="divin"><persName ref="Anabona">Anabona</persName></name>, <name type="divin"><persName ref="Aranithan">Aranithan</persName></name>, ut
                         melius uideri potest in exemplo et tempore operationis non preparationis
                         accenduntur candelæ. Et habeas petitionem scriptam in carta uirginea non
                         petendo aliquid quod non pertineat ad officium illius altitudinis et dictam
@@ -2518,10 +2518,10 @@
                 </div>
                 <div n="4" type="section">
                     <p>Et nota quod illud sigillum sufficit in omnibus altitudinibus et
-                        operationibus sed <del>ad</del> sanctum <name type="divin">Hahelaon</name>
+                        operationibus sed <del>ad</del> sanctum <name type="divin"><persName ref="Hahelaon">Hahelaon</persName></name>
                         <del>Haelaon</del> est fabricandum secundum altitudines. Prima altitudo,
                         fabricatur de cera alba et etiam candelæ. Secunda, sanctum <name
-                            type="divin">Hælaon</name>
+                            type="divin"><persName ref="Hælaon">Hælaon</persName></name>
                         <del>Staelaon</del> secundæ altitudinis et etiam candelæ fabricatur de cera <choice>
                             <sic>neffei</sic>
                             <corr resp="#NC">rufi</corr>
@@ -2530,7 +2530,7 @@
                                         <lem resp="#NC">rufi</lem>
                                         <rdg wit="#ADIV_5Fb_1">neffei</rdg>
                                     </app>-->
-                        <del>reffei</del> coloris. Tertia, sanctum <name type="divin">Hælaon</name>
+                        <del>reffei</del> coloris. Tertia, sanctum <name type="divin"><persName ref="Hælaon">Hælaon</persName></name>
                         <del>Staelaon</del> tertiæ altitudinis et etiam candelæ de cera
                             <del>azzurea</del>
                         <choice>
@@ -2540,7 +2540,7 @@
                                         <lem resp="#NC">crocea</lem>
                                         <rdg wit="#ADIV_5Fb_1">croca</rdg>
                                     </app>-->. Quarta, sanctum <name
-                            type="divin">Hælaon</name>
+                            type="divin"><persName ref="Hælaon">Hælaon</persName></name>
                         <del>Staelaon</del> quartæ altitudinis et etiam candelæ de cera <choice>
                             <sic>azzura</sic>
                             <corr resp="#NC">azurea</corr>
@@ -2548,16 +2548,16 @@
                                         <lem resp="#NC">azurea</lem>
                                         <rdg wit="#ADIV_5Fb_1">azzura</rdg>
                                     </app>-->. Quinta, sanctum <name
-                            type="divin">Hælaon</name> quintæ altitudinis de cera <choice>
+                            type="divin"><persName ref="Hælaon">Hælaon</persName></name> quintæ altitudinis de cera <choice>
                             <sic>uiridi</sic>
                             <corr resp="#NC">uiridis</corr>
                         </choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
                                         <rdg wit="#ADIV_5Fb_1">uiridi</rdg>
                                     </app>--> coloris. Sexta, sanctum <name
-                            type="divin">Hælaon</name> sextæ altitudinis de cera uiolacea. Septima,
-                        sanctum <name type="divin">Haelaon</name> septimæ altitudinis de cera carnei
-                        coloris. Octaua, sanctum <name type="divin"> Hælaon</name> octauæ
+                            type="divin"><persName ref="Hælaon">Hælaon</persName></name> sextæ altitudinis de cera uiolacea. Septima,
+                        sanctum <name type="divin"><persName ref="Hælaon">Hælaon</persName></name> septimæ altitudinis de cera carnei
+                        coloris. Octaua, sanctum <name type="divin"><persName ref="Hælaon">Hælaon</persName></name> octauæ
                         altitudinis de cera coloris <choice>
                             <sic>uiridi</sic>
                             <corr resp="#NC">uiridis</corr>
@@ -2565,7 +2565,7 @@
                                         <lem resp="#NC">uiridis</lem>
                                         <rdg wit="#ADIV_5Fb_1">uiridi</rdg>
                                     </app>--> et liuidi. Nona, sanctum <name
-                            type="divin">Hælaon</name> nonæ altitudinis de cera <choice>
+                            type="divin"><persName ref="Hælaon">Hælaon</persName></name> nonæ altitudinis de cera <choice>
                             <sic>bijssima</sic>
                             <corr resp="#NC">byssima</corr>
                         </choice>.</p>
@@ -2578,7 +2578,7 @@
                                         <lem resp="#NC">sequitur</lem>
                                         <rdg wit="#ADIV_5Fb_1">sequuntur</rdg>
                                     </app>--> sanctum <name type="divin"
-                            >Stælaon</name> altitudinum occidentalium. <pb n="11"
+                            ><persName ref="Stælaon">Stælaon</persName></name> altitudinum occidentalium. <pb n="11"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-11.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-11"/>Prima altitudo,
                         fabricatur de cera <choice>
@@ -2612,8 +2612,8 @@
                                         <lem resp="#NC">sequitur</lem>
                                         <rdg wit="#ADIV_5Fb_1">sequuntur</rdg>
                                     </app>--> sanctum <name type="divin"
-                            >Stahelaon</name> altitudinum meridionalum. Prima, primæ sanctum <name
-                            type="divin">Stahelaon</name> et eius candelæ in ista altitudine
+                            ><persName ref="Stahelaon">Stahelaon</persName></name> altitudinum meridionalum. Prima, primæ sanctum <name
+                            type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> et eius candelæ in ista altitudine
                         fabricantur de cera crocei coloris. Secunda, secundæ de cera albi coloris
                         sed fusca. Tertia, tertiæ de cera uiolacea. Quarta, quartæ de cera coloris
                         florem <choice>
@@ -2633,17 +2633,17 @@
                                         <lem resp="#NC">sequitur</lem>
                                         <rdg wit="#ADIV_5Fb_1">sequuntur</rdg>
                                     </app>--> sanctum <name type="divin"
-                            >Stælaon</name> altitudinis <choice>
+                            ><persName ref="Stælaon">Stælaon</persName></name> altitudinis <choice>
                             <sic>septemtrionalis</sic>
                             <corr resp="#NC">septentrionalis</corr>
                         </choice><!--<app>
                                         <lem resp="#NC">septentrionalis</lem>
                                         <rdg wit="#ADIV_5Fb_1">septemtrionalis</rdg>
                                     </app>-->. Prima, primum sanctum <name
-                            type="divin">Stahelaon</name> primæ altitudinis et etiam candelæ de cera
-                        nigra. Secunda, secundum sanctum <name type="divin">Stahelaon</name> secundæ
+                            type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> primæ altitudinis et etiam candelæ de cera
+                        nigra. Secunda, secundum sanctum <name type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> secundæ
                         altitudinis et etiam candelæ de cerea coloris sanguinei. Tertia, tertium
-                        sanctum <name type="divin">Stahelaon</name> tertiæ altitudinis et etiam
+                        sanctum <name type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> tertiæ altitudinis et etiam
                         candelæ nigri coloris sed clari.</p>
                     <pb n="12" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-12.jpg"
                         xml:id="liber_hynotheon_ms_adiv_5fb1_page-12"/>
@@ -2655,11 +2655,11 @@
                 <pb n="13" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-13.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-13"/>
                 <head rend="italic bold">Figura prima</head>
-                <p>Modus formandi <del>fomandi</del> sanctum <name type="divin">Stahelaon</name>
-                    <name type="divin">THETAGRAMMATON</name>
-                    <name type="divin">HEL</name> 1. <name type="divin">Hynoytheon</name> 2. <name
-                        type="divin">Pthiaeumaton</name> 3. <name type="divin">Anbona</name> 4.
-                        <name type="divin">Yhehoua</name>
+                <p>Modus formandi <del>fomandi</del> sanctum <name type="divin"><persName ref="Stahelaon">Stahelaon</persName></name>
+                    <name type="divin"><persName ref="thetagrammaton">THETAGRAMMATON</persName></name>
+                    <name type="divin"><persName ref="hel">HEL</persName></name> 1. <name type="divin"><persName ref="Hynoytheon">Hynoytheon</persName></name> 2. <name
+                        type="divin"><persName ref="Pthiaeumaton">Pthiaeumaton</persName></name> 3. <name type="divin"><persName ref="Anbona">Anbona</persName></name> 4.
+                        <name type="divin"><persName ref="Yhehoua">Yhehoua</persName></name>
                 </p>
             </div>
 
@@ -2667,10 +2667,10 @@
                 <pb n="14" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-14.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-14"/>
                 <head rend="italic bold">Figura secunda</head>
-                <p><name type="divin">THETHAGRAMMATON</name>
-                    <name type="divin">HEL</name> 1. <name type="divin">Hynoytheon</name> 2. <name
-                        type="divin">Ptihaeumaton</name> 3. <name type="divin">Anabona</name> 4.
-                        <name type="divin">Ihehoua</name>
+                <p><name type="divin"><persName ref="thethagrammaton">THETHAGRAMMATON</persName></name>
+                    <name type="divin"><persName ref="hel">HEL</persName></name> 1. <name type="divin"><persName ref="Hynoytheon">Hynoytheon</persName></name> 2. <name
+                        type="divin"><persName ref="Ptihaeumaton">Ptihaeumaton</persName></name> 3. <name type="divin"><persName ref="Anabona">Anabona</persName></name> 4.
+                        <name type="divin"><persName ref="Ihehoua">Ihehoua</persName></name>
                 </p>
             </div>
             <pb n="15" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-15.jpg"
@@ -2710,7 +2710,7 @@
                         hora noctis usque ad nonam operatione luna crescente in pari numero.</p>
                 </div>
                 <div n="5" type="section">
-                    <p>Sciendum etiam et quod omnia sanctissima Hahelam sunt facienda ut primum <choice>
+                    <p>Sciendum etiam et quod omnia sanctissima <name type="divin"><persName ref="Hahelam">Hahelam</persName></name> sunt facienda ut primum <choice>
                             <sic>orientes</sic>
                             <corr resp="#NC">orientis</corr>
                         </choice><!--<app>
@@ -2899,7 +2899,7 @@
                         imperatoris et creatoris <pb n="17"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-17.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-17"/>omnium creaturarum quod
-                        est + <name type="divin">Thethagramaton</name> ut in exemplo.</p>
+                        est + <name type="divin"><persName ref="Thethagramaton">Thethagramaton</persName></name> ut in exemplo.</p>
                 </div>
                 <div n="4" type="section">
                     <p>Nota quod omnes principes omnium altitudinum habent colores et odores pro eo
@@ -2907,7 +2907,7 @@
                         corrumpi <del>corumpi</del> colores et odores ut eis uidetur.</p>
                 </div>
                 <div n="5" type="section">
-                    <p>Nota quod sanctissimum <name type="divin">Stahelaon</name> ut diximus est
+                    <p>Nota quod sanctissimum <name type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> ut diximus est
                         fabricandum die ☿, id est Mercurii, luna crescente ad bonam partem, si autem
                         ad malum a contrario ; et finito illud reponat in loco mundissimo. Et
                         antequam reponatur, <choice>
@@ -2986,7 +2986,7 @@
                                         <lem resp="#NC">ponat</lem>
                                         <rdg wit="#ADIV_5Fb_1">ponatura</rdg>
                                     </app>--> artista sanctum <name
-                            type="divin">Stahelaon</name> cum maxima ueneratione et genuflexus
+                            type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> cum maxima ueneratione et genuflexus
                         suffumiget illud odoribus illius altitudinis <choice>
                             <sic>quam posse</sic>
                             <corr resp="#NC">postquam</corr>
@@ -3006,8 +3006,8 @@
                                         <lem resp="#NC">deitas</lem>
                                         <rdg wit="#ADIV_5Fb_1">dietas</rdg>
                                     </app>--> sine fine, Deus creator omnium
-                        creaturarum, principium et finis, Deus <name type="divin"> Adonay</name>,
-                        Deus <name type="divin">Iahoua</name>, Deus <name type="divin">Cados</name>
+                        creaturarum, principium et finis, Deus <name type="divin"><persName ref="Adonay">Adonay</persName></name>,
+                        Deus <name type="divin"><persName ref="Iahoua">Iahoua</persName></name>, Deus <name type="divin"><persName ref="Cados">Cados</persName></name>
                         et Deus omnium in te sperantium, Deus uirtuosissimus atque sapientissimus et
                         seruator cordium, miserere mei et intende uoci deprecationis meæ dum oro ad
                         te, <del>deum</del> dum extollo manus meas ad templum sanctum tuum.</p>
@@ -3082,8 +3082,7 @@
                 <div n="1" type="section">
                     <p>Nota quod, dum artista genuflexus orat, debent esse sex candelæ accensæ super
                         tabulam et finita supra dicta oratione, scribere debebit nomen magnum et
-                        terribile cum maxima deuotione. Hoc est <name type="divin">
-                            Thethagramaton</name>
+                        terribile cum maxima deuotione. Hoc est <name type="divin"><persName ref="Thethagramaton">Thethagramaton</persName></name>
                         <choice>
                             <sic>dilectens</sic>
                             <corr resp="#NC">dilectans</corr>
@@ -3097,8 +3096,8 @@
                         adnotauimus.</p>
                 </div>
                 <div n="2" type="section">
-                    <p>Et postea, cum maxima ueneratione, candelas accendat sanctissimi Stahelaon ;
-                        quibus accensis suffumiget denuo sanctissumum Stahelaon. Et finita
+                    <p>Et postea, cum maxima ueneratione, candelas accendat sanctissimi <name type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> ;
+                        quibus accensis suffumiget denuo sanctissumum <name type="divin"><persName ref="Stahelaon">Stahelaon</persName></name>. Et finita
                         suffumigatione genuflexu incipiat operationem suam hoc modo.</p>
                 </div>
                 <div n="3" type="section">
@@ -3110,7 +3109,7 @@
                                         <lem resp="#NC">stilo</lem>
                                         <rdg wit="#ADIV_5Fb_1">stillo</rdg>
                                     </app>--> argenteo usque ad sanctum
-                        nomen Stahelaon et intus mittere sigillum altitudinis et caractera principum
+                        nomen <name type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> et intus mittere sigillum altitudinis et caractera principum
                         cum suis nominibus et postea foramen illud claudere. Antequam artista mittat
                         sigillum altitudinis et caractera principum <del>in formaine debet
                             suffumigare</del> in foramine debet suffumigare illa odoribus propriis.
@@ -3188,14 +3187,14 @@
                 </div>
                 <div n="2" type="section">
                     <p>Nos supra diximus quod artista genuflexus suffumigare debet sanctissimum
-                        Hælaon et, finita suffumigatione, incipere in tractatum sequentem
+                        <name type="divin"><persName ref="Hælaon">Hælaon</persName></name> et, finita suffumigatione, incipere in tractatum sequentem
                         coniurationem etiam genuflexus.</p>
                 </div>
             </div>
             <div n="14" type="chapitre">
                 <div n="1" type="section">
                     <p>Nota. Sciendum tamen est quod preparatio illa seu oratio quæ incipit « Deus
-                            <persName>Abraham</persName>, Deus <persName>Israel</persName> » &amp;
+                            <persName ref="#Abraham">Abraham</persName>, Deus <persName ref="Israël">Israel</persName> » &amp;
                         est dicenda ante primam horam illius planetæ, quæ <del>qua</del> operatur
                         altitudo. Etiam est sciendum quod artista, dum scribit sigillum altitudinis
                         et caractera principum debet etiam genuflexus permanere.</p>
@@ -3232,97 +3231,97 @@
                                         <lem resp="#NC">terrestribus</lem>
                                         <rdg wit="#ADIV_5Fb_1">terestribus</rdg>
                                     </app>--> et infernalibus quod scribitur
-                        quatuor litteris, id est <name type="divin">Voth</name>, <name type="divin"
-                            >Beth</name>, <name type="divin">Agla</name>, <name type="divin"
-                            >Aenar</name>
+                        quatuor litteris, id est <name type="divin"><persName ref="Voth">Voth</persName></name>, <name type="divin"
+                            ><persName ref="Beth">Beth</persName></name>, <name type="divin"><persName ref="Agla">Agla</persName></name>, <name type="divin"
+                            ><persName ref="Aenar">Aenar</persName></name>
                     </p>
                 </div>
                 <div n="2" type="section">
                     <p>et omnia alia nomina nobis cognita quae sunt hæc uidelicet <name type="divin"
-                            >On</name>, <name type="divin"> Caph</name>, <name type="divin"
-                            >Adicarday</name>, <name type="divin"><choice>
+                            ><persName ref="On">On</persName></name>, <name type="divin"><persName ref="Caph">Caph</persName></name>, <name type="divin"
+                            ><persName ref="Adicarday">Adicarday</persName></name>, <name type="divin"><persName ref="Cby"><choice>
                                 <sic>Cbij</sic>
                                 <corr resp="#NC">Cby</corr>
                             </choice><!--<app>
                                         <lem resp="#NC">Cby</lem>
                                         <rdg wit="#ADIV_5Fb_1">Cbij</rdg>
-                                    </app>--></name>, <name type="divin"
-                            >On</name>, <name type="divin">Abuinon</name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"
+                            ><persName ref="On">On</persName></name>, <name type="divin"><persName ref="Abuinon">Abuinon</persName></name>, <name type="divin"><persName ref="Ydios"><choice>
                                 <sic>Ijdios</sic>
                                 <corr resp="#NC">Ydios</corr>
                             </choice><!--<app>
                                         <lem resp="#NC">Ydios</lem>
                                         <rdg wit="#ADIV_5Fb_1">Ijdios</rdg>
-                                    </app>--></name>, <pb n="26"
+                                    </app>--></persName></name>, <pb n="26"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-26.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-26"/>
-                        <name type="divin">Thethagramaton</name>,<del>Hussio, Hel, Helij, Heloij,
+                        <name type="divin"><persName ref="Thethagramaton">Thethagramaton</persName></name>,<del>Hussio, Hel, Helij, Heloij,
                             Heloa</del>
-                        <name type="divin">Emanuel</name>, <name type="divin"><choice>
+                        <name type="divin"><persName ref="Emanuel">Emanuel</persName></name>, <name type="divin"><persName ref="Adonay"><choice>
                                 <sic>Adonaij</sic>
                                 <corr resp="#NC">Adonay</corr>
                             </choice><!--<app>
                                         <lem resp="#NC">Adonay</lem>
                                         <rdg wit="#ADIV_5Fb_1">Adonaij</rdg>
-                                    </app>--></name>, <name type="divin"
-                            >Agloto</name>, <name type="divin">Pantongraton</name>, <name
-                            type="divin">Hussio</name>, <name type="divin">Hel</name>, <name
-                            type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"
+                            ><persName ref="Agloto">Agloto</persName></name>, <name type="divin"><persName ref="Pantongraton">Pantongraton</persName></name>, <name
+                            type="divin"><persName ref="Hussio">Hussio</persName></name>, <name type="divin"><persName ref="Hel">Hel</persName></name>, <name
+                            type="divin"><persName ref="Hely"><choice>
                                 <sic>Helij</sic>
                                 <corr resp="#NC">Hely</corr>
                             </choice><!--<app><lem resp="#NC">Hely</lem>
                                         <rdg wit="#ADIV_5Fb_1">Helij</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Heloy"><choice>
                                 <sic>Heloij</sic>
                                 <corr resp="#NC">Heloy</corr>
                             </choice><!--<app><lem resp="#NC">Heloy</lem>
                                         <rdg wit="#ADIV_5Fb_1">Heloij</rdg>
-                                    </app>--></name>, <name type="divin"
-                            >Heloa</name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"
+                            ><persName ref="Heloa">Heloa</persName></name>, <name type="divin"><persName ref="Helya"><choice>
                                 <sic>Helija</sic>
                                 <corr resp="#NC">Helya</corr>
                             </choice><!--<app><lem resp="#NC">Helya</lem>
                                         <rdg wit="#ADIV_5Fb_1">Helija</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Helyen"><choice>
                                 <sic>Helijen</sic>
                                 <corr resp="#NC">Helyen</corr>
                             </choice><!--<app><lem resp="#NC">Helyen</lem>
                                         <rdg wit="#ADIV_5Fb_1">Helijen</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Elyoa"><choice>
                                 <sic>Elijoa</sic>
                                 <corr resp="#NC">Elyoa</corr>
                             </choice><!--<app><lem resp="#NC">Elyoa</lem>
                                         <rdg wit="#ADIV_5Fb_1">Elijoa</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Elyona"><choice>
                                 <sic>Elijona</sic>
                                 <corr resp="#NC">Elyona</corr>
                             </choice><!--<app><lem resp="#NC">Elyona</lem>
                                         <rdg wit="#ADIV_5Fb_1">Elijona</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Ely"><choice>
                                 <sic>Elij</sic>
                                 <corr resp="#NC">Ely</corr>
                             </choice><!--<app><lem resp="#NC">Ely</lem>
                                         <rdg wit="#ADIV_5Fb_1">Elij</rdg>
-                                    </app>--></name>, <name type="divin"
-                            >Vasala</name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"
+                            ><persName ref="Vasala">Vasala</persName></name>, <name type="divin"><persName ref="Valy"><choice>
                                 <sic>Valij</sic>
                                 <corr resp="#NC">Valy</corr>
                             </choice><!--<app><lem resp="#NC">Valy</lem>
                                         <rdg wit="#ADIV_5Fb_1">Valij</rdg>
-                                    </app>--></name>, <name type="divin"
-                            >Teul</name>, <name type="divin">Vaul</name>, <name type="divin"
-                            >Vau</name>, <name type="divin">Seu</name>, <name type="divin"
-                            >Signasis</name>, <name type="divin">Aghetan</name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"
+                            ><persName ref="Teul">Teul</persName></name>, <name type="divin"><persName ref="Vaul">Vaul</persName></name>, <name type="divin"
+                            ><persName ref="Vau">Vau</persName></name>, <name type="divin"><persName ref="Seu">Seu</persName></name>, <name type="divin"
+                            ><persName ref="Signasis">Signasis</persName></name>, <name type="divin"><persName ref="Aghetan">Aghetan</persName></name>, <name type="divin"><persName ref="Abyonitas"><choice>
                                 <sic>Abijonitas</sic>
                                 <corr resp="#NC">Abyonitas</corr>
                             </choice><!--<app><lem resp="#NC">Abyonitas</lem>
                                         <rdg wit="#ADIV_5Fb_1">Abijonitas</rdg>
-                                    </app>--></name>, <name type="divin"
-                            >Ieue</name>, <name type="divin">Techtron</name>, <name type="divin"
-                            >Techtron</name>, <name type="divin">Alausim</name>, <name type="divin"
-                            >Chalbatl</name>,<del>Ieue</del>
-                        <name type="divin">Iobel</name>, <name type="divin">Onio</name>, <name
-                            type="divin">Vna</name>, <name type="divin">Saluator</name>, <name
+                                    </app>--></persName></name>, <name type="divin"
+                            ><persName ref="Ieue">Ieue</persName></name>, <name type="divin"><persName ref="Techtron">Techtron</persName></name>, <name type="divin"
+                            ><persName ref="Techtron">Techtron</persName></name>, <name type="divin"><persName ref="Alausim">Alausim</persName></name>, <name type="divin"
+                            ><persName ref="Chalbatl">Chalbatl</persName></name>,<del>Ieue</del>
+                        <name type="divin"><persName ref="Iobel">Iobel</persName></name>, <name type="divin"><persName ref="Onio">Onio</persName></name>, <name
+                            type="divin"><persName ref="Vna">Vna</persName></name>, <name type="divin"><persName ref="Saluator">Saluator</persName></name>, <name
                             type="divin">A et O</name> ego sum qui sum, <name type="divin"
                             >Aehec</name>, <name type="divin">Sehoua</name>, <name type="divin"
                             >Anabona</name>, <name type="divin"><choice>
@@ -3573,22 +3572,22 @@
                                 <sic>Hascheije</sic>
                                 <corr resp="#NC">Hascheye</corr>
                             </choice><!--<app><lem resp="#NC">Hascheye</lem><rdg wit="#ADIV_5Fb_1">Hascheije</rdg></app>--></name>,
-                            <name type="divin">Aumar</name>, <name type="divin">Sol</name>, <name
-                            type="divin">Thauth</name>, <name type="divin">Va</name>, <name
-                            type="divin">Benchi</name>, <name type="divin">Sthason</name>, <name
-                            type="divin">Adonias</name>, <name type="divin">Adon</name>, <name
-                            type="divin">Abiashar</name>, <name type="divin">Abiagail</name>, <name
-                            type="divin">Elcana</name>, <name type="divin">Elnathan</name>, <name
-                            type="divin">Ezieniel</name>, <name type="divin">Cios</name>, <name
-                            type="divin">Sachiel</name>, <name type="divin">Sedecsias</name>, <name
-                            type="divin">Sadael</name>, <name type="divin">Ozielozias</name>,
+                            <name type="divin"><persName ref="Aumar">Aumar</persName></name>, <name type="divin"><persName ref="Sol">Sol</persName></name>, <name
+                            type="divin"><persName ref="Thauth">Thauth</persName></name>, <name type="divin"><persName ref="Va">Va</persName></name>, <name
+                            type="divin"><persName ref="Benchi">Benchi</persName></name>, <name type="divin"><persName ref="Sthason">Sthason</persName></name>, <name
+                            type="divin"><persName ref="Adonias">Adonias</persName></name>, <name type="divin"><persName ref="Adon">Adon</persName></name>, <name
+                            type="divin"><persName ref="Abiashar">Abiashar</persName></name>, <name type="divin"><persName ref="Abiagail">Abiagail</persName></name>, <name
+                            type="divin"><persName ref="Elcana">Elcana</persName></name>, <name type="divin"><persName ref="Elnathan">Elnathan</persName></name>, <name
+                            type="divin"><persName ref="Ezieniel">Ezieniel</persName></name>, <name type="divin"><persName ref="Cios">Cios</persName></name>, <name
+                            type="divin"><persName ref="Sachiel">Sachiel</persName></name>, <name type="divin"><persName ref="Sedecsias">Sedecsias</persName></name>, <name
+                            type="divin"><persName ref="Sadæl">Sadæl</persName></name>, <name type="divin"><persName ref="Ozielozias">Ozielozias</persName></name>,
                             <del>Ieosna Selum Somer Thari</del>
-                        <name type="divin">Meschias</name>, <name type="divin">Manahem</name>, <name
-                            type="divin">Tesitas</name>, <name type="divin">Iohacas</name>, <name
-                            type="divin">Ieosna</name>, <name type="divin">Selum</name>, <name
-                            type="divin">Somer</name>, <name type="divin">Thari</name>, <name
-                            type="divin">Salomich</name>, <name type="divin">Phanuel</name>, <name
-                            type="divin">Oscheo</name>
+                        <name type="divin"><persName ref="Meschias">Meschias</persName></name>, <name type="divin"><persName ref="Manahem">Manahem</persName></name>, <name
+                            type="divin"><persName ref="Tesitas">Tesitas</persName></name>, <name type="divin"><persName ref="Iohacas">Iohacas</persName></name>, <name
+                            type="divin"><persName ref="Ieosna">Ieosna</persName></name>, <name type="divin"><persName ref="Selum">Selum</persName></name>, <name
+                            type="divin"><persName ref="Somer">Somer</persName></name>, <name type="divin"><persName ref="Thari">Thari</persName></name>, <name
+                            type="divin"><persName ref="Salomich">Salomich</persName></name>, <name type="divin"><persName ref="Phanuel">Phanuel</persName></name>, <name
+                            type="divin"><persName ref="Oscheo">Oscheo</persName></name>
                     </p>
                 </div>
                 <div n="3" type="section">
@@ -3678,7 +3677,7 @@
                                         <lem resp="#NC">lotis</lem>
                                         <rdg wit="#ADIV_5Fb_1">letis</rdg>
                                     </app>--> manibus aqua rosarum cum
-                        sigillo magni Dei, sigilla, candelas sancti Hahelaon, in pari numero, et
+                        sigillo magni Dei, sigilla, candelas sancti <name type="divin"><persName ref="Hahelaon">Hahelaon</persName></name>, in pari numero, et
                         postea ad locum suum repones sigillum et reitera per duas alias uices
                         inuocationem, et procul dubio, antequam lumen ueniat, ad figuram sigilli,
                         nuntius apparebit et quidquid uoleris obtinebis.</p>
@@ -3704,7 +3703,7 @@
                 <div n="4" type="section">
                     <p>Tunc ipse maxima cum grauitate cum artista alloquetur, et postea euocarit
                         tunc artista surget et extinguet candelas. Et cum maxima ueneratione,
-                        sanctum Hahelaon reponat in loco mundissimo cum odoribus illius
+                        sanctum <name type="divin"><persName ref="Hahelaon">Hahelaon</persName></name> reponat in loco mundissimo cum odoribus illius
                         altitudinis.</p>
                 </div>
             </div>
@@ -3734,10 +3733,10 @@
                     <p>Et in omnibus altitudinibus sunt scribenda nomina et nulla alia differentia
                         est nisi color et ueste illa potest uti in omnibus operationibus, multa alia
                         mihi erant dicenda sed quoniam cognoui non esse necessaria, idcirco finem
-                        ponam <name type="divin"><choice>
+                        ponam <name type="divin"><persName ref="Hynothitheo">Hynothitheo"><choice>
                                 <sic>Hijnothitheo</sic>
                                 <corr resp="#NC">Hynothitheo</corr>
-                            </choice><!--<app><lem resp="#NC">Hynothitheo</lem><rdg wit="#ADIV_5Fb_1">Hijnothitheo</rdg></app>--></name>.
+                            </choice><!--<app><lem resp="#NC">Hynothitheo</lem><rdg wit="#ADIV_5Fb_1">Hijnothitheo</rdg></app>--></persName></name>.
                     </p>
                 </div>
                 <div n="5" type="section">
@@ -3754,15 +3753,15 @@
             <div n="fig6a" type="figure">
                 <p><pb n="29" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-29.jpg"
                         xml:id="liber_hynotheon_ms_adiv_5fb1_page-29"/>Figura sexta. Forma uestis
-                    artistæ Ex alia parte <name type="divin">ELIZBETH</name>
-                    <name type="divin">ABESSALOM</name>
-                    <name type="divin">AVORRA</name>
-                    <name type="divin">ADONAY</name>
-                    <name type="divin">EMANVEL</name>
-                    <name type="divin">OZA</name>
-                    <name type="divin">SAPHAD</name>
-                    <name type="divin">ELCANA</name>
-                    <name type="divin">ELIMELGH</name>
+                    artistæ Ex alia parte <name type="divin"><persName ref="Elizbeth">ELIZBETH</persName></name>
+                    <name type="divin"><persName ref="Abessalom">ABESSALOM</persName></name>
+                    <name type="divin"><persName ref="Auorra">AVORRA</persName></name>
+                    <name type="divin"><persName ref="Adonay">ADONAY</persName></name>
+                    <name type="divin"><persName ref="Emanuel">EMANVEL</persName></name>
+                    <name type="divin"><persName ref="Oza">OZA</persName></name>
+                    <name type="divin"><persName ref="Saphad">SAPHAD</persName></name>
+                    <name type="divin"><persName ref="Elcana">ELCANA</persName></name>
+                    <name type="divin"><persName ref="Elimelgh">ELIMELGH</persName></name>
                 </p>
             </div>
             <div n="fig6b" type="figure">
@@ -3812,7 +3811,7 @@
                                         <lem resp="#NC">olibani</lem>
                                         <rdg wit="#ADIV_5Fb_1">olebani</rdg>
                                     </app>-->. Finita <del>sul</del>
-                        suffumigatione <del>suffumigare</del> illud reponere in sanctum Hahelaon.
+                        suffumigatione <del>suffumigare</del> illud reponere in sanctum <name type="divin"><persName ref="Hahelaon">Hahelaon</persName></name>.
                     </p>
                 </div>
                 <div n="4" type="section">
@@ -3832,12 +3831,12 @@
             </div>
             <div n="20" type="chapitre">
                 <div n="1" type="section">
-                    <p>Oratio. O <name type="divin">Adonay</name>, <name type="divin">Saday</name>,
-                            <name type="divin"><choice>
+                    <p>Oratio. O <name type="divin"><persName ref="Adonay">Adonay</persName></name>, <name type="divin"><persName ref="Saday">Saday</persName></name>,
+                            <name type="divin"><persName ref="Heloyn"><choice>
                                 <sic>Heloijn</sic>
                                 <corr resp="#NC">Heloyn</corr>
-                            </choice><!--<app><lem resp="#NC">Heloyn</lem><rdg wit="#ADIV_5Fb_1">Heloijn</rdg></app>--></name>,
-                        qui es <name type="divin">A et ω</name>, hoc est principium et finis absque
+                            </choice><!--<app><lem resp="#NC">Heloyn</lem><rdg wit="#ADIV_5Fb_1">Heloijn</rdg></app>--></persName></name>,
+                        qui es <name type="divin"><persName ref="A et ω">A et ω</persName></name>, hoc est principium et finis absque
                         principio et fine, in quo uiuens homo cognoscit, Rex <choice>
                             <sic>sum</sic>
                             <corr resp="#NC">summe</corr>
@@ -3927,11 +3926,11 @@
             <div n="fig7" type="figure">
                 <pb n="33" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-33.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-33"/>
-                <p>Figura Septima. Hoc est sigillum magnum Dei <name type="divin">HELOEN</name>
-                    <name type="divin">ADONAY</name>
-                    <name type="divin">PIUS</name>
-                    <name type="divin">ANABONA</name>
-                    <name type="divin">ARANITAN</name> Hæc est <choice>
+                <p>Figura Septima. Hoc est sigillum magnum Dei <name type="divin"><persName ref="Heloen">HELOEN</persName></name>
+                    <name type="divin"><persName ref="Adonay">ADONAY</persName></name>
+                    <name type="divin"><persName ref="Pius">PIUS</persName></name>
+                    <name type="divin"><persName ref="Anabona">ANABONA</persName></name>
+                    <name type="divin"><persName ref="Aranitan">ARANITAN</persName></name> Hæc est <choice>
                         <sic>segunda</sic>
                         <corr resp="#NC">secunda</corr>
                     </choice><!--<app>
@@ -3946,12 +3945,12 @@
                                     <lem resp="#NC">pars</lem>
                                     <rdg wit="#ADIV_5Fb_1">partis</rdg>
                                 </app>--> sigilli <name type="divin"
-                        >TETHAGRAMMATON</name>
-                    <name type="divin">ANABONA</name>
-                    <name type="divin">IHEHOVA</name>
-                    <name type="divin">HELOEN</name>
-                    <name type="divin">A ω</name>
-                    <name type="divin">ADONA</name>
+                        ><persName ref="Tethagrammaton">TETHAGRAMMATON</persName></name>
+                    <name type="divin"><persName ref="Anabona">ANABONA</persName></name>
+                    <name type="divin"><persName ref="Ihehoua">IHEHOVA</persName></name>
+                    <name type="divin"><persName ref="Heloen">HELOEN</persName></name>
+                    <name type="divin"><persName ref="A et ω">A ω</persName></name>
+                    <name type="divin"><persName ref="Adona">ADONA</persName></name>
                 </p>
             </div>
         </body>
