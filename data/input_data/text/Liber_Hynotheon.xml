@@ -3751,8 +3751,9 @@
             </div>
 
             <div n="fig6a" type="figure">
-                <p><pb n="29" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-29.jpg"
-                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-29"/>Figura sexta. Forma uestis
+                <pb n="29" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-29.jpg"
+                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-29"/><head rend="italic bold">Figura sexta</head> 
+                        <p>Forma uestis
                     artistæ Ex alia parte <name type="divin"><persName ref="Elizbeth">ELIZBETH</persName></name>
                     <name type="divin"><persName ref="Abessalom">ABESSALOM</persName></name>
                     <name type="divin"><persName ref="Auorra">AVORRA</persName></name>
@@ -3926,7 +3927,8 @@
             <div n="fig7" type="figure">
                 <pb n="33" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-33.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-33"/>
-                <p>Figura Septima. Hoc est sigillum magnum Dei <name type="divin"><persName ref="Heloen">HELOEN</persName></name>
+                <head rend="italic bold">Figura Septima</head> 
+                <p>Hoc est sigillum magnum Dei <name type="divin"><persName ref="Heloen">HELOEN</persName></name>
                     <name type="divin"><persName ref="Adonay">ADONAY</persName></name>
                     <name type="divin"><persName ref="Pius">PIUS</persName></name>
                     <name type="divin"><persName ref="Anabona">ANABONA</persName></name>
