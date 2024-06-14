@@ -3340,63 +3340,63 @@
                             </choice><!--<app><lem resp="#NC">Syalos</lem>
                                         <rdg wit="#ADIV_5Fb_1">Sijalos</rdg>
                                     </app>--></persName></name>, <name type="divin"
-                            >Ane</name>, <name type="divin">Adneth</name>, <name type="divin"
-                            >Esba</name>, <name type="divin">Athoth</name>, <name type="divin"><choice>
+                            ><persName ref="Ane">Ane</persName></name>, <name type="divin"><persName ref="Adneth">Adneth</persName></name>, <name type="divin"
+                            ><persName ref="Esba">Esba</persName></name>, <name type="divin"><persName ref="Athoth">Athot</persName>h</name>, <name type="divin"><persName ref="Yotlya"><choice>
                                 <sic>Ijotlija</sic>
                                 <corr resp="#NC">Yotlya</corr>
                             </choice><!--<app><lem resp="#NC">Yotlya</lem>
                                         <rdg wit="#ADIV_5Fb_1">Ijotlija</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Ayan"><choice>
                                 <sic>Aijan</sic>
                                 <corr resp="#NC">Ayan</corr>
                             </choice><!--<app><lem resp="#NC">Ayan</lem>
                                         <rdg wit="#ADIV_5Fb_1">Aijan</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Ayac"><choice>
                                 <sic>Aijac</sic>
                                 <corr resp="#NC">Ayac</corr>
                             </choice><!--<app><lem resp="#NC">Ayac</lem>
                                         <rdg wit="#ADIV_5Fb_1">Aijac</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Dyeron"><choice>
                                 <sic>Dijeron</sic>
                                 <corr resp="#NC">Dyeron</corr>
                             </choice><!--<app><lem resp="#NC">Dyeron</lem>
                                         <rdg wit="#ADIV_5Fb_1">Dijeron</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Zasaday"><choice>
                                 <sic>Zasadaij</sic>
                                 <corr resp="#NC">Zasaday</corr>
                             </choice><!--<app><lem resp="#NC">Zasaday</lem>
                                         <rdg wit="#ADIV_5Fb_1">Zasadaij</rdg>
-                                    </app>--></name>, <name type="divin"
-                            >Oin</name>, <name type="divin">Vlath</name>, <name type="divin"
-                            >Vnias</name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"
+                            ><persName ref="Oin">Oin</persName></name>, <name type="divin"><persName ref="Vlath">Vlath</persName></name>, <name type="divin"
+                            ><persName ref="Vnias">Vnias</persName></name>, <name type="divin"><persName ref="Yonas"><choice>
                                 <sic>Ijonas</sic>
                                 <corr resp="#NC">Yonas</corr>
                             </choice><!--<app><lem resp="#NC">Yonas</lem>
                                         <rdg wit="#ADIV_5Fb_1">Ijonas</rdg>
-                                    </app>--></name>, <name type="divin"
-                            >Otheth</name>, <name type="divin">Ihegh</name>, <name type="divin"
-                            >Abamor</name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"
+                            ><persName ref="Otheth">Otheth</persName></name>, <name type="divin"><persName ref="Ihegh">Ihegh</persName></name>, <name type="divin"
+                            ><persName ref="Abamor">Abamor</persName></name>, <name type="divin"><persName ref="Adyos"><choice>
                                 <sic>Adijos</sic>
                                 <corr resp="#NC">Adyos</corr>
                             </choice><!--<app><lem resp="#NC">Adyos</lem>
                                         <rdg wit="#ADIV_5Fb_1">Adijos</rdg>
-                                    </app>--></name>, <name type="divin"
-                            >Vertahel</name>, <name type="divin">Bemon</name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"
+                            ><persName ref="Vertahel">Vertahel</persName></name>, <name type="divin"><persName ref="Bemon">Bemon</persName></name>, <name type="divin"><persName ref="Zeloy"><choice>
                                 <sic>Zeloij</sic>
                                 <corr resp="#NC">Zeloy</corr>
                             </choice><!--<app><lem resp="#NC">Zeloy</lem>
                                         <rdg wit="#ADIV_5Fb_1">Zeloij</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Zeray"><choice>
                                 <sic>Zeraij</sic>
                                 <corr resp="#NC">Zeray</corr>
                             </choice><!--<app><lem resp="#NC">Zeray</lem>
                                         <rdg wit="#ADIV_5Fb_1">Zeraij</rdg>
-                                    </app>--></name>, <name type="divin"><choice>
+                                    </app>--></persName></name>, <name type="divin"><persName ref="Manay"><choice>
                                 <sic>Manaij</sic>
                                 <corr resp="#NC">Manay</corr>
-                            </choice><!--<app><lem resp="#NC">Manay</lem><rdg wit="#ADIV_5Fb_1">Manaij</rdg></app>--></name>,
-                            <name type="divin">Alba</name>, <name type="divin">Abatha</name>, <name
-                            type="divin">Nethon</name>, <name type="divin">Auhulo</name>, <name
+                            </choice><!--<app><lem resp="#NC">Manay</lem><rdg wit="#ADIV_5Fb_1">Manaij</rdg></app>--></persName></name>,
+                            <name type="divin"><persName ref="Alba">Alba</persName></name>, <name type="divin"><persName ref="Abatha">Abatha</persName></name>, <name
+                            type="divin"><persName ref="Nethon">Nethon</persName></name>, <name type="divin"><persName ref="Auhulo">Auhulo</persName></name>, <name
                             type="divin">Anarna</name>, <name type="divin">Sanel</name>, <name
                             type="divin">Ferglaon</name>, <name type="divin"><choice>
                                 <sic>Daijclan</sic>
