@@ -3733,7 +3733,7 @@
                             type="divin"><persName ref="Sarsamahehim"
                         >Sarsamahehim</persName></name>, <name type="divin"><persName ref="Malathim"
                                 >Malathim</persName></name>, <name type="divin"><persName
-                                ref="Sabachyssim">"><choice>
+                                ref="Sabachyssim"><choice>
                                     <sic>Sabachijssim</sic>
                                     <corr resp="#NC">Sabachyssim</corr>
                                 </choice><!--<app><lem resp="#NC">Sabachyssim</lem><rdg wit="#ADIV_5Fb_1">Sabachijssim</rdg></app>--></persName></name>,
@@ -4011,7 +4011,7 @@
                     <p>Et in omnibus altitudinibus sunt scribenda nomina et nulla alia differentia
                         est nisi color et ueste illa potest uti in omnibus operationibus, multa alia
                         mihi erant dicenda sed quoniam cognoui non esse necessaria, idcirco finem
-                        ponam <name type="divin"><persName ref="Hynothitheo">Hynothitheo"><choice>
+                        ponam <name type="divin"><persName ref="Hynothitheo">Hynothitheo<choice>
                                     <sic>Hijnothitheo</sic>
                                     <corr resp="#NC">Hynothitheo</corr>
                                 </choice><!--<app><lem resp="#NC">Hynothitheo</lem><rdg wit="#ADIV_5Fb_1">Hijnothitheo</rdg></app>--></persName></name>.
