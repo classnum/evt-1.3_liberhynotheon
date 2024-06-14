@@ -46,6 +46,31 @@ p {
     padding-bottom: 1.5em;
 }
 
+#text_frame-add[data-page="liber_hynotheon_front"] {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+/*    margin-top: auto !important;*/
+}
+
+#text_frame-add[data-page="liber_hynotheon_front"] div div {
+    font-size: 1em;
+}
+
+#text_frame-add[data-page=liber_hynotheon_front] h1[data-type="main"] {
+    font-size: 200% !important;
+    font-style: italic;
+    padding-top: 5em;
+    padding-bottom: 1em;
+    /*color: blue;*/
+}
+
+#text_frame-add[data-page=liber_hynotheon_front] h1[data-type="sub"] {
+    padding-bottom: 1.5em;
+}
+
+#text_cont {
+  padding-top: 8px;
+}
+
 span[data-tagname="hi"] {
     font-weight: bold;
 }
