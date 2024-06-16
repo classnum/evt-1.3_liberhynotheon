@@ -4424,7 +4424,7 @@
                     <p><name type="divin"><persName ref="Pius">PIUS</persName></name></p>
                     <p><name type="divin"><persName ref="Anabona">ANABONA</persName></name></p>
                     <p><name type="divin"><persName ref="Aranitan">ARANITAN</persName></name></p>
-                    <head rend="italic bold">Hæc est <choice>
+                    <p>Hæc est <choice>
                         <sic>segunda</sic>
                         <corr resp="#NC">secunda</corr>
                     </choice><!--<app>
@@ -4438,7 +4438,7 @@
                     <!--<app>
                                     <lem resp="#NC">pars</lem>
                                     <rdg wit="#ADIV_5Fb_1">partis</rdg>
-                                </app>--> sigilli</head> 
+                                </app>--> sigilli</p> 
                                 <p><name type="divin"><persName
                             ref="Tethagrammaton">TETHAGRAMMATON</persName></name></p>
                     <p><name type="divin"><persName ref="Anabona">ANABONA</persName></name></p>
