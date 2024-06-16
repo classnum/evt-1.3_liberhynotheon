@@ -1642,8 +1642,9 @@
                     </div>
                     <div>
                         <p rend="bold">C. Sources éditées de l’Almandal</p>
-                        <p>VÉRONÈSE Julien, L’Almandal et l’Almadel latins au Moyen-Âge.
-                            Introduction et éditions critiques, Firenze, Sismel Edizioni dell
+                        <p>VÉRONÈSE Julien, <emph rend="italic"
+                                >L’Almandal et l’Almadel latins au Moyen-Âge.
+                            Introduction et éditions critiques</emph>, Firenze, Sismel Edizioni dell
                             Galluzzo, 2012.</p>
                     </div>
                     <div>
@@ -2990,16 +2991,16 @@
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-13"/>
                 <head rend="italic bold">Figura prima</head>
                 <p>Modus formandi <del>fomandi</del> sanctum <name type="divin"><persName
-                            ref="Stahelaon">Stahelaon</persName></name>
-                    <name type="divin"><persName ref="thetagrammaton"
-                        >THETAGRAMMATON</persName></name>
-                    <name type="divin"><persName ref="hel">HEL</persName></name> 1. <name
-                        type="divin"><persName ref="Hynoytheon">Hynoytheon</persName></name> 2.
+                            ref="Stahelaon">Stahelaon</persName></name></p>
+                    <p><name type="divin"><persName ref="thetagrammaton"
+                        >THETAGRAMMATON</persName></name></p>
+                    <p><name type="divin"><persName ref="hel">HEL</persName></name></p> <p>1. <name
+                        type="divin"><persName ref="Hynoytheon">Hynoytheon</persName></name></p> <p>2.
                         <name type="divin"><persName ref="Pthiaeumaton"
-                        >Pthiaeumaton</persName></name> 3. <name type="divin"><persName ref="Anbona"
-                            >Anbona</persName></name> 4. <name type="divin"><persName ref="Yhehoua"
-                            >Yhehoua</persName></name>
-                </p>
+                        >Pthiaeumaton</persName></name></p> <p>3. <name type="divin"><persName ref="Anbona"
+                            >Anbona</persName></name></p> <p>4. <name type="divin"><persName ref="Yhehoua"
+                            >Yhehoua</persName></name></p>
+                
             </div>
 
             <div n="fig2" type="figure">
@@ -3007,12 +3008,12 @@
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-14"/>
                 <head rend="italic bold">Figura secunda</head>
                 <p><name type="divin"><persName ref="thethagrammaton"
-                        >THETHAGRAMMATON</persName></name>
-                    <name type="divin"><persName ref="hel">HEL</persName></name> 1. <name
-                        type="divin"><persName ref="Hynoytheon">Hynoytheon</persName></name> 2.
+                        >THETHAGRAMMATON</persName></name></p>
+                    <p><name type="divin"><persName ref="hel">HEL</persName></name></p> <p>1. <name
+                        type="divin"><persName ref="Hynoytheon">Hynoytheon</persName></name></p> <p>2.
                         <name type="divin"><persName ref="Ptihaeumaton"
-                        >Ptihaeumaton</persName></name> 3. <name type="divin"><persName
-                            ref="Anabona">Anabona</persName></name> 4. <name type="divin"><persName
+                        >Ptihaeumaton</persName></name></p> <p>3. <name type="divin"><persName
+                            ref="Anabona">Anabona</persName></name></p> <p>4. <name type="divin"><persName
                             ref="Ihehoua">Ihehoua</persName></name>
                 </p>
             </div>
@@ -3505,22 +3506,22 @@
                 <pb n="21" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-21.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-21"/>
                 <head rend="italic bold">Figura tertia</head>
-                <head rend="italic bold">Sigillum primæ</head>
-                <p>Altitudinis orientalis Caractera principum</p>
+                <head rend="italic bold">Sigillum primæ
+                altitudinis orientalis</head> <p>Caractera principum</p>
             </div>
 
             <div n="fig4" type="figure">
                 <pb n="22" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-22.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-22"/>
                 <head rend="italic bold">Figura quarta</head>
-                <p>Sigillum secundæ altitudinis orientalis 2</p>
+                <head rend="italic bold">Sigillum secundæ altitudinis orientalis</head>
             </div>
 
             <div n="fig5a" type="figure">
                 <pb n="23" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-23.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-23"/>
                 <head rend="italic bold">Figura quinta</head>
-                <p>Sigillum tertiæ altitudinis</p>
+                <head rend="italic bold">Sigillum tertiæ altitudinis</head>
             </div>
             <div n="fig5b" type="figure">
                 <p>
@@ -4239,16 +4240,16 @@
                 <pb n="29" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-29.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-29"/>
                 <head rend="italic bold">Figura sexta</head>
-                <p>Forma uestis artistæ Ex alia parte <name type="divin"><persName ref="Elizbeth"
-                            >ELIZBETH</persName></name>
-                    <name type="divin"><persName ref="Abessalom">ABESSALOM</persName></name>
-                    <name type="divin"><persName ref="Auorra">AVORRA</persName></name>
-                    <name type="divin"><persName ref="Adonay">ADONAY</persName></name>
-                    <name type="divin"><persName ref="Emanuel">EMANVEL</persName></name>
-                    <name type="divin"><persName ref="Oza">OZA</persName></name>
-                    <name type="divin"><persName ref="Saphad">SAPHAD</persName></name>
-                    <name type="divin"><persName ref="Elcana">ELCANA</persName></name>
-                    <name type="divin"><persName ref="Elimelgh">ELIMELGH</persName></name>
+                <head rend="italic bold">Forma uestis artistæ Ex alia parte</head> <p><name type="divin"><persName ref="Elizbeth"
+                            >ELIZBETH</persName></name></p>
+                   <p> <name type="divin"><persName ref="Abessalom">ABESSALOM</persName></name></p>
+                    <p><name type="divin"><persName ref="Auorra">AVORRA</persName></name></p>
+                    <p><name type="divin"><persName ref="Adonay">ADONAY</persName></name></p>
+                    <p><name type="divin"><persName ref="Emanuel">EMANVEL</persName></name></p>
+                    <p><name type="divin"><persName ref="Oza">OZA</persName></name></p>
+                    <p><name type="divin"><persName ref="Saphad">SAPHAD</persName></name></p>
+                    <p><name type="divin"><persName ref="Elcana">ELCANA</persName></name></p>
+                   <p><name type="divin"><persName ref="Elimelgh">ELIMELGH</persName></name>
                 </p>
             </div>
             <div n="fig6b" type="figure">
@@ -4416,12 +4417,14 @@
                 <pb n="33" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-33.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-33"/>
                 <head rend="italic bold">Figura Septima</head>
-                <p>Hoc est sigillum magnum Dei <name type="divin"><persName ref="Heloen"
-                            >HELOEN</persName></name>
-                    <name type="divin"><persName ref="Adonay">ADONAY</persName></name>
-                    <name type="divin"><persName ref="Pius">PIUS</persName></name>
-                    <name type="divin"><persName ref="Anabona">ANABONA</persName></name>
-                    <name type="divin"><persName ref="Aranitan">ARANITAN</persName></name> Hæc est <choice>
+                <head rend="italic bold">Hoc est sigillum magnum Dei</head> 
+                <p><name type="divin"><persName ref="Heloen"
+                            >HELOEN</persName></name></p>
+                    <p><name type="divin"><persName ref="Adonay">ADONAY</persName></name></p>
+                    <p><name type="divin"><persName ref="Pius">PIUS</persName></name></p>
+                    <p><name type="divin"><persName ref="Anabona">ANABONA</persName></name></p>
+                    <p><name type="divin"><persName ref="Aranitan">ARANITAN</persName></name></p>
+                    <head rend="italic bold">Hæc est <choice>
                         <sic>segunda</sic>
                         <corr resp="#NC">secunda</corr>
                     </choice><!--<app>
@@ -4435,13 +4438,14 @@
                     <!--<app>
                                     <lem resp="#NC">pars</lem>
                                     <rdg wit="#ADIV_5Fb_1">partis</rdg>
-                                </app>--> sigilli <name type="divin"><persName
-                            ref="Tethagrammaton">TETHAGRAMMATON</persName></name>
-                    <name type="divin"><persName ref="Anabona">ANABONA</persName></name>
-                    <name type="divin"><persName ref="Ihehoua">IHEHOVA</persName></name>
-                    <name type="divin"><persName ref="Heloen">HELOEN</persName></name>
-                    <name type="divin"><persName ref="A et ω">A ω</persName></name>
-                    <name type="divin"><persName ref="Adona">ADONA</persName></name>
+                                </app>--> sigilli</head> 
+                                <p><name type="divin"><persName
+                            ref="Tethagrammaton">TETHAGRAMMATON</persName></name></p>
+                    <p><name type="divin"><persName ref="Anabona">ANABONA</persName></name></p>
+                    <p><name type="divin"><persName ref="Ihehoua">IHEHOVA</persName></name></p>
+                    <p><name type="divin"><persName ref="Heloen">HELOEN</persName></name></p>
+                    <p><name type="divin"><persName ref="A et ω">A ω</persName></name></p>
+                    <p><name type="divin"><persName ref="Adona">ADONA</persName></name>
                 </p>
             </div>
         </body>
