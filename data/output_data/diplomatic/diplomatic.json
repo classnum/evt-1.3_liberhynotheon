@@ -380,7 +380,7 @@
 							
 									{
 									"line" : "|",
-									"text" : "Modus formandi fomandi sanctum Stahelaon THETAGRAMMATON HEL 1. Hynoytheon 2. Pthiaeumaton 3. Anbona 4. Yhehoua",
+									"text" : "Modus formandi fomandi sanctum Stahelaon",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-13|13",
 									"inFront": "false"
@@ -388,7 +388,95 @@
 								
 									{
 									"line" : "|",
-									"text" : "THETHAGRAMMATON HEL 1. Hynoytheon 2. Ptihaeumaton 3. Anabona 4. Ihehoua",
+									"text" : "THETAGRAMMATON",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-13|13",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "HEL",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-13|13",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "1. Hynoytheon",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-13|13",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "2. Pthiaeumaton",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-13|13",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "3. Anbona",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-13|13",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "4. Yhehoua",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-13|13",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "THETHAGRAMMATON",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-14|14",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "HEL",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-14|14",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "1. Hynoytheon",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-14|14",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "2. Ptihaeumaton",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-14|14",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "3. Anabona",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-14|14",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "4. Ihehoua",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-14|14",
 									"inFront": "false"
@@ -556,7 +644,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "Oratio. « Deus Abraham, Deus Isaac, Deus Iacob, Deus Moisi, Deus omnium in te sperantium, Deus meus et protector uitæ meæ, Domine, o Benignissime, Domine, rogo tuam diuinam maiestatem quantum rogare possum ut mihi famulo tuo n. (n. id est nomen id est nomen) tantam gratiam",
+									"text" : "Oratio. « Deus Abraham, Deus Isaac, Deus Iacob, Deus Moisi, Deus omnium in te sperantium, Deus meus et protector uitæ meæ, Domine, o Benignissime, Domine, rogo tuam diuinam maiestatem quantum rogare possum ut mihi famulo tuo n. (n. id est nomen id est nomen) tantam gratiam",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-17|17",
 									"inFront": "false"
@@ -580,7 +668,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "Domine, Deus meus, auribus percipe orationem meam et intende intenda uoci deprecationis meæ, dum oro ad te, dum oro ad te, dum extollo manus meas ad templum sanctum tuum. Fiat, fiat, fiat ».",
+									"text" : "Domine, Deus meus, auribus percipe orationem meam et intende intenda uoci deprecationis meæ, dum oro ad te, dum oro ad te, dum extollo manus meas ad templum sanctum tuum. Fiat, fiat, fiat ».",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-18|18",
 									"inFront": "false"
@@ -596,7 +684,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "Oratio. « Deus meus cuius dietas sine fine, Deus creator omnium creaturarum, principium et finis, Deus Adonay, Deus Iahoua, Deus Cados et Deus omnium in te sperantium, Deus uirtuosissimus atque sapientissimus et seruator cordium, miserere mei et intende uoci deprecationis meæ dum oro ad te, deum dum extollo manus meas ad templum sanctum tuum.",
+									"text" : "Oratio. « Deus meus cuius dietas sine fine, Deus creator omnium creaturarum, principium et finis, Deus Adonay, Deus Iahoua, Deus Cados et Deus omnium in te sperantium, Deus uirtuosissimus atque sapientissimus et seruator cordium, miserere mei et intende uoci deprecationis meæ dum oro ad te, deum dum extollo manus meas ad templum sanctum tuum.",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-18|18",
 									"inFront": "false"
@@ -628,7 +716,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "Recordare, benignissime Deus quoniam dixisti in æternum misericordia edificabitur. Exaudi, piissime Domine, uocem meam et petitionem uocis meæ concede. Fiat, fiat, fiat. ».",
+									"text" : "Recordare, benignissime Deus quoniam dixisti in æternum misericordia edificabitur. Exaudi, piissime Domine, uocem meam et petitionem uocis meæ concede. Fiat, fiat, fiat. ».",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-19|19",
 									"inFront": "false"
@@ -708,28 +796,20 @@
 								
 									{
 									"line" : "|",
-									"text" : "Altitudinis orientalis Caractera principum",
+									"text" : "Caractera principum",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-21|21",
 									"inFront": "false"
 									},
-								
-									{
-									"line" : "|",
-									"text" : "Sigillum secundæ altitudinis orientalis 2",
-									"tags" : "liberhynotheon|Liber Hynotheon",
-									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-22|22",
-									"inFront": "false"
-									},
-								
-									{
-									"line" : "|",
-									"text" : "Sigillum tertiæ altitudinis",
-									"tags" : "liberhynotheon|Liber Hynotheon",
-									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-23|23",
-									"inFront": "false"
-									},
-								
+								 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : "Figura quarta Sigillum secundæ altitudinis orientalis", 
+									"tags" : "liberhynotheon|Liber Hynotheon", 
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-21|21",
+									"inFront": "false" 
+								}, 
+							
 									{
 									"line" : "|",
 									"text" : " ",
@@ -772,7 +852,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "Nota. Sciendum tamen est quod preparatio illa seu oratio quæ incipit « Deus Abraham, Deus Israel » & est dicenda ante primam horam illius planetæ, quæ qua operatur altitudo. Etiam est sciendum quod artista, dum scribit sigillum altitudinis et caractera principum debet etiam genuflexus permanere.",
+									"text" : "Nota. Sciendum tamen est quod preparatio illa seu oratio quæ incipit « Deus Abraham, Deus Israel » & est dicenda ante primam horam illius planetæ, quæ qua operatur altitudo. Etiam est sciendum quod artista, dum scribit sigillum altitudinis et caractera principum debet etiam genuflexus permanere.",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-25|25",
 									"inFront": "false"
@@ -796,7 +876,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "Inuocatio seu coniuratio. « Sic adoro nomen sanctum Dei adorabile in æternum quod uos e cælestes potestates atque angelicæ uirtutes inuitis et obeditis creatori uestro. Adiuro, exoro, expostulo Deum sanctum, Deum uiuum, Deum uerum, uisibilium et inuisibilium creaturarum creatorem omnium, per diademam, coronam sui capitis, per nomen illud quod est timendum ab omnibus creatoris cælestibus terestribus et infernalibus quod scribitur quatuor litteris, id est Voth, Beth, Agla, Aenar",
+									"text" : "Inuocatio seu coniuratio. « Sic adoro nomen sanctum Dei adorabile in æternum quod uos e cælestes potestates atque angelicæ uirtutes inuitis et obeditis creatori uestro. Adiuro, exoro, expostulo Deum sanctum, Deum uiuum, Deum uerum, uisibilium et inuisibilium creaturarum creatorem omnium, per diademam, coronam sui capitis, per nomen illud quod est timendum ab omnibus creatoris cælestibus terestribus et infernalibus quod scribitur quatuor litteris, id est Voth, Beth, Agla, Aenar",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-25|25",
 									"inFront": "false"
@@ -828,7 +908,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "ut hanc petitionem sanctam super sanctum Hahelaon prope sigillum quæ complenda est ex officio uestro compleatis. O uos potestates angelicæ splendidissimæ et decore a Deo electæ et præordinatæ, complete hanc petitionem. Amen. Fiat, fiat, fiat ».",
+									"text" : "ut hanc petitionem sanctam super sanctum Hahelaon prope sigillum quæ complenda est ex officio uestro compleatis. O uos potestates angelicæ splendidissimæ et decore a Deo electæ et præordinatæ, complete hanc petitionem. Amen. Fiat, fiat, fiat ».",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-27|27",
 									"inFront": "false"
@@ -844,7 +924,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "Et quam cito ipse sentiat odores, tunc dulciter alloquentur artistæ. Et dicet « quid petis ? adquid uocatis principes nostræ altitudinis ? ». Et artista cum ueneratione respondeat ut « hæc petitio quæ eis ex officio incumbit, mihi ab eis sit concedenda ».",
+									"text" : "Et quam cito ipse sentiat odores, tunc dulciter alloquentur artistæ. Et dicet « quid petis ? adquid uocatis principes nostræ altitudinis ? ». Et artista cum ueneratione respondeat ut « hæc petitio quæ eis ex officio incumbit, mihi ab eis sit concedenda ».",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-27|27",
 									"inFront": "false"
@@ -852,7 +932,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "Et debet artista dicere suam petitionem non petendo aliquid quod non pertineat ad illorum officium, et procul dubio obtinebit petitionem suam. Tunc respondet « concedimus tibi petitionem tuam » et dabit artistæ signum unum et nomen ignotum hominibus.",
+									"text" : "Et debet artista dicere suam petitionem non petendo aliquid quod non pertineat ad illorum officium, et procul dubio obtinebit petitionem suam. Tunc respondet « concedimus tibi petitionem tuam » et dabit artistæ signum unum et nomen ignotum hominibus.",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-27|27",
 									"inFront": "false"
@@ -892,7 +972,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "« Maximas gratias ago uobis principibus altitudinis », et debet nominare nomen altitudinis « quoniam meæ satisfecistis uoluntati idcirco, o potestas incomprehensibilis, uide cor meum et pete quiquid uis quoniam sum paratus facere omnia ».",
+									"text" : "« Maximas gratias ago uobis principibus altitudinis », et debet nominare nomen altitudinis « quoniam meæ satisfecistis uoluntati idcirco, o potestas incomprehensibilis, uide cor meum et pete quiquid uis quoniam sum paratus facere omnia ».",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-28|28",
 									"inFront": "false"
@@ -956,7 +1036,71 @@
 								
 									{
 									"line" : "|",
-									"text" : "Forma uestis artistæ Ex alia parte ELIZBETH ABESSALOM AVORRA ADONAY EMANVEL OZA SAPHAD ELCANA ELIMELGH",
+									"text" : "ELIZBETH",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-29|29",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "ABESSALOM",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-29|29",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "AVORRA",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-29|29",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "ADONAY",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-29|29",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "EMANVEL",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-29|29",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "OZA",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-29|29",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "SAPHAD",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-29|29",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "ELCANA",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-29|29",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "ELIMELGH",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-29|29",
 									"inFront": "false"
@@ -1060,7 +1204,95 @@
 								
 									{
 									"line" : "|",
-									"text" : "Hoc est sigillum magnum Dei HELOEN ADONAY PIUS ANABONA ARANITAN Hæc est segunda partis sigilli TETHAGRAMMATON ANABONA IHEHOVA HELOEN A ω ADONA",
+									"text" : "HELOEN",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "ADONAY",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "PIUS",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "ANABONA",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "ARANITAN",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "Hæc est segunda partis sigilli",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "TETHAGRAMMATON",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "ANABONA",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "IHEHOVA",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "HELOEN",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "A ω",
+									"tags" : "liberhynotheon|Liber Hynotheon",
+									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "ADONA",
 									"tags" : "liberhynotheon|Liber Hynotheon",
 									"loc" : "liber_hynotheon_ms_adiv_5fb1_page-33|33",
 									"inFront": "false"
