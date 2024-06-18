@@ -1743,7 +1743,7 @@
                                     <rdg wit="#ADIV_5Fb_1">Hijnothéon</rdg>
                                 </app>--> sapientissimi <persName
                             ref="#Salomon">Salomonis</persName> regis, filii <persName ref="#David"
-                            >Dauid</persName><persName ref="#Israël">Israel</persName>, de <choice>
+                            >Dauid</persName><persName ref="#Israël"> Israel</persName>, de <choice>
                             <sic>Caldes</sic>
                             <corr resp="#NC">Chaldaeo</corr>
                         </choice>
@@ -1781,7 +1781,7 @@
                                 </app>--></persName></name>, et
                         principes huius altitudinis uocantur <name type="divin"><persName
                                 ref="#Hrauel">Hrauel</persName></name>, <name type="divin"><persName
-                                ref="#Gabriel">Gabriel</persName></name>,<name type="divin"
+                                ref="#Gabriel">Gabriel</persName></name>, <name type="divin"
                                 ><persName ref="#Barachiel">Barachiel</persName></name>, <name
                             type="divin"><persName ref="#Libes">Libes</persName></name>, <name
                             type="divin"><persName ref="#Heliram">Heliram</persName></name>, et hæc
@@ -2076,7 +2076,7 @@
                                     <lem resp="#NC">Gebedonay</lem>
                                     <rdg wit="#ADIV_5Fb_1">Gebedonaij</rdg>
                                 </app>--></persName></name>, <name
-                            type="divin"><persName ref="#Pas">Pas</persName></name>,<add
+                            type="divin"><persName ref="#Pas">Pas</persName></name>, <add
                             place="supra linea">ne</add>
                         <name type="divin"><persName ref="#Sarama">Sarama</persName></name>, <name
                             type="divin"><persName ref="#Clyominth"><choice>
@@ -2096,7 +2096,7 @@
                             <corr resp="#NC">generationes</corr>
                         </choice><!--<app>
                                     <lem resp="#NC">generationes</lem><rdg resp="#NC">generationis</rdg>
-                                </app>-->elementorum ab animalibus et
+                                </app>--> elementorum ab animalibus et
                         generationes concedere ad animalia et principes huius altitudinis iussu Dei
                         ferunt homines de regione in regionem cursu uelocissimo et omni motui
                         prædominium habent. Nomina principum huius altitudinis sunt <name
@@ -2163,9 +2163,9 @@
                     <p>Et est sciendum quod omnes hæ altitudines habent uirtutem suam die solis, et
                         eius hora, id est in prima hora die solis usque ad meridiem et quando ab
                         artista fiunt, debet esse tempus clarum, et serenum non nubilosum luna
-                        crescente. Finis primi tractatus</p>
-                </div>
-            </div>
+                        crescente</p></div></div> 
+                        
+                        <div><head rend="italic bold">Finis primi tractatus</head></div>
             <div n="2" type="chapitre">
                 <div n="1" type="section">
                     <p>Tractatus secundus de altitudinibus occidentalibus, meridionalibus
@@ -2541,8 +2541,8 @@
                                         <lem resp="#NC">Onchy</lem>
                                         <rdg wit="#ADIV_5Fb_1">Onchij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="#Hæhuel">Hæhuel</persName></name>,
-                            <name type="divin"><persName ref="#Pyleth">Pyleth<choice>
+                            <name type="divin"><persName ref="#Hæhuel">Hæhuel</persName></name>, 
+                            <name type="divin"><persName ref="#Pyleth"><choice>
                                     <sic>Pijleth</sic>
                                     <corr resp="#NC">Pyleth</corr>
                                 </choice><!--<app>
@@ -2717,7 +2717,7 @@
                         </choice><!--<app>
                                         <lem resp="#NC">argenteo</lem>
                                         <rdg wit="#ADIV_5Fb_1">argento</rdg>
-                                    </app>-->nouo ad hoc fabricato ; et
+                                    </app>--> nouo ad hoc fabricato ; et
                         nomina Dei <del>diuini</del> uiui scripti debent die operationis. In primo
                         foramine, scribatur <name type="divin"><persName ref="#Adonay"><choice>
                                     <sic>Adonaij</sic>
@@ -2729,7 +2729,7 @@
                             <name type="divin"><persName ref="#Helyon"><choice>
                                     <sic>Helijon</sic>
                                     <corr resp="#NC">Helijon</corr>
-                                </choice><!--<app><lem resp="#NC">Helyon</lem><rdg wit="#ADIV_5Fb_1">Helijon</rdg></app>-->n</persName></name>,
+                                </choice><!--<app><lem resp="#NC">Helyon</lem><rdg wit="#ADIV_5Fb_1">Helijon</rdg></app>--> </persName></name>,
                             <name type="divin"><persName ref="Pius">Pius</persName></name>. In
                         secundo, <name type="divin"><persName ref="#Hhælym"><choice>
                                     <sic>Hhælijm</sic>
@@ -2743,7 +2743,7 @@
                                     <corr resp="#NC">Steloy</corr>
                                 </choice><!--<app>
                                             <lem resp="#NC">Steloy</lem><rdg wit="#ADIV_5Fb_1">Steloij</rdg>
-                                        </app>--></persName></name><del>Stheloij</del>,
+                                        </app>--> </persName></name><del>Stheloij</del>,
                             <name type="divin"><persName ref="#Stely"><choice>
                                     <sic>Stelij</sic>
                                     <corr resp="#NC">Stely</corr>
@@ -3706,7 +3706,7 @@
                             type="divin"><persName ref="#Techtron">Techtron</persName></name>, <name
                             type="divin"><persName ref="#Alausim">Alausim</persName></name>, <name
                             type="divin"><persName ref="#Chalbatl"
-                            >Chalbatl</persName></name>,<del>Ieue</del>
+                            >Chalbatl</persName></name>, <del>Ieue</del>
                         <name type="divin"><persName ref="#Iobel">Iobel</persName></name>, <name
                             type="divin"><persName ref="#Onio">Onio</persName></name>, <name
                             type="divin"><persName ref="#Vna">Vna</persName></name>, <name
@@ -4224,7 +4224,7 @@
                     <p>Et in omnibus altitudinibus sunt scribenda nomina et nulla alia differentia
                         est nisi color et ueste illa potest uti in omnibus operationibus, multa alia
                         mihi erant dicenda sed quoniam cognoui non esse necessaria, idcirco finem
-                        ponam <name type="divin"><persName ref="#Hynothitheo">Hynothitheo<choice>
+                        ponam <name type="divin"><persName ref="#Hynothitheo"><choice>
                                     <sic>Hijnothitheo</sic>
                                     <corr resp="#NC">Hynothitheo</corr>
                                 </choice><!--<app><lem resp="#NC">Hynothitheo</lem><rdg wit="#ADIV_5Fb_1">Hijnothitheo</rdg></app>--></persName></name>.
@@ -4245,7 +4245,8 @@
                 <pb n="29" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-29.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-29"/>
                 <head rend="italic bold">Figura sexta</head>
-                <head rend="italic bold">Forma uestis artistæ Ex alia parte</head>
+                <head rend="italic bold">Forma uestis artistæ</head> 
+                
                 <p><name type="divin"><persName ref="#Elizbeth">ELIZBETH</persName></name></p>
                 <p>
                     <name type="divin"><persName ref="#Abessalom">ABESSALOM</persName></name></p>
@@ -4253,7 +4254,8 @@
                 <p><name type="divin"><persName ref="#Adonay">ADONAY</persName></name></p>
                 <p><name type="divin"><persName ref="#Emanuel">EMANVEL</persName></name></p>
                 <p><name type="divin"><persName ref="#Oza">OZA</persName></name></p>
-                <p><name type="divin"><persName ref="#Saphad">SAPHAD</persName></name></p>
+                <p><name type="divin"><persName ref="#Saphad">SAPHAD</persName></name></p></div>
+                <div n="fig6a" type="figure"><head rend="italic bold">Ex alia parte</head>
                 <p><name type="divin"><persName ref="#Elcana">ELCANA</persName></name></p>
                 <p><name type="divin"><persName ref="#Elimelgh">ELIMELGH</persName></name>
                 </p>
@@ -4428,8 +4430,8 @@
                 <p><name type="divin"><persName ref="#Adonay">ADONAY</persName></name></p>
                 <p><name type="divin"><persName ref="#Pius">PIUS</persName></name></p>
                 <p><name type="divin"><persName ref="#Anabona">ANABONA</persName></name></p>
-                <p><name type="divin"><persName ref="#Aranitan">ARANITAN</persName></name></p>
-                <p>Hæc est <choice>
+                <p><name type="divin"><persName ref="#Aranitan">ARANITAN</persName></name></p></div>
+                <div n="fig7" type="figure"><head rend="italic bold">Hæc est <choice>
                         <sic>segunda</sic>
                         <corr resp="#NC">secunda</corr>
                     </choice><!--<app>
@@ -4443,7 +4445,7 @@
                     <!--<app>
                                     <lem resp="#NC">pars</lem>
                                     <rdg wit="#ADIV_5Fb_1">partis</rdg>
-                                </app>--> sigilli</p>
+                                </app>--> sigilli</head>
                 <p><name type="divin"><persName ref="#Tethagrammaton"
                         >TETHAGRAMMATON</persName></name></p>
                 <p><name type="divin"><persName ref="#Anabona">ANABONA</persName></name></p>
@@ -4575,7 +4577,7 @@
                 </div>
                 <div n="p2" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-2">
                     <div n="4" type="section">
-                        <p>Troisième altitude. On l’appelle Hermoy et elle exerce son pouvoir sur
+                        <head rend="italic bold">Troisième altitude</head> <p>On l’appelle Hermoy et elle exerce son pouvoir sur
                             les amis, les frères, les proches et les voisins, et sur le mouvement de
                             toutes les eaux, de la mer et des rivières, et sur le changement
                             corporel de toutes choses de lieu à lieu, et sur tout ce qui bouge<note
@@ -4625,7 +4627,7 @@
                             Yachanay, Helem, Enthithoi.</p>
                     </div>
                     <div n="5" type="section">
-                        <p>Quatrième altitude. On l’appelle Panteon, et les princes qui y demeurent
+                        <head rend="italic bold">Quatrième altitude</head> <p>On l’appelle Panteon, et les princes qui y demeurent
                             ont du pouvoir et de la puissance sur les trésors, les successions, les
                             biens et celui d’accorder des charges, en fonction de ce qui leur semble
                             bon. Les noms des princes de cette altitude sont Yaræth, Yran, Arneth,
@@ -4637,7 +4639,7 @@
                                 Lux, Et, Ebriel ».</note>.</p>
                     </div>
                     <div n="6" type="section">
-                        <p>Cinquième altitude. On l’appelle Cym, et les princes qui y demeurent ont
+                        <head rend="italic bold">Cinquième altitude</head> <p>On l’appelle Cym, et les princes qui y demeurent ont
                             le pouvoir, selon leur office, de faire mouvoir d’un mouvement céleste
                             tous les êtres vivants selon leur nature, afin qu’ils procréent des
                             descendants et qu'ils se multiplient dans la lignée de chaque espèce,
@@ -4683,7 +4685,7 @@
                              ».</note>.</p>
                     </div>
                     <div n="7" type="section" xml:id="p2-3-ante" next="#p2-3-post">
-                        <p>Sixième altitude. On l’appelle celle-ci Noxin, et les princes qui y
+                        <head rend="italic bold">Sixième altitude</head> <p>On l’appelle celle-ci Noxin, et les princes qui y
                             demeurent exercent par leur office leur pouvoir et leur efficience sur
                             les États</p>
                     </div>
@@ -4725,7 +4727,7 @@
                                 Scistheros, Onoy, Orneth, Gareth, Alay ».</note>.</p>
                     </div>
                     <div n="8" type="section">
-                        <p>Septième altitude. On appelle cette altitude Creor, et les princes qui y
+                        <head rend="italic bold">Septième altitude</head> <p>On appelle cette altitude Creor, et les princes qui y
                             demeurent exercent leur puissance sur les serments qui sont faits entre
                             les créatures et Dieu, ainsi qu’entre les créatures et d’autres
                             créatures. Ils les forcent par l’angoisse de châtiments à observer ce
@@ -4782,7 +4784,7 @@
                                 magiques ».</note>.</p>
                     </div>
                     <div n="9" type="section">
-                        <p>Huitième altitude. On appelle cette altitude Sapheth et les princes qui y
+                        <head rend="italic bold">Huitième altitude</head> <p>On appelle cette altitude Sapheth et les princes qui y
                             demeurent ont la puissance et l’efficience de concéder la génération
                             pour les êtres vivants en faisant procéder à la génération des éléments
                             par les animaux. Les princes de cette altitude grâce un ordre de Dieu
@@ -4801,7 +4803,7 @@
                                 l’action.</note>.</p>
                     </div>
                     <div n="10" type="section" xml:id="p3-4-ante" next="#p3-4-post">
-                        <p>Neuvième altitude. On appelle Suphor et les princes qui y demeurent ont
+                        <head rend="italic bold">Neuvième altitude</head> <p>On appelle Suphor et les princes qui y demeurent ont
                             le pouvoir</p>
                     </div>
                 </div>
@@ -4824,7 +4826,7 @@
                                 sept, et d’abord de la première.</p>
                         </div>
                         <div n="2" type="section">
-                            <p>Première altitude occidentale. On appelle cette altitude occidentale
+                            <head rend="italic bold">Première altitude occidentale</head> <p>On appelle cette altitude occidentale
                                 Giphor, et les princes qui y demeurent ont de la puissance sur les
                                 inimitiés et les amitiés de toutes les créatures, et sur les
                                 combats, sur les rivalités et sur les outrages, et particulièrement
@@ -4867,7 +4869,7 @@
                                 Aryl.</p>
                         </div>
                         <div n="3" type="section" xml:id="p4-5-ante" next="#p4-5-post">
-                            <p>Seconde altitude. On appelle celle-ci Nayn, et les princes qui y
+                            <head rend="italic bold">Seconde altitude</head> <p>On appelle celle-ci Nayn, et les princes qui y
                                 demeurent ont de la puissance sur les ennemis et les amis, sur les
                                 hommes amoureux et les femmes amoureuses. Par leur office, ils ont
                                 la puissance et l’efficience pour faire d’elles et eux des ennemis.
@@ -4882,7 +4884,7 @@
                         <p>Briel, Malamacoy, Malachim, Radasieh, Baidahath, Odmachiel.</p>
                     </div>
                     <div n="4" type="section">
-                        <p>Troisième altitude. On appelle celle-ci Lehæsor, et les princes qui y
+                        <head rend="italic bold">Troisième altitude</head> <p>On appelle celle-ci Lehæsor, et les princes qui y
                             demeurent ont de la puissance et de l’efficience sur toutes les
                             infirmités, et par leur office, ils rendent les hommes infirmes, ou non.
                             Ils donnent le sommeil aux hommes, ou non, et font des choses
@@ -4890,7 +4892,7 @@
                             Ahey, Verechiel, Pactohaget, Machdeynchi, Nobemarach.</p>
                     </div>
                     <div n="5" type="section">
-                        <p>Quatrième altitude. On appelle celle-ci Chrimehit, et les princes qui y
+                        <head rend="italic bold">Quatrième altitude</head> <p>On appelle celle-ci Chrimehit, et les princes qui y
                             demeurent ont de la puissance et du pouvoir sur les eaux marines et
                             fluviales, et ont celui de submerger ou non, et de noyer les hommes et
                             tous les animaux, ou non. Ils rendent les marchands riches ou pauvres,
@@ -4899,7 +4901,7 @@
                             Galfu, Melchiel, Clbeday, Lauyson, Ratyeh, Alyabith.</p>
                     </div>
                     <div n="6" type="section">
-                        <p>Cinquième altitude. Celle-ci s’appelle Giephatin, et les princes qui y
+                        <head rend="italic bold">Cinquième altitude</head> <p>Celle-ci s’appelle Giephatin, et les princes qui y
                             demeurent ont le pouvoir et l’efficience d’infuser l’Art aux hommes et
                             d’éclairer leur esprit, ou non. Ils rendent les hommes sages, ou non.
                             Par leur office, ils rendent les hommes victorieux au jeu, ou non, comme
@@ -4907,7 +4909,7 @@
                             Layngyron, Pessino, Fas, Han, Syachy, Zamnathor, Camyn.</p>
                     </div>
                     <div n="7" type="section">
-                        <p>Sixième altitude. On l’appelle Agusth, et les princes qui y demeurent ont
+                        <head rend="italic bold">Sixième altitude</head> <p>On l’appelle Agusth, et les princes qui y demeurent ont
                             de la puissance et de l’efficience sur tous les oiseaux du ciel et les
                             animaux de la terre et les enchanteurs ont celui de les attraper ou non,
                             comme bon leur semble<note n="26" place="bottom">Le texte latin propose
@@ -4942,7 +4944,7 @@
                 </div>
                 <div n="p6" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6">
                     <div n="8" type="section">
-                        <p>Septième et ultime altitude occidentale. On l’appelle Steher, et les
+                        <head rend="italic bold">Septième et ultime altitude occidentale</head> <p>On l’appelle Steher, et les
                             princes qui y demeurent ont la puissance de dévoiler un vol, ou non, et
                             sur les embuscades des voleurs, aussi bien sur terre que sur mer. Ils
                             mettent en danger les hommes et les femmes, ou non, comme il leur plaît.
@@ -5282,17 +5284,17 @@
 
                 <div n="p13" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-13">
                     <div n="fig1" type="figure">
-                        <head rend="italic bold">Figure 1</head> <head rend="italic bold">La manière dont doit être façonné le saint Stahelaon</head> <p>Sur le
-                            second coffret : THETAGRAMMATON. Sur le premier coffret, au centre :
-                            HEL. Ensuite à l’angle 1 : Hynoytheon. 2 : Pthiaeumaton. 3 : Anbona. 4 :
-                            Yhehoua.</p>
+                        <head rend="italic bold">Figure 1</head> <head rend="italic bold">La manière dont doit être façonné le saint Stahelaon</head> <p><emph rend="italic">Sur le
+                            second coffret</emph> : THETAGRAMMATON</p> <p><emph rend="italic">Sur le premier coffret, au centre</emph> :
+                            HEL</p> <p><emph rend="italic">Ensuite aux angles</emph> 1 : Hynoytheon</p> <p>2 : Pthiaeumaton</p> <p>3 : Anbona</p> <p>4 :
+                            Yhehoua</p>
                     </div>
                 </div>
                 <div n="p14" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-14">
                     <div n="fig2" type="figure">
-                        <head rend="italic bold">Figure 2</head> <p>Sur le second coffret : THETHAGRAMMATON. Sur le premier
-                            coffret, au centre : HEL. Ensuite à l’angle 1 : Hynoytheon. 2:
-                            Ptihæumaton. 3 : Anabona. 4 : Ihehoua.</p>
+                        <head rend="italic bold">Figure 2</head> <p><emph rend="italic">Sur le second coffret</emph> : THETHAGRAMMATON</p> <p><emph rend="italic">Sur le premier
+                            coffret, au centre</emph> : HEL</p> <p><emph rend="italic">Ensuite aux angles</emph> 1 : Hynoytheon</p> <p>2:
+                            Ptihæumaton</p> <p>3 : Anabona</p> <p>4 : Ihehoua</p>
                     </div>
                 </div>
                 <div n="p15" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-15">
@@ -5426,7 +5428,7 @@
                                 désignent diversement la ficaire, voire plus sûrement selon nous
                                 l’hellébore fétide. D’autre part, il nous semble que l’auteur a sans
                                 doute voulu parler d’<emph rend="italic">angelica</emph>, et non d’<emph rend="italic">anglica</emph>. La mention de l’ «
-                                herbe aux anges », de son nom scientifique angelica archangelica,
+                                herbe aux anges », de son nom scientifique <emph rend="italic">angelica archangelica</emph>,
                                 serait tout à fait justifiée dans un traité consacré aux «
                                 puissances angéliques ».</note>.</p>
                     </div>
@@ -5598,8 +5600,7 @@
                                 Cados, et Dieu de tous ceux qui espèrent en toi, Dieu très vertueux
                                 ainsi que très sage, Sauveur des cœurs, ais pitié de moi, entends ma
                                 prière, sois attentif à la voix de ma prière, lorsque je crie vers
-                                toi, lorsque j’élève les mains vers ton saint temple<note n="54"
-                                    place="bottom">Cf. <emph rend="italic">supra</emph> n. 52.</note>.</p>
+                                toi, lorsque j’élève les mains vers ton saint temple.</p>
                         </div>
                         <div n="2" type="section">
                             <p>Mais toi, ô mon Dieu, tu es doux, véritable, et patient, et gouvernes
@@ -5610,8 +5611,7 @@
                                     le Ps. 72, 24 : <emph rend="italic">in tuo consilio</emph>. Si
                                     la traduction du verset reprend celle de Lemaître de Sacy, nous
                                     avons choisi de ne pas conserver le vouvoiement employé par le
-                                    maître de Port-Royal qui ne correspond pas au reste du
-                                    texte.</note>, Seigneur Dieu, toi qui es assis sous les
+                                    maître de Port-Royal.</note>, Seigneur Dieu, toi qui es assis sous les
                                 Chérubins, c’est toi seul &lt;qui est le Dieu&gt; de tous les rois
                                 du monde, c’est toi qui as fait le ciel et la terre<note n="56"
                                     place="bottom">L’auteur reprend un passage du deuxième Livre des
@@ -5675,10 +5675,10 @@
                     <div n="5" type="section">
                         <p>Rappelle-toi, Dieu très bienveillant, que tu as dit que ta miséricorde
                             était bâtie pour l’éternité<note n="59" place="bottom">Ceci est
-                                clairement un rappel du Ps. 135, 1 : quoniam in aeternum
-                                misericordia eius.</note>. Exauce ma voix, très pieux Seigneur<note
+                                clairement un rappel du Ps. 135, 1 : <emph rend="italic">quoniam in aeternum
+                                misericordia eius</emph>.</note>. Exauce ma voix, très pieux Seigneur<note
                                 n="60" place="bottom">Le texte évoque un des psaumes (Ps. 26, 7 :
-                                Exaudi, Domine, uocem meam).</note>, et accorde la requête de ma
+                                <emph rend="italic">Exaudi, Domine, uocem meam</emph>).</note>, et accorde la requête de ma
                             voix. Ainsi soit-il, ainsi soit-il, ainsi soit-il ».</p>
                     </div>
                     <div n="6" type="section">
@@ -6085,10 +6085,12 @@
                 </div>
                 <div n="p29" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-29">
                     <div n="fig6" type="figure">
-                        <head rend="italic bold">Figure 6</head> <head rend="italic bold">Dessin de la tenue du maître de l’Art</head> <p>Sur la manche droite :
-                            ELIZBETH. Sur la manche gauche : ABESSALOM. En triangle : AVORRA ADONAY
-                            EMANVEL. Dans le bas : OZA, caractères, SAPHAD. « De l’autre côté » :
-                            ELCANA, caractères, ELIMELGH, caractères.</p>
+                        <head rend="italic bold">Figure 6</head> <head rend="italic bold">Dessin de la tenue du maître de l’Art</head> <p><emph rend="italic">Sur la manche droite</emph> :
+                            ELIZBETH</p> <p><emph rend="italic">Sur la manche gauche</emph> : ABESSALOM</p> <p><emph rend="italic">En triangle</emph> : AVORRA ADONAY
+                            EMANVEL</p> <p><emph rend="italic">Dans le bas</emph> : OZA, <emph rend="italic">caractères</emph>, SAPHAD </p></div> 
+                            <div n="fig6" type="figure">
+                            <head rend="italic bold">De l’autre côté</head>
+                            <p>ELCANA, <emph rend="italic">caractères</emph>, ELIMELGH, <emph rend="italic">caractères</emph>.</p>
                     </div>
                 </div>
                 <div n="p30" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-30"/>
