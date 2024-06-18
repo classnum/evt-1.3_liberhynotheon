@@ -124,9 +124,6 @@
                     <person xml:id="Aehechym">
                         <persName type="divin">Aehechym (nom divin) </persName>
                     </person>
-                    <person xml:id="Ael">
-                        <persName type="divin">Ael (nom divin) </persName>
-                    </person>
                     <person xml:id="Aenar">
                         <persName type="divin">Aenar (nom divin) </persName>
                     </person>
@@ -145,8 +142,8 @@
                     <person xml:id="Agloto">
                         <persName type="divin">Agloto (nom divin) </persName>
                     </person>
-                    <person xml:id="Agust">
-                        <persName type="divin">Agust (nom divin) </persName>
+                    <person xml:id="Agusth">
+                        <persName type="divin">Agusth (nom divin) </persName>
                     </person>
                     <person xml:id="Agya">
                         <persName type="divin">Agya (nom divin) </persName>
@@ -205,8 +202,8 @@
                     <person xml:id="Anabona">
                         <persName type="divin">Anabona (nom divin) </persName>
                     </person>
-                    <person xml:id="Anael">
-                        <persName type="divin">Anael (nom divin) </persName>
+                    <person xml:id="Anæl">
+                        <persName type="divin">Anæl (nom divin) </persName>
                     </person>
                     <person xml:id="Anahoman">
                         <persName type="divin">Anahoman (nom divin) </persName>
@@ -223,8 +220,8 @@
                     <person xml:id="Ane">
                         <persName type="divin">Ane (nom divin) </persName>
                     </person>
-                    <person xml:id="Animirnarnus">
-                        <persName type="divin">Animirnarnus (nom divin) </persName>
+                    <person xml:id="Animirnaornus">
+                        <persName type="divin">Animirnaornus (nom divin) </persName>
                     </person>
                     <person xml:id="Anona">
                         <persName type="divin">Anona (nom divin) </persName>
@@ -250,8 +247,8 @@
                     <person xml:id="Araora">
                         <persName type="divin">Araora (nom divin) </persName>
                     </person>
-                    <person xml:id="Arasyy">
-                        <persName type="divin">Arasyy (nom divin) </persName>
+                    <person xml:id="Arasy">
+                        <persName type="divin">Arasy (nom divin) </persName>
                     </person>
                     <person xml:id="Aray">
                         <persName type="divin">Aray (nom divin) </persName>
@@ -280,7 +277,7 @@
                     <person xml:id="Athamay">
                         <persName type="divin">Athamay (nom divin) </persName>
                     </person>
-                    <person xml:id="Athoh">
+                    <person xml:id="Athoth">
                         <persName type="divin">Athoh (nom divin) </persName>
                     </person>
                     <person xml:id="Au">
@@ -401,7 +398,7 @@
                         <persName type="divin">Chrimehit (nom divin) </persName>
                     </person>
                     <person xml:id="Cios">
-                        <persName type="divin">cios (nom divin) </persName>
+                        <persName type="divin">Cios (nom divin) </persName>
                     </person>
                     <person xml:id="Clbeday">
                         <persName type="divin">Clebeday (nom divin) </persName>
@@ -508,11 +505,14 @@
                     <person xml:id="Fabriel">
                         <persName type="divin">Fabriel (nom divin) </persName>
                     </person>
-                    <person xml:id="Facifalon">
-                        <persName type="divin">Facifalon (nom divin) </persName>
-                    </person>
                     <person xml:id="Fas">
                         <persName type="divin">Fas (nom divin) </persName>
+                    </person>
+                    <person xml:id="Faufalon">
+                        <persName type="divin">Faufalon (nom divin) </persName>
+                    </person>
+                    <person xml:id="Ferglaon">
+                        <persName type="divin">Ferglaon (nom divin) </persName>
                     </person>
                     <person xml:id="Fumabel">
                         <persName type="divin">Fumabel (nom divin) </persName>
@@ -580,14 +580,14 @@
                     <person xml:id="Hahelaon">
                         <persName type="divin">Hahelaon (nom divin) </persName>
                     </person>
-                    <person xml:id="Halanay">
-                        <persName type="divin">Halanay (nom divin) </persName>
-                    </person>
                     <person xml:id="Hamaliel">
                         <persName type="divin">Hamaliel (nom divin) </persName>
                     </person>
                     <person xml:id="Han">
                         <persName type="divin">Han (nom divin) </persName>
+                    </person>
+                      <person xml:id="Hanalay">
+                        <persName type="divin">Hanalay (nom divin) </persName>
                     </person>
                     <person xml:id="Hascheye">
                         <persName type="divin">Hascheye (nom divin) </persName>
@@ -742,8 +742,8 @@
                     <person xml:id="Lehohth">
                         <persName type="divin">Lehohth (nom divin) </persName>
                     </person>
-                    <person xml:id="Lehosor">
-                        <persName type="divin">Lehosor (nom divin) </persName>
+                    <person xml:id="Lehæsor">
+                        <persName type="divin">Lehæsor (nom divin) </persName>
                     </person>
                     <person xml:id="Lezioccil">
                         <persName type="divin">Lezioccil (nom divin) </persName>
@@ -814,8 +814,8 @@
                     <person xml:id="Meschias">
                         <persName type="divin">Meschias (nom divin) </persName>
                     </person>
-                    <person xml:id="Michael">
-                        <persName type="divin">Michael (nom divin) </persName>
+                    <person xml:id="Michæl">
+                        <persName type="divin">Michæl (nom divin) </persName>
                     </person>
                     <person xml:id="Mirthoath">
                         <persName type="divin">Mirthoath (nom divin) </persName>
@@ -877,8 +877,8 @@
                     <person xml:id="Ogiron">
                         <persName type="divin">Ogiron (nom divin) </persName>
                     </person>
-                    <person xml:id="Ogogo">
-                        <persName type="divin">Ogogo (nom divin) </persName>
+                    <person xml:id="Ogoga">
+                        <persName type="divin">Ogoga (nom divin) </persName>
                     </person>
                     <person xml:id="Oin">
                         <persName type="divin">Oin (nom divin) </persName>
@@ -982,8 +982,8 @@
                     <person xml:id="Pius">
                         <persName type="divin">Pius (nom divin) </persName>
                     </person>
-                    <person xml:id="Pothozelda">
-                        <persName type="divin">Pothozelda (nom divin) </persName>
+                    <person xml:id="Pothozetda">
+                        <persName type="divin">Pothozetda (nom divin) </persName>
                     </person>
                     <person xml:id="Ptihaeumaton">
                         <persName type="divin">Ptihaeumaton (nom divin) </persName>
@@ -1003,8 +1003,8 @@
                     <person xml:id="Rahath">
                         <persName type="divin">Rahath (nom divin) </persName>
                     </person>
-                    <person xml:id="Raphael">
-                        <persName type="divin">Raphael (nom divin) </persName>
+                    <person xml:id="Raphæl">
+                        <persName type="divin">Raphæl (nom divin) </persName>
                     </person>
                     <person xml:id="Raphahasel">
                         <persName type="divin">Raphahasel (nom divin) </persName>
@@ -1033,8 +1033,8 @@
                     <person xml:id="Sachiel">
                         <persName type="divin">Sachiel (nom divin) </persName>
                     </person>
-                    <person xml:id="Sadael">
-                        <persName type="divin">Sadael (nom divin) </persName>
+                    <person xml:id="Sadæl">
+                        <persName type="divin">Sadæl (nom divin) </persName>
                     </person>
                     <person xml:id="Saday">
                         <persName type="divin">Saday (nom divin) </persName>
@@ -1102,11 +1102,8 @@
                     <person xml:id="Selum">
                         <persName type="divin">Selum (nom divin) </persName>
                     </person>
-                    <person xml:id="Sephahahan">
-                        <persName type="divin">Sephahahan (nom divin) </persName>
-                    </person>
-                    <person xml:id="Sergalon">
-                        <persName type="divin">Sergalon (nom divin) </persName>
+                    <person xml:id="Sephaphahan">
+                        <persName type="divin">Sephaphahan (nom divin) </persName>
                     </person>
                     <person xml:id="Seu">
                         <persName type="divin">Seu (nom divin) </persName>
@@ -1144,8 +1141,8 @@
                     <person xml:id="Steher">
                         <persName type="divin">Steher (nom divin) </persName>
                     </person>
-                    <person xml:id="Steleon">
-                        <persName type="divin">Steleon (nom divin) </persName>
+                    <person xml:id="Steloen">
+                        <persName type="divin">Steloen (nom divin) </persName>
                     </person>
                     <person xml:id="Steloy">
                         <persName type="divin">Steloy (nom divin) </persName>
@@ -1192,9 +1189,6 @@
                     <person xml:id="Tesitas">
                         <persName type="divin">Tesitas (nom divin) </persName>
                     </person>
-                    <person xml:id="Tetragrammaton">
-                        <persName type="divin">Tetragrammaton (nom divin) </persName>
-                    </person>
                     <person xml:id="Tethagramaton">
                         <persName type="divin">Tethagramaton (nom divin) </persName>
                     </person>
@@ -1222,8 +1216,8 @@
                     <person xml:id="Thethagrammaton">
                         <persName type="divin">Thethagrammaton (nom divin) </persName>
                     </person>
-                    <person xml:id="Uriel">
-                        <persName type="divin">Uriel (nom divin) </persName>
+                    <person xml:id="Vriel">
+                        <persName type="divin">Vriel (nom divin) </persName>
                     </person>
                     <person xml:id="Va">
                         <persName type="divin">Va (nom divin) </persName>
@@ -1273,6 +1267,9 @@
                     <person xml:id="Yachanay">
                         <persName type="divin">Yachanay (nom divin) </persName>
                     </person>
+                    <person xml:id="Yæl">
+                        <persName type="divin">Yæl (nom divin) </persName>
+                    </person>
                     <person xml:id="Yaræth">
                         <persName type="divin">Yaræth (nom divin) </persName>
                     </person>
@@ -1291,9 +1288,6 @@
                     <person xml:id="Yonas">
                         <persName type="divin">Yonas (nom divin) </persName>
                     </person>
-                    <person xml:id="Yopatos">
-                        <persName type="divin">Yopatos (nom divin) </persName>
-                    </person>
                     <person xml:id="Yot">
                         <persName type="divin">Yot (nom divin)</persName>
                     </person>
@@ -1302,6 +1296,9 @@
                     </person>
                     <person xml:id="Yotlya">
                         <persName type="divin">Yotlya (nom divin)</persName>
+                    </person>
+                    <person xml:id="Ypatos">
+                        <persName type="divin">Ypatos (nom divin) </persName>
                     </person>
                     <person xml:id="Yran">
                         <persName type="divin">Yran (nom divin)</persName>
@@ -1777,7 +1774,7 @@
                         etiam habet potestatem distribuere, auferre, donare pro ut eis uidetur
                         redditus et pecuniam, habet operationem suam die Solis et eius hora luna
                         crescente. Nomina principum huius altitudinis sunt <name type="divin"
-                            >Pax</name>, <name type="divin"><persName ref="#Alpharaym"><choice>
+                            ><persName ref="#Pax">Pax</persName></name>, <name type="divin"><persName ref="#Alpharaym"><choice>
                                     <sic>Alpharaijm</sic>
                                     <corr resp="#NC">Alpharaym</corr>
                                 </choice><!--<app>
@@ -1844,7 +1841,7 @@
                                     <rdg wit="#ADIV_5Fb_1">rera</rdg>
                                 </app>--> et donare dignitates pro ut eis
                         uidetur. Nomina principum huius altitudinis sunt <name type="divin"
-                                ><persName ref="#Yræth"><choice>
+                                ><persName ref="#Yaræth"><choice>
                                     <sic>Ijræth</sic>
                                     <corr resp="#NC">Yaræth</corr>
                                 </choice><!--<app>
@@ -2081,7 +2078,7 @@
                         prædominium habent. Nomina principum huius altitudinis sunt <name
                             type="divin"><persName ref="#Zajar">Zajar</persName></name>, <name
                             type="divin"><persName ref="#Zabin">Zabin</persName></name>, <name
-                            type="divin"><persName ref="#zadanay"><choice>
+                            type="divin"><persName ref="#Zadanay"><choice>
                                     <sic>Zadanaij</sic>
                                     <corr resp="#NC">Zadanay</corr>
                                 </choice><!--<app>
@@ -2169,7 +2166,7 @@
                         perduci boni uel mali nisi ordinatione et permissu eorum. Et ex dono Dei
                         possunt super homines. Nomina principum huius altitudinis sunt <name
                             type="divin"><persName ref="#Melach">Melach</persName></name>, <name
-                            type="divin"><persName ref="#Bedaoih">Bedahoih</persName></name>, <name
+                            type="divin"><persName ref="#Bedahoih">Bedahoih</persName></name>, <name
                             type="divin"><persName ref="#Gylor"><choice>
                                     <sic>Gijlor</sic>
                                     <corr resp="#NC">Gylor</corr>
@@ -2496,7 +2493,7 @@
                 </div>
                 <div n="5" type="section">
                     <head rend="italic bold">Quinta et ultima altitudo meridionalis</head>
-                    <p>Hæc uocatur <name type="divin"><persName ref="#Iahothathu"
+                    <p>Hæc uocatur <name type="divin"><persName ref="#Iahothahu"
                                 >Iahothahu</persName></name> et principes, qui morantur in ea,
                         habent uirtutem et potestatem super <choice>
                             <sic>inuisibilitatum</sic>
@@ -3721,7 +3718,7 @@
                             <name type="divin"><persName ref="#Ane">Ane</persName></name>, <name
                             type="divin"><persName ref="#Adneth">Adneth</persName></name>, <name
                             type="divin"><persName ref="#Esba">Esba</persName></name>, <name
-                            type="divin"><persName ref="#Athoth">Athot</persName>h</name>, <name
+                            type="divin"><persName ref="#Athoth">Athoth</persName>h</name>, <name
                             type="divin"><persName ref="#Yotlya"><choice>
                                     <sic>Ijotlija</sic>
                                     <corr resp="#NC">Yotlya</corr>
@@ -3829,7 +3826,7 @@
                                     <sic>Arasij</sic>
                                     <corr resp="#NC">Arasy</corr>
                                 </choice><!--<app><lem resp="#NC">Arasy</lem><rdg wit="#ADIV_5Fb_1">Arasij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="#Yael">Yael</persName></name>, <name
+                            <name type="divin"><persName ref="#Yæl">Yæl</persName></name>, <name
                             type="divin"><persName ref="#Lanur">Lanur</persName></name>, <name
                             type="divin"><persName ref="#Abyacs"><choice>
                                     <sic>Abijacs</sic>
@@ -3922,7 +3919,7 @@
                                 </choice><!--<app><lem resp="#NC">Sey</lem><rdg wit="#ADIV_5Fb_1">Seij</rdg></app>--></persName></name>,
                             <name type="divin"><persName ref="#Gule">Gule</persName></name>, <name
                             type="divin"><persName ref="#Hase">Hase</persName></name>, <name
-                            type="divin"><persName ref="#Cassaicolo">Cassiacolo</persName></name>,
+                            type="divin"><persName ref="#Cassiacolo">Cassiacolo</persName></name>,
                             <name type="divin"><persName ref="#Igas">Igas</persName></name>, <name
                             type="divin"><persName ref="#Taco">Taco</persName></name>, <name
                             type="divin"><persName ref="#Orchie">Orchie</persName></name>, <name
@@ -3989,14 +3986,14 @@
                             type="divin"><persName ref="#Hhesed">Hhesed</persName></name>, <name
                             type="divin"><persName ref="#Relsidion">Relsidion</persName></name>,
                             <name type="divin"><persName ref="#Malahahh">Malahahh</persName></name>,
-                            <name type="divin"><persName ref="#Ruahhton"
+                            <name type="divin"><persName ref="#Ruaahhton"
                         >Ruaahhton</persName></name>, <name type="divin"><persName ref="#Mesahh"
                                 >Mesahh</persName></name>, <name type="divin"><persName
                                 ref="#Tazahh">Tazahh</persName></name>, <pb n="27"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-27.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-27"/><name type="divin"
                                 ><persName ref="#Nispha">Nispha</persName></name>, <name
-                            type="divin"><persName ref="#Abytso"><choice>
+                            type="divin"><persName ref="#Abtyso"><choice>
                                     <sic>Abtijso</sic>
                                     <corr resp="#NC">Abtyso</corr>
                                 </choice><!--<app><lem resp="#NC">Abtyso</lem><rdg wit="#ADIV_5Fb_1">Abtijso</rdg></app>--></persName></name>,
