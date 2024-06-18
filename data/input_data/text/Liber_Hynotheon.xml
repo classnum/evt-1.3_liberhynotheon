@@ -45,43 +45,8 @@
                 </listWit>
                 <listPerson>
                     <head>Liste des noms</head>
-                    <person xml:id="Abraham">
-                        <persName>
-                            <forename>Abraham</forename>
-                        </persName>
-                        <sex>M</sex>
-                    </person>
-                    <person xml:id="David">
-                        <persName>
-                            <forename>David</forename>
-                        </persName>
-                        <sex>M</sex>
-                    </person>
-                    <person xml:id="Jacob">
-                        <persName>
-                            <forename>Jacob</forename>
-                        </persName>
-                        <sex>M</sex>
-                    </person>
-                    <person xml:id="Jésus">
-                        <persName>
-                            <forename>Jésus</forename>
-                        </persName>
-                        <sex>M</sex>
-                    </person>
-                    <person xml:id="Moïse">
-                        <persName>
-                            <forename>Moïse</forename>
-                        </persName>
-                        <sex>M</sex>
-                    </person>
-                    <person xml:id="Salomon">
-                        <persName>
-                            <forename>Salomon</forename>
-                        </persName>
-                        <sex>M</sex>
-                    </person>
                     <!-- Noms divins, au sein de la liste des noms -->
+                    <person xml:id="AetΩ"><persName type="divin">A et Ω (nom divin) </persName></person>
                     <person xml:id="Abamor">
                         <persName type="divin">Abamor (nom divin) </persName>
                     </person>
@@ -105,6 +70,12 @@
                     </person>
                     <person xml:id="Abnay">
                         <persName type="divin">Abnay (nom divin) </persName>
+                    </person>
+                    <person xml:id="Abraham">
+                        <persName>
+                            <forename>Abraham</forename>
+                        </persName>
+                        <sex>M</sex>
                     </person>
                     <person xml:id="Abrateh">
                         <persName type="divin">Abrateh (nom divin) </persName>
@@ -460,6 +431,12 @@
                     <person xml:id="Dansath">
                         <persName type="divin">Dansath (nom divin) </persName>
                     </person>
+                    <person xml:id="David">
+                        <persName>
+                            <forename>David</forename>
+                        </persName>
+                        <sex>M</sex>
+                    </person>
                     <person xml:id="Dayclan">
                         <persName type="divin">Dayclan (nom divin) </persName>
                     </person>
@@ -733,6 +710,21 @@
                     <person xml:id="Ioth">
                         <persName type="divin">Ioth (nom divin) </persName>
                     </person>
+                    <person xml:id="Israël">
+                        <persName type="divin">Israël (nom divin) </persName>
+                    </person>
+                    <person xml:id="Jacob">
+                        <persName>
+                            <forename>Jacob</forename>
+                        </persName>
+                        <sex>M</sex>
+                    </person>
+                    <person xml:id="Jésus">
+                        <persName>
+                            <forename>Jésus</forename>
+                        </persName>
+                        <sex>M</sex>
+                    </person>
                     <person xml:id="Ladatin">
                         <persName type="divin">Ladatin (nom divin) </persName>
                     </person>
@@ -825,6 +817,12 @@
                     </person>
                     <person xml:id="Mirthoath">
                         <persName type="divin">Mirthoath (nom divin) </persName>
+                    </person>
+                    <person xml:id="Moïse">
+                        <persName>
+                            <forename>Moïse</forename>
+                        </persName>
+                        <sex>M</sex>
                     </person>
                     <person xml:id="Moel">
                         <persName type="divin">Moel (nom divin) </persName>
@@ -1050,6 +1048,12 @@
                     </person>
                     <person xml:id="Salomich">
                         <persName type="divin">Salomich (nom divin) </persName>
+                    </person>
+                    <person xml:id="Salomon">
+                        <persName>
+                            <forename>Salomon</forename>
+                        </persName>
+                        <sex>M</sex>
                     </person>
                     <person xml:id="Sanel">
                         <persName type="divin">Sanel (nom divin) </persName>
@@ -1739,7 +1743,7 @@
                                     <rdg wit="#ADIV_5Fb_1">Hijnothéon</rdg>
                                 </app>--> sapientissimi <persName
                             ref="#Salomon">Salomonis</persName> regis, filii <persName ref="#David"
-                            >Dauid</persName><persName ref="#Jacob">Israel</persName>, de <choice>
+                            >Dauid</persName><persName ref="#Israël">Israel</persName>, de <choice>
                             <sic>Caldes</sic>
                             <corr resp="#NC">Chaldaeo</corr>
                         </choice>
@@ -2561,16 +2565,18 @@
             </div>
             <div n="4" type="chapitre">
                 <div n="1" type="section">
-                    <p>De <choice>
+                    <head rend="italic bold">De <choice>
                             <sic>altitunibus</sic>
                             <corr resp="#NC">altitudinibus</corr>
                         </choice><!--<app>
                                     <lem resp="#NC">altitudinibus</lem>
                                     <rdg wit="#ADIV_5Fb_1">altitunibus</rdg>
-                                </app>--> septentrionalibus et sunt tres.
+                                </app>--> septentrionalibus et sunt tres</head>
                             <pb n="8"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-8.jpg"
-                            xml:id="liber_hynotheon_ms_adiv_5fb1_page-8"/>Prima altitudo. Hæc
+                            xml:id="liber_hynotheon_ms_adiv_5fb1_page-8"/>
+                            <head rend="italic bold">Prima altitudo</head> 
+                            <p>Hæc
                         uocatur <name type="divin"><persName ref="#Hahanahor"
                             >Hahanahor</persName></name> et principes qui morantur in ea habent
                         uirtutem et potentiam super fortunam omnis maris et faciunt pluere et <choice>
@@ -2584,7 +2590,7 @@
                         Nomina principum huius altitudinis sunt <name type="divin"><persName
                                 ref="#Lohod">Lohod</persName></name>, <name type="divin"><persName
                                 ref="#Hadid">Hadid</persName></name>, <name type="divin"><persName
-                                ref="#Pereon">Pereo</persName>n</name>, <name type="divin"><persName
+                                ref="#Pereon">Pereon</persName></name>, <name type="divin"><persName
                                 ref="#Chelchezub">Chelchezub</persName></name>, <name type="divin"
                                 ><persName ref="#Belysuth"><choice>
                                     <sic>Belijsuth</sic>
@@ -2613,29 +2619,29 @@
                                 </choice><!--<app>
                                     <lem resp="#NC">Hyshahabhel</lem><rdg resp="#NC">Hijshahabhel</rdg>
                                 </app>--></persName></name>, <name
-                            type="divin"><persName ref="Sohamuhahyz"><choice>
+                            type="divin"><persName ref="#Sohamuhahyz"><choice>
                                     <sic>Sohamuhahijz</sic>
                                     <corr resp="#NC">Sohamuhahyz</corr>
                                 </choice><!--<app>
                                     <lem resp="#NC">Sohamuhahyz</lem><rdg resp="#NC">Sohamuhahijz</rdg>
                                 </app>--></persName></name>, <name
-                            type="divin"><persName ref="Mothosyhohan"><choice>
+                            type="divin"><persName ref="#Mothosyhohan"><choice>
                                     <sic>Mothosijhohan</sic>
                                     <corr resp="#NC">Mothosyhohan</corr>
                                 </choice><!--<app>
                                             <lem resp="#NC">Mothocyhohan</lem>
                                             <rdg wit="#ADIV_5Fb_1">Mothocijhohan</rdg>
                                         </app>--></persName></name>
-                        <del>Motholijhohan</del>, <name type="divin"><persName ref="Zachohohur"
+                        <del>Motholijhohan</del>, <name type="divin"><persName ref="#Zachohohur"
                                 >Zachohohur</persName></name>, <name type="divin"><persName
-                                ref="Neher">Neher</persName></name>, <name type="divin"><persName
-                                ref="Dahaol">Dahaol</persName></name>
-                        <del>Dahaal</del>, <name type="divin"><persName ref="Bochur"
+                                ref="#Neher">Neher</persName></name>, <name type="divin"><persName
+                                ref="#Dahaol">Dahaol</persName></name>
+                        <del>Dahaal</del>, <name type="divin"><persName ref="#Bochur"
                                 >Bochur</persName></name>.</p>
                 </div>
                 <div n="3" type="section">
                     <head rend="italic bold">Tertia et ultima altitudo</head>
-                    <p>Hæc uocatur <name type="divin"><persName ref="Sephaphahan"
+                    <p>Hæc uocatur <name type="divin"><persName ref="#Sephaphahan"
                                 >Sephaphahan</persName></name> et principes huius altitudinis qui
                         morantur in ea habent uirtutem et potentiam suam <choice>
                             <sic>distrugendi</sic>
@@ -2654,12 +2660,12 @@
                                         <rdg wit="#ADIV_5Fb_1">luxoriae</rdg>
                                     </app>--> et apparentiam faciunt ut ipsi
                         faciant quidquid uolunt uel non, ut eis uidetur. Nomina principum huius
-                        altitudinis sunt <name type="divin"><persName ref="Auubzelon"
+                        altitudinis sunt <name type="divin"><persName ref="#Auubzelon"
                                 >Auubzelon</persName></name>, <name type="divin"><persName
-                                ref="Zharahol">Zharahol</persName></name>, <name type="divin"
-                                ><persName ref="Raphahasel">Raphahasel</persName></name>, <name
-                            type="divin"><persName ref="Zechriahauel"
-                        >Zechriahauel</persName></name>, <name type="divin"><persName ref="Naniel"
+                                ref="#Zharahol">Zharahol</persName></name>, <name type="divin"
+                                ><persName ref="#Raphahasel">Raphahasel</persName></name>, <name
+                            type="divin"><persName ref="#Zechriahauel"
+                        >Zechriahauel</persName></name>, <name type="divin"><persName ref="#Naniel"
                                 >Naniel</persName></name>.</p>
                 </div>
                 <div n="4" type="section">
@@ -2672,10 +2678,10 @@
             <div n="5" type="chapitre">
                 <div n="1" type="section">
                     <head rend="italic bold">Tractatus tertius</head>
-                    <p>De modo fabricandi sanctum <name type="divin"><persName ref="Stahelaon"
+                    <p>De modo fabricandi sanctum <name type="divin"><persName ref="#Stahelaon"
                                 >Stahelaon</persName></name>
                         <del>Haelaon</del>. Nos fabricamus sanctum <name type="divin"><persName
-                                ref="Stahelaon">Stahelaon</persName></name>
+                                ref="#Stahelaon">Stahelaon</persName></name>
                         <del>Haelaon</del> hoc modo. In die ☿, id est Mercurii, <choice>
                             <sic>accipiemus</sic>
                             <corr resp="#NC">accepimus</corr>
@@ -2713,49 +2719,49 @@
                                         <rdg wit="#ADIV_5Fb_1">argento</rdg>
                                     </app>-->nouo ad hoc fabricato ; et
                         nomina Dei <del>diuini</del> uiui scripti debent die operationis. In primo
-                        foramine, scribatur <name type="divin"><persName ref="Adonay"><choice>
+                        foramine, scribatur <name type="divin"><persName ref="#Adonay"><choice>
                                     <sic>Adonaij</sic>
                                     <corr resp="#NC">Adonay</corr>
                                 </choice><!--<app>
                                         <lem resp="#NC">Adonay</lem>
                                         <rdg wit="#ADIV_5Fb_1">Adonaij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Helyon"><choice>
+                            <name type="divin"><persName ref="#Helyon"><choice>
                                     <sic>Helijon</sic>
                                     <corr resp="#NC">Helijon</corr>
                                 </choice><!--<app><lem resp="#NC">Helyon</lem><rdg wit="#ADIV_5Fb_1">Helijon</rdg></app>-->n</persName></name>,
                             <name type="divin"><persName ref="Pius">Pius</persName></name>. In
-                        secundo, <name type="divin"><persName ref="Hhælym"><choice>
+                        secundo, <name type="divin"><persName ref="#Hhælym"><choice>
                                     <sic>Hhælijm</sic>
                                     <corr resp="#NC">Hhælym</corr>
                                 </choice><!--<app>
                                             <lem resp="#NC">Hhælym</lem>
                                             <rdg wit="#ADIV_5Fb_1">Hhælijm</rdg>
                                         </app>--></persName></name>
-                        <del>Sthælijm</del>, <name type="divin"><persName ref="Steloy"><choice>
+                        <del>Sthælijm</del>, <name type="divin"><persName ref="#Steloy"><choice>
                                     <sic>Steloij</sic>
                                     <corr resp="#NC">Steloy</corr>
                                 </choice><!--<app>
                                             <lem resp="#NC">Steloy</lem><rdg wit="#ADIV_5Fb_1">Steloij</rdg>
                                         </app>--></persName></name><del>Stheloij</del>,
-                            <name type="divin"><persName ref="Stely"><choice>
+                            <name type="divin"><persName ref="#Stely"><choice>
                                     <sic>Stelij</sic>
                                     <corr resp="#NC">Stely</corr>
                                 </choice><!--<app>
                                             <lem resp="#NC">Stely</lem><rdg wit="#ADIV_5Fb_1">Stelij</rdg>
                                         </app>--></persName></name>.
-                        In tertio, <name type="divin"><persName ref="Ioth">Ioth</persName></name>,
-                            <name type="divin"><persName ref="Beth">Beth</persName></name>, <name
-                            type="divin"><persName ref="Agla">Agla</persName></name>. In quarto,
-                            <name type="divin"><persName ref="Tethagramaton"
+                        In tertio, <name type="divin"><persName ref="#Ioth">Ioth</persName></name>,
+                            <name type="divin"><persName ref="#Beth">Beth</persName></name>, <name
+                            type="divin"><persName ref="#Agla">Agla</persName></name>. In quarto,
+                            <name type="divin"><persName ref="#Tethagramaton"
                                 >Tethagramaton</persName></name>
-                        <del>Chethagramaton</del>, <name type="divin"><persName ref="Suday"><choice>
+                        <del>Chethagramaton</del>, <name type="divin"><persName ref="#Suday"><choice>
                                     <sic>Sudaij</sic>
                                     <corr resp="#NC">Suday</corr>
                                 </choice><!--<app>
                                             <lem resp="#NC">Suday</lem><rdg wit="#ADIV_5Fb_1">Sudaij</rdg>
                                         </app>--></persName></name>
-                        et <name type="divin"><persName ref="Ya"><choice>
+                        et <name type="divin"><persName ref="#Ya"><choice>
                                     <sic>Ija</sic>
                                     <corr resp="#NC">Ya</corr>
                                 </choice><!--<app>
@@ -2763,7 +2769,7 @@
                                         </app>--></persName></name>.</p>
                 </div>
                 <div n="2" type="section">
-                    <p>Et est sciendum quod sanctum <name type="divin"><persName ref="Hælaon"
+                    <p>Et est sciendum quod sanctum <name type="divin"><persName ref="#Hælaon"
                                 >Hælaon</persName></name>
                         <del>Sthaelaon</del>, dum fabricatur, in angulum et angulum ut in figura
                         signum nostrum faciendum est ; et inter <choice>
@@ -2781,14 +2787,14 @@
                                         <rdg wit="#ADIV_5Fb_1">stillo</rdg>
                                     </app>--> argenteo ad hoc fabricato, ut
                         in exemplo, in medio autem ficti debet nomen sanctum <name type="divin"
-                                ><persName ref="Hel">Hel</persName></name>, ut in exemplo, in medio <choice>
+                                ><persName ref="#Hel">Hel</persName></name>, ut in exemplo, in medio <choice>
                             <sic>stanctum</sic>
                             <corr resp="#NC">sanctum</corr>
                         </choice><!--<app>
                                         <lem resp="#NC">sanctum</lem>
                                         <rdg wit="#ADIV_5Fb_1">stanctum</rdg>
                                     </app>--> nomen <name type="divin"
-                                ><persName ref="Hel">Hel</persName></name> ; et capsula non debet
+                                ><persName ref="#Hel">Hel</persName></name> ; et capsula non debet
                         esse uacua et supra <choice>
                             <sic>capsula</sic>
                             <corr resp="#NC">capsulam</corr>
@@ -2804,7 +2810,7 @@
                 <div n="3" type="section">
                     <p>Cauendum autem est ne aliqua illius candelæ <add place="supra linea">t</add>
                         accendatur nisi tempore operationis. Cum autem sanctum <name type="divin"
-                                ><persName ref="Stæleion">Stæleion</persName></name>
+                                ><persName ref="#Stæleion">Stæleion</persName></name>
                         <pb n="10"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-10.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-10"/> compositum fuit, fiat
@@ -2831,11 +2837,11 @@
                                         <rdg wit="#ADIV_5Fb_1">aloe</rdg>
                                     </app>-->, storacis et calamitæ et illa
                         cooperiatur panno serico albo. Hæc sunt nomina sigilli <name type="divin"
-                                ><persName ref="Steloen">Steloen</persName></name>
-                        <name type="divin"><persName ref="Adonay">Adonay</persName></name>, <name
-                            type="divin"><persName ref="Pius">Pius</persName></name>, <name
-                            type="divin"><persName ref="Anabona">Anabona</persName></name>, <name
-                            type="divin"><persName ref="Aranithan">Aranithan</persName></name>, ut
+                                ><persName ref="#Steloen">Steloen</persName></name>
+                        <name type="divin"><persName ref="#Adonay">Adonay</persName></name>, <name
+                            type="divin"><persName ref="#Pius">Pius</persName></name>, <name
+                            type="divin"><persName ref="#Anabona">Anabona</persName></name>, <name
+                            type="divin"><persName ref="#Aranithan">Aranithan</persName></name>, ut
                         melius uideri potest in exemplo et tempore operationis non preparationis
                         accenduntur candelæ. Et habeas petitionem scriptam in carta uirginea non
                         petendo aliquid quod non pertineat ad officium illius altitudinis et dictam
@@ -2844,10 +2850,10 @@
                 <div n="4" type="section">
                     <p>Et nota quod illud sigillum sufficit in omnibus altitudinibus et
                         operationibus sed <del>ad</del> sanctum <name type="divin"><persName
-                                ref="Hahelaon">Hahelaon</persName></name>
+                                ref="#Hahelaon">Hahelaon</persName></name>
                         <del>Haelaon</del> est fabricandum secundum altitudines. Prima altitudo,
                         fabricatur de cera alba et etiam candelæ. Secunda, sanctum <name
-                            type="divin"><persName ref="Hælaon">Hælaon</persName></name>
+                            type="divin"><persName ref="#Hælaon">Hælaon</persName></name>
                         <del>Staelaon</del> secundæ altitudinis et etiam candelæ fabricatur de cera <choice>
                             <sic>neffei</sic>
                             <corr resp="#NC">rufi</corr>
@@ -2857,7 +2863,7 @@
                                         <rdg wit="#ADIV_5Fb_1">neffei</rdg>
                                     </app>-->
                         <del>reffei</del> coloris. Tertia, sanctum <name type="divin"><persName
-                                ref="Hælaon">Hælaon</persName></name>
+                                ref="#Hælaon">Hælaon</persName></name>
                         <del>Staelaon</del> tertiæ altitudinis et etiam candelæ de cera
                             <del>azzurea</del>
                         <choice>
@@ -2867,7 +2873,7 @@
                                         <lem resp="#NC">crocea</lem>
                                         <rdg wit="#ADIV_5Fb_1">croca</rdg>
                                     </app>-->. Quarta, sanctum <name
-                            type="divin"><persName ref="Hælaon">Hælaon</persName></name>
+                            type="divin"><persName ref="#Hælaon">Hælaon</persName></name>
                         <del>Staelaon</del> quartæ altitudinis et etiam candelæ de cera <choice>
                             <sic>azzura</sic>
                             <corr resp="#NC">azurea</corr>
@@ -2875,7 +2881,7 @@
                                         <lem resp="#NC">azurea</lem>
                                         <rdg wit="#ADIV_5Fb_1">azzura</rdg>
                                     </app>-->. Quinta, sanctum <name
-                            type="divin"><persName ref="Hælaon">Hælaon</persName></name> quintæ
+                            type="divin"><persName ref="#Hælaon">Hælaon</persName></name> quintæ
                         altitudinis de cera <choice>
                             <sic>uiridi</sic>
                             <corr resp="#NC">uiridis</corr>
@@ -2883,10 +2889,10 @@
                                         <lem resp="#NC">uiridis</lem>
                                         <rdg wit="#ADIV_5Fb_1">uiridi</rdg>
                                     </app>--> coloris. Sexta, sanctum <name
-                            type="divin"><persName ref="Hælaon">Hælaon</persName></name> sextæ
+                            type="divin"><persName ref="#Hælaon">Hælaon</persName></name> sextæ
                         altitudinis de cera uiolacea. Septima, sanctum <name type="divin"><persName
-                                ref="Hælaon">Hælaon</persName></name> septimæ altitudinis de cera
-                        carnei coloris. Octaua, sanctum <name type="divin"><persName ref="Hælaon"
+                                ref="#Hælaon">Hælaon</persName></name> septimæ altitudinis de cera
+                        carnei coloris. Octaua, sanctum <name type="divin"><persName ref="#Hælaon"
                                 >Hælaon</persName></name> octauæ altitudinis de cera coloris <choice>
                             <sic>uiridi</sic>
                             <corr resp="#NC">uiridis</corr>
@@ -2894,7 +2900,7 @@
                                         <lem resp="#NC">uiridis</lem>
                                         <rdg wit="#ADIV_5Fb_1">uiridi</rdg>
                                     </app>--> et liuidi. Nona, sanctum <name
-                            type="divin"><persName ref="Hælaon">Hælaon</persName></name> nonæ
+                            type="divin"><persName ref="#Hælaon">Hælaon</persName></name> nonæ
                         altitudinis de cera <choice>
                             <sic>bijssima</sic>
                             <corr resp="#NC">byssima</corr>
@@ -2908,7 +2914,7 @@
                                         <lem resp="#NC">sequitur</lem>
                                         <rdg wit="#ADIV_5Fb_1">sequuntur</rdg>
                                     </app>--> sanctum <name type="divin"
-                                ><persName ref="Stælaon">Stælaon</persName></name> altitudinum
+                                ><persName ref="#Stælaon">Stælaon</persName></name> altitudinum
                         occidentalium. <pb n="11"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-11.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-11"/>Prima altitudo,
@@ -2943,9 +2949,9 @@
                                         <lem resp="#NC">sequitur</lem>
                                         <rdg wit="#ADIV_5Fb_1">sequuntur</rdg>
                                     </app>--> sanctum <name type="divin"
-                                ><persName ref="Stahelaon">Stahelaon</persName></name> altitudinum
+                                ><persName ref="#Stahelaon">Stahelaon</persName></name> altitudinum
                         meridionalum. Prima, primæ sanctum <name type="divin"><persName
-                                ref="Stahelaon">Stahelaon</persName></name> et eius candelæ in ista
+                                ref="#Stahelaon">Stahelaon</persName></name> et eius candelæ in ista
                         altitudine fabricantur de cera crocei coloris. Secunda, secundæ de cera albi
                         coloris sed fusca. Tertia, tertiæ de cera uiolacea. Quarta, quartæ de cera
                         coloris florem <choice>
@@ -2972,11 +2978,11 @@
                                         <lem resp="#NC">septentrionalis</lem>
                                         <rdg wit="#ADIV_5Fb_1">septemtrionalis</rdg>
                                     </app>-->. Prima, primum sanctum <name
-                            type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> primæ
+                            type="divin"><persName ref="#Stahelaon">Stahelaon</persName></name> primæ
                         altitudinis et etiam candelæ de cera nigra. Secunda, secundum sanctum <name
-                            type="divin"><persName ref="Stahelaon">Stahelaon</persName></name>
+                            type="divin"><persName ref="#Stahelaon">Stahelaon</persName></name>
                         secundæ altitudinis et etiam candelæ de cerea coloris sanguinei. Tertia,
-                        tertium sanctum <name type="divin"><persName ref="Stahelaon"
+                        tertium sanctum <name type="divin"><persName ref="#Stahelaon"
                                 >Stahelaon</persName></name> tertiæ altitudinis et etiam candelæ
                         nigri coloris sed clari.</p>
                     <pb n="12" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-12.jpg"
@@ -2990,15 +2996,15 @@
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-13"/>
                 <head rend="italic bold">Figura prima</head>
                 <p>Modus formandi <del>fomandi</del> sanctum <name type="divin"><persName
-                            ref="Stahelaon">Stahelaon</persName></name></p>
-                <p><name type="divin"><persName ref="thetagrammaton"
+                            ref="#Stahelaon">Stahelaon</persName></name></p>
+                <p><name type="divin"><persName ref="#Thetagrammaton"
                         >THETAGRAMMATON</persName></name></p>
                 <p><name type="divin"><persName ref="hel">HEL</persName></name></p>
-                <p>1. <name type="divin"><persName ref="Hynoytheon">Hynoytheon</persName></name></p>
-                <p>2. <name type="divin"><persName ref="Pthiaeumaton"
+                <p>1. <name type="divin"><persName ref="#Hynoytheon">Hynoytheon</persName></name></p>
+                <p>2. <name type="divin"><persName ref="#Pthiaeumaton"
                     >Pthiaeumaton</persName></name></p>
-                <p>3. <name type="divin"><persName ref="Anbona">Anbona</persName></name></p>
-                <p>4. <name type="divin"><persName ref="Yhehoua">Yhehoua</persName></name></p>
+                <p>3. <name type="divin"><persName ref="#Anbona">Anbona</persName></name></p>
+                <p>4. <name type="divin"><persName ref="#Yhehoua">Yhehoua</persName></name></p>
 
             </div>
 
@@ -3006,14 +3012,14 @@
                 <pb n="14" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-14.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-14"/>
                 <head rend="italic bold">Figura secunda</head>
-                <p><name type="divin"><persName ref="thethagrammaton"
+                <p><name type="divin"><persName ref="#Thethagrammaton"
                         >THETHAGRAMMATON</persName></name></p>
-                <p><name type="divin"><persName ref="hel">HEL</persName></name></p>
-                <p>1. <name type="divin"><persName ref="Hynoytheon">Hynoytheon</persName></name></p>
-                <p>2. <name type="divin"><persName ref="Ptihaeumaton"
+                <p><name type="divin"><persName ref="#Hel">HEL</persName></name></p>
+                <p>1. <name type="divin"><persName ref="#Hynoytheon">Hynoytheon</persName></name></p>
+                <p>2. <name type="divin"><persName ref="#Ptihaeumaton"
                     >Ptihaeumaton</persName></name></p>
-                <p>3. <name type="divin"><persName ref="Anabona">Anabona</persName></name></p>
-                <p>4. <name type="divin"><persName ref="Ihehoua">Ihehoua</persName></name>
+                <p>3. <name type="divin"><persName ref="#Anabona">Anabona</persName></name></p>
+                <p>4. <name type="divin"><persName ref="#Ihehoua">Ihehoua</persName></name>
                 </p>
             </div>
             <pb n="15" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-15.jpg"
@@ -3054,7 +3060,7 @@
                 </div>
                 <div n="5" type="section">
                     <p>Sciendum etiam et quod omnia sanctissima <name type="divin"><persName
-                                ref="Hahelam">Hahelam</persName></name> sunt facienda ut primum <choice>
+                                ref="#Hahelam">Hahelam</persName></name> sunt facienda ut primum <choice>
                             <sic>orientes</sic>
                             <corr resp="#NC">orientis</corr>
                         </choice><!--<app>
@@ -3243,7 +3249,7 @@
                         imperatoris et creatoris <pb n="17"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-17.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-17"/>omnium creaturarum quod
-                        est + <name type="divin"><persName ref="Thethagramaton"
+                        est + <name type="divin"><persName ref="#Thethagramaton"
                                 >Thethagramaton</persName></name> ut in exemplo.</p>
                 </div>
                 <div n="4" type="section">
@@ -3252,7 +3258,7 @@
                         corrumpi <del>corumpi</del> colores et odores ut eis uidetur.</p>
                 </div>
                 <div n="5" type="section">
-                    <p>Nota quod sanctissimum <name type="divin"><persName ref="Stahelaon"
+                    <p>Nota quod sanctissimum <name type="divin"><persName ref="#Stahelaon"
                                 >Stahelaon</persName></name> ut diximus est fabricandum die ☿, id
                         est Mercurii, luna crescente ad bonam partem, si autem ad malum a
                         contrario ; et finito illud reponat in loco mundissimo. Et antequam
@@ -3332,7 +3338,7 @@
                                         <lem resp="#NC">ponat</lem>
                                         <rdg wit="#ADIV_5Fb_1">ponatura</rdg>
                                     </app>--> artista sanctum <name
-                            type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> cum
+                            type="divin"><persName ref="#Stahelaon">Stahelaon</persName></name> cum
                         maxima ueneratione et genuflexus suffumiget illud odoribus illius
                         altitudinis <choice>
                             <sic>quam posse</sic>
@@ -3354,9 +3360,9 @@
                                         <rdg wit="#ADIV_5Fb_1">dietas</rdg>
                                     </app>--> sine fine, Deus creator omnium
                         creaturarum, principium et finis, Deus <name type="divin"><persName
-                                ref="Adonay">Adonay</persName></name>, Deus <name type="divin"
-                                ><persName ref="Iahoua">Iahoua</persName></name>, Deus <name
-                            type="divin"><persName ref="Cados">Cados</persName></name> et Deus
+                                ref="#Adonay">Adonay</persName></name>, Deus <name type="divin"
+                                ><persName ref="#Iahoua">Iahoua</persName></name>, Deus <name
+                            type="divin"><persName ref="#Cados">Cados</persName></name> et Deus
                         omnium in te sperantium, Deus uirtuosissimus atque sapientissimus et
                         seruator cordium, miserere mei et intende uoci deprecationis meæ dum oro ad
                         te, <del>deum</del> dum extollo manus meas ad templum sanctum tuum.</p>
@@ -3432,7 +3438,7 @@
                     <p>Nota quod, dum artista genuflexus orat, debent esse sex candelæ accensæ super
                         tabulam et finita supra dicta oratione, scribere debebit nomen magnum et
                         terribile cum maxima deuotione. Hoc est <name type="divin"><persName
-                                ref="Thethagramaton">Thethagramaton</persName></name>
+                                ref="#Thethagramaton">Thethagramaton</persName></name>
                         <choice>
                             <sic>dilectens</sic>
                             <corr resp="#NC">dilectans</corr>
@@ -3447,9 +3453,9 @@
                 </div>
                 <div n="2" type="section">
                     <p>Et postea, cum maxima ueneratione, candelas accendat sanctissimi <name
-                            type="divin"><persName ref="Stahelaon">Stahelaon</persName></name> ;
+                            type="divin"><persName ref="#Stahelaon">Stahelaon</persName></name> ;
                         quibus accensis suffumiget denuo sanctissumum <name type="divin"><persName
-                                ref="Stahelaon">Stahelaon</persName></name>. Et finita
+                                ref="#Stahelaon">Stahelaon</persName></name>. Et finita
                         suffumigatione genuflexu incipiat operationem suam hoc modo.</p>
                 </div>
                 <div n="3" type="section">
@@ -3461,7 +3467,7 @@
                                         <lem resp="#NC">stilo</lem>
                                         <rdg wit="#ADIV_5Fb_1">stillo</rdg>
                                     </app>--> argenteo usque ad sanctum
-                        nomen <name type="divin"><persName ref="Stahelaon"
+                        nomen <name type="divin"><persName ref="#Stahelaon"
                             >Stahelaon</persName></name> et intus mittere sigillum altitudinis et
                         caractera principum cum suis nominibus et postea foramen illud claudere.
                         Antequam artista mittat sigillum altitudinis et caractera principum <del>in
@@ -3540,7 +3546,7 @@
                 </div>
                 <div n="2" type="section">
                     <p>Nos supra diximus quod artista genuflexus suffumigare debet sanctissimum
-                            <name type="divin"><persName ref="Hælaon">Hælaon</persName></name> et,
+                            <name type="divin"><persName ref="#Hælaon">Hælaon</persName></name> et,
                         finita suffumigatione, incipere in tractatum sequentem coniurationem etiam
                         genuflexus.</p>
                 </div>
@@ -3548,7 +3554,7 @@
             <div n="14" type="chapitre">
                 <div n="1" type="section">
                     <p>Nota. Sciendum tamen est quod preparatio illa seu oratio quæ incipit « Deus
-                            <persName ref="#Abraham">Abraham</persName>, Deus <persName ref="Israël"
+                            <persName ref="#Abraham">Abraham</persName>, Deus <persName ref="#Israël"
                             >Israel</persName> » &amp; est dicenda ante primam horam illius planetæ,
                         quæ <del>qua</del> operatur altitudo. Etiam est sciendum quod artista, dum
                         scribit sigillum altitudinis et caractera principum debet etiam genuflexus
@@ -3586,28 +3592,28 @@
                                         <lem resp="#NC">terrestribus</lem>
                                         <rdg wit="#ADIV_5Fb_1">terestribus</rdg>
                                     </app>--> et infernalibus quod scribitur
-                        quatuor litteris, id est <name type="divin"><persName ref="Voth"
-                                >Voth</persName></name>, <name type="divin"><persName ref="Beth"
-                                >Beth</persName></name>, <name type="divin"><persName ref="Agla"
-                                >Agla</persName></name>, <name type="divin"><persName ref="Aenar"
+                        quatuor litteris, id est <name type="divin"><persName ref="#Voth"
+                                >Voth</persName></name>, <name type="divin"><persName ref="#Beth"
+                                >Beth</persName></name>, <name type="divin"><persName ref="#Agla"
+                                >Agla</persName></name>, <name type="divin"><persName ref="#Aenar"
                                 >Aenar</persName></name>
                     </p>
                 </div>
                 <div n="2" type="section">
                     <p>et omnia alia nomina nobis cognita quae sunt hæc uidelicet <name type="divin"
-                                ><persName ref="On">On</persName></name>, <name type="divin"
-                                ><persName ref="Caph">Caph</persName></name>, <name type="divin"
-                                ><persName ref="Adicarday">Adicarday</persName></name>, <name
-                            type="divin"><persName ref="Cby"><choice>
+                                ><persName ref="#On">On</persName></name>, <name type="divin"
+                                ><persName ref="#Caph">Caph</persName></name>, <name type="divin"
+                                ><persName ref="#Adicarday">Adicarday</persName></name>, <name
+                            type="divin"><persName ref="#Cby"><choice>
                                     <sic>Cbij</sic>
                                     <corr resp="#NC">Cby</corr>
                                 </choice><!--<app>
                                         <lem resp="#NC">Cby</lem>
                                         <rdg wit="#ADIV_5Fb_1">Cbij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="On">On</persName></name>, <name
-                            type="divin"><persName ref="Abuinon">Abuinon</persName></name>, <name
-                            type="divin"><persName ref="Ydios"><choice>
+                            <name type="divin"><persName ref="#On">On</persName></name>, <name
+                            type="divin"><persName ref="#Abuinon">Abuinon</persName></name>, <name
+                            type="divin"><persName ref="#Ydios"><choice>
                                     <sic>Ijdios</sic>
                                     <corr resp="#NC">Ydios</corr>
                                 </choice><!--<app>
@@ -3617,460 +3623,460 @@
                             n="26"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-26.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-26"/>
-                        <name type="divin"><persName ref="Thethagramaton"
+                        <name type="divin"><persName ref="#Thethagramaton"
                             >Thethagramaton</persName></name>,<del>Hussio, Hel, Helij, Heloij,
                             Heloa</del>
-                        <name type="divin"><persName ref="Emanuel">Emanuel</persName></name>, <name
-                            type="divin"><persName ref="Adonay"><choice>
+                        <name type="divin"><persName ref="#Emanuel">Emanuel</persName></name>, <name
+                            type="divin"><persName ref="#Adonay"><choice>
                                     <sic>Adonaij</sic>
                                     <corr resp="#NC">Adonay</corr>
                                 </choice><!--<app>
                                         <lem resp="#NC">Adonay</lem>
                                         <rdg wit="#ADIV_5Fb_1">Adonaij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Agloto">Agloto</persName></name>,
-                            <name type="divin"><persName ref="Pantongraton"
+                            <name type="divin"><persName ref="#Agloto">Agloto</persName></name>,
+                            <name type="divin"><persName ref="#Pantongraton"
                             >Pantongraton</persName></name>, <name type="divin"><persName
-                                ref="Hussio">Hussio</persName></name>, <name type="divin"><persName
-                                ref="Hel">Hel</persName></name>, <name type="divin"><persName
-                                ref="Hely"><choice>
+                                ref="#Hussio">Hussio</persName></name>, <name type="divin"><persName
+                                ref="#Hel">Hel</persName></name>, <name type="divin"><persName
+                                ref="#Hely"><choice>
                                     <sic>Helij</sic>
                                     <corr resp="#NC">Hely</corr>
                                 </choice><!--<app><lem resp="#NC">Hely</lem>
                                         <rdg wit="#ADIV_5Fb_1">Helij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Heloy"><choice>
+                            <name type="divin"><persName ref="#Heloy"><choice>
                                     <sic>Heloij</sic>
                                     <corr resp="#NC">Heloy</corr>
                                 </choice><!--<app><lem resp="#NC">Heloy</lem>
                                         <rdg wit="#ADIV_5Fb_1">Heloij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Heloa">Heloa</persName></name>, <name
-                            type="divin"><persName ref="Helya"><choice>
+                            <name type="divin"><persName ref="#Heloa">Heloa</persName></name>, <name
+                            type="divin"><persName ref="#Helya"><choice>
                                     <sic>Helija</sic>
                                     <corr resp="#NC">Helya</corr>
                                 </choice><!--<app><lem resp="#NC">Helya</lem>
                                         <rdg wit="#ADIV_5Fb_1">Helija</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Helyen"><choice>
+                            <name type="divin"><persName ref="#Helyen"><choice>
                                     <sic>Helijen</sic>
                                     <corr resp="#NC">Helyen</corr>
                                 </choice><!--<app><lem resp="#NC">Helyen</lem>
                                         <rdg wit="#ADIV_5Fb_1">Helijen</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Elyoa"><choice>
+                            <name type="divin"><persName ref="#Elyoa"><choice>
                                     <sic>Elijoa</sic>
                                     <corr resp="#NC">Elyoa</corr>
                                 </choice><!--<app><lem resp="#NC">Elyoa</lem>
                                         <rdg wit="#ADIV_5Fb_1">Elijoa</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Elyona"><choice>
+                            <name type="divin"><persName ref="#Elyona"><choice>
                                     <sic>Elijona</sic>
                                     <corr resp="#NC">Elyona</corr>
                                 </choice><!--<app><lem resp="#NC">Elyona</lem>
                                         <rdg wit="#ADIV_5Fb_1">Elijona</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Ely"><choice>
+                            <name type="divin"><persName ref="#Ely"><choice>
                                     <sic>Elij</sic>
                                     <corr resp="#NC">Ely</corr>
                                 </choice><!--<app><lem resp="#NC">Ely</lem>
                                         <rdg wit="#ADIV_5Fb_1">Elij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Vasala">Vasala</persName></name>,
-                            <name type="divin"><persName ref="Valy"><choice>
+                            <name type="divin"><persName ref="#Vasala">Vasala</persName></name>,
+                            <name type="divin"><persName ref="#Valy"><choice>
                                     <sic>Valij</sic>
                                     <corr resp="#NC">Valy</corr>
                                 </choice><!--<app><lem resp="#NC">Valy</lem>
                                         <rdg wit="#ADIV_5Fb_1">Valij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Teul">Teul</persName></name>, <name
-                            type="divin"><persName ref="Vaul">Vaul</persName></name>, <name
-                            type="divin"><persName ref="Vau">Vau</persName></name>, <name
-                            type="divin"><persName ref="Seu">Seu</persName></name>, <name
-                            type="divin"><persName ref="Signasis">Signasis</persName></name>, <name
-                            type="divin"><persName ref="Aghetan">Aghetan</persName></name>, <name
-                            type="divin"><persName ref="Abyonitas"><choice>
+                            <name type="divin"><persName ref="#Teul">Teul</persName></name>, <name
+                            type="divin"><persName ref="#Vaul">Vaul</persName></name>, <name
+                            type="divin"><persName ref="#Vau">Vau</persName></name>, <name
+                            type="divin"><persName ref="#Seu">Seu</persName></name>, <name
+                            type="divin"><persName ref="#Signasis">Signasis</persName></name>, <name
+                            type="divin"><persName ref="#Aghetan">Aghetan</persName></name>, <name
+                            type="divin"><persName ref="#Abyonitas"><choice>
                                     <sic>Abijonitas</sic>
                                     <corr resp="#NC">Abyonitas</corr>
                                 </choice><!--<app><lem resp="#NC">Abyonitas</lem>
                                         <rdg wit="#ADIV_5Fb_1">Abijonitas</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Ieue">Ieue</persName></name>, <name
-                            type="divin"><persName ref="Techtron">Techtron</persName></name>, <name
-                            type="divin"><persName ref="Techtron">Techtron</persName></name>, <name
-                            type="divin"><persName ref="Alausim">Alausim</persName></name>, <name
-                            type="divin"><persName ref="Chalbatl"
+                            <name type="divin"><persName ref="#Ieue">Ieue</persName></name>, <name
+                            type="divin"><persName ref="#Techtron">Techtron</persName></name>, <name
+                            type="divin"><persName ref="#Techtron">Techtron</persName></name>, <name
+                            type="divin"><persName ref="#Alausim">Alausim</persName></name>, <name
+                            type="divin"><persName ref="#Chalbatl"
                             >Chalbatl</persName></name>,<del>Ieue</del>
-                        <name type="divin"><persName ref="Iobel">Iobel</persName></name>, <name
-                            type="divin"><persName ref="Onio">Onio</persName></name>, <name
-                            type="divin"><persName ref="Vna">Vna</persName></name>, <name
-                            type="divin"><persName ref="Saluator">Saluator</persName></name>, <name
-                            type="divin">A et O</name> ego sum qui sum, <name type="divin"><persName
-                                ref="Aehec">Aehec</persName></name>, <name type="divin"><persName
-                                ref="Sehoua">Sehoua</persName></name>, <name type="divin"><persName
-                                ref="Anabona">Anabona</persName></name>, <name type="divin"
-                                ><persName ref="Ysaron"><choice>
+                        <name type="divin"><persName ref="#Iobel">Iobel</persName></name>, <name
+                            type="divin"><persName ref="#Onio">Onio</persName></name>, <name
+                            type="divin"><persName ref="#Vna">Vna</persName></name>, <name
+                            type="divin"><persName ref="#Saluator">Saluator</persName></name>, <name
+                            type="divin"><persName ref="#AetΩ">A et Ω</persName></name> ego sum qui sum, <name type="divin"><persName
+                                ref="#Aehec">Aehec</persName></name>, <name type="divin"><persName
+                                ref="#Sehoua">Sehoua</persName></name>, <name type="divin"><persName
+                                ref="#Anabona">Anabona</persName></name>, <name type="divin"
+                                ><persName ref="#Ysaron"><choice>
                                     <sic>Ijsaron</sic>
                                     <corr resp="#NC">Ysaron</corr>
                                 </choice><!--<app><lem resp="#NC">Ysaron</lem>
                                         <rdg wit="#ADIV_5Fb_1">Ijsaron</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Alyeon"><choice>
+                            <name type="divin"><persName ref="#Alyeon"><choice>
                                     <sic>Alijeon</sic>
                                     <corr resp="#NC">Alyeon</corr>
                                 </choice><!--<app><lem resp="#NC">Alyeon</lem>
                                         <rdg wit="#ADIV_5Fb_1">Alyeon</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Syalos"><choice>
+                            <name type="divin"><persName ref="#Syalos"><choice>
                                     <sic>Sijalos</sic>
                                     <corr resp="#NC">Syalos</corr>
                                 </choice><!--<app><lem resp="#NC">Syalos</lem>
                                         <rdg wit="#ADIV_5Fb_1">Sijalos</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Ane">Ane</persName></name>, <name
-                            type="divin"><persName ref="Adneth">Adneth</persName></name>, <name
-                            type="divin"><persName ref="Esba">Esba</persName></name>, <name
-                            type="divin"><persName ref="Athoth">Athot</persName>h</name>, <name
-                            type="divin"><persName ref="Yotlya"><choice>
+                            <name type="divin"><persName ref="#Ane">Ane</persName></name>, <name
+                            type="divin"><persName ref="#Adneth">Adneth</persName></name>, <name
+                            type="divin"><persName ref="#Esba">Esba</persName></name>, <name
+                            type="divin"><persName ref="#Athoth">Athot</persName>h</name>, <name
+                            type="divin"><persName ref="#Yotlya"><choice>
                                     <sic>Ijotlija</sic>
                                     <corr resp="#NC">Yotlya</corr>
                                 </choice><!--<app><lem resp="#NC">Yotlya</lem>
                                         <rdg wit="#ADIV_5Fb_1">Ijotlija</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Ayan"><choice>
+                            <name type="divin"><persName ref="#Ayan"><choice>
                                     <sic>Aijan</sic>
                                     <corr resp="#NC">Ayan</corr>
                                 </choice><!--<app><lem resp="#NC">Ayan</lem>
                                         <rdg wit="#ADIV_5Fb_1">Aijan</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Ayac"><choice>
+                            <name type="divin"><persName ref="#Ayac"><choice>
                                     <sic>Aijac</sic>
                                     <corr resp="#NC">Ayac</corr>
                                 </choice><!--<app><lem resp="#NC">Ayac</lem>
                                         <rdg wit="#ADIV_5Fb_1">Aijac</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Dyeron"><choice>
+                            <name type="divin"><persName ref="#Dyeron"><choice>
                                     <sic>Dijeron</sic>
                                     <corr resp="#NC">Dyeron</corr>
                                 </choice><!--<app><lem resp="#NC">Dyeron</lem>
                                         <rdg wit="#ADIV_5Fb_1">Dijeron</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Zasaday"><choice>
+                            <name type="divin"><persName ref="#Zasaday"><choice>
                                     <sic>Zasadaij</sic>
                                     <corr resp="#NC">Zasaday</corr>
                                 </choice><!--<app><lem resp="#NC">Zasaday</lem>
                                         <rdg wit="#ADIV_5Fb_1">Zasadaij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Oin">Oin</persName></name>, <name
-                            type="divin"><persName ref="Vlath">Vlath</persName></name>, <name
-                            type="divin"><persName ref="Vnias">Vnias</persName></name>, <name
-                            type="divin"><persName ref="Yonas"><choice>
+                            <name type="divin"><persName ref="#Oin">Oin</persName></name>, <name
+                            type="divin"><persName ref="#Vlath">Vlath</persName></name>, <name
+                            type="divin"><persName ref="#Vnias">Vnias</persName></name>, <name
+                            type="divin"><persName ref="#Yonas"><choice>
                                     <sic>Ijonas</sic>
                                     <corr resp="#NC">Yonas</corr>
                                 </choice><!--<app><lem resp="#NC">Yonas</lem>
                                         <rdg wit="#ADIV_5Fb_1">Ijonas</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Otheth">Otheth</persName></name>,
-                            <name type="divin"><persName ref="Ihegh">Ihegh</persName></name>, <name
-                            type="divin"><persName ref="Abamor">Abamor</persName></name>, <name
-                            type="divin"><persName ref="Adyos"><choice>
+                            <name type="divin"><persName ref="#Otheth">Otheth</persName></name>,
+                            <name type="divin"><persName ref="#Ihegh">Ihegh</persName></name>, <name
+                            type="divin"><persName ref="#Abamor">Abamor</persName></name>, <name
+                            type="divin"><persName ref="#Adyos"><choice>
                                     <sic>Adijos</sic>
                                     <corr resp="#NC">Adyos</corr>
                                 </choice><!--<app><lem resp="#NC">Adyos</lem>
                                         <rdg wit="#ADIV_5Fb_1">Adijos</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Vertahel">Vertahel</persName></name>,
-                            <name type="divin"><persName ref="Bemon">Bemon</persName></name>, <name
-                            type="divin"><persName ref="Zeloy"><choice>
+                            <name type="divin"><persName ref="#Vertahel">Vertahel</persName></name>,
+                            <name type="divin"><persName ref="#Bemon">Bemon</persName></name>, <name
+                            type="divin"><persName ref="#Zeloy"><choice>
                                     <sic>Zeloij</sic>
                                     <corr resp="#NC">Zeloy</corr>
                                 </choice><!--<app><lem resp="#NC">Zeloy</lem>
                                         <rdg wit="#ADIV_5Fb_1">Zeloij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Zeray"><choice>
+                            <name type="divin"><persName ref="#Zeray"><choice>
                                     <sic>Zeraij</sic>
                                     <corr resp="#NC">Zeray</corr>
                                 </choice><!--<app><lem resp="#NC">Zeray</lem>
                                         <rdg wit="#ADIV_5Fb_1">Zeraij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="Manay"><choice>
+                            <name type="divin"><persName ref="#Manay"><choice>
                                     <sic>Manaij</sic>
                                     <corr resp="#NC">Manay</corr>
                                 </choice><!--<app><lem resp="#NC">Manay</lem><rdg wit="#ADIV_5Fb_1">Manaij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Alba">Alba</persName></name>, <name
-                            type="divin"><persName ref="Abatha">Abatha</persName></name>, <name
-                            type="divin"><persName ref="Nethon">Nethon</persName></name>, <name
-                            type="divin"><persName ref="Auhulo">Auhulo</persName></name>, <name
-                            type="divin"><persName ref="Anarna">Anarna</persName></name>, <name
-                            type="divin"><persName ref="Sanel">Sanel</persName></name>, <name
-                            type="divin"><persName ref="Ferglaon">Ferglaon</persName></name>, <name
-                            type="divin"><persName ref="Dayclan"><choice>
+                            <name type="divin"><persName ref="#Alba">Alba</persName></name>, <name
+                            type="divin"><persName ref="#Abatha">Abatha</persName></name>, <name
+                            type="divin"><persName ref="#Nethon">Nethon</persName></name>, <name
+                            type="divin"><persName ref="#Auhulo">Auhulo</persName></name>, <name
+                            type="divin"><persName ref="#Anarna">Anarna</persName></name>, <name
+                            type="divin"><persName ref="#Sanel">Sanel</persName></name>, <name
+                            type="divin"><persName ref="#Ferglaon">Ferglaon</persName></name>, <name
+                            type="divin"><persName ref="#Dayclan"><choice>
                                     <sic>Daijclan</sic>
                                     <corr resp="#NC">Dayclan</corr>
                                 </choice><!--<app><lem resp="#NC">Dayclan</lem><rdg wit="#ADIV_5Fb_1">Daijclan</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Machanhal"
-                        >Machanhal</persName></name>, <name type="divin"><persName ref="Agya"><choice>
+                            <name type="divin"><persName ref="#Machanhal"
+                        >Machanhal</persName></name>, <name type="divin"><persName ref="#Agya"><choice>
                                     <sic>Agija</sic>
                                     <corr resp="#NC">Agya</corr>
                                 </choice><!--<app><lem resp="#NC">Agya</lem><rdg wit="#ADIV_5Fb_1">Agija</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Aray"><choice>
+                            <name type="divin"><persName ref="#Aray"><choice>
                                     <sic>Araij</sic>
                                     <corr resp="#NC">Aray</corr>
                                 </choice><!--<app><lem resp="#NC">Aray</lem><rdg wit="#ADIV_5Fb_1">Araij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Looh">Looh</persName></name>, <name
-                            type="divin"><persName ref="Pothozetda">Pothozetda</persName></name>,
-                            <name type="divin"><persName ref="Zelietenero"
-                            >Zelietenero</persName></name>, <name type="divin"><persName ref="Aga"
-                                >Aga</persName></name>, <name type="divin"><persName ref="Betha"
-                                >Betha</persName></name>, <name type="divin"><persName ref="Than"
-                                >Than</persName></name>, <name type="divin"><persName ref="Opeto"
-                                >Opeto</persName></name>, <name type="divin"><persName ref="Ypatos"><choice>
+                            <name type="divin"><persName ref="#Looh">Looh</persName></name>, <name
+                            type="divin"><persName ref="#Pothozetda">Pothozetda</persName></name>,
+                            <name type="divin"><persName ref="#Zelietenero"
+                            >Zelietenero</persName></name>, <name type="divin"><persName ref="#Aga"
+                                >Aga</persName></name>, <name type="divin"><persName ref="#Betha"
+                                >Betha</persName></name>, <name type="divin"><persName ref="#Than"
+                                >Than</persName></name>, <name type="divin"><persName ref="#Opeto"
+                                >Opeto</persName></name>, <name type="divin"><persName ref="#Ypatos"><choice>
                                     <sic>Ijpatos</sic>
                                     <corr resp="#NC">Ypatos</corr>
                                 </choice><!--<app><lem resp="#NC">Ypatos</lem><rdg wit="#ADIV_5Fb_1">Ijpatos</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Sosa">Sosa</persName></name>, <name
-                            type="divin"><persName ref="Sayeth"><choice>
+                            <name type="divin"><persName ref="#Sosa">Sosa</persName></name>, <name
+                            type="divin"><persName ref="#Sayeth"><choice>
                                     <sic>Saijeth</sic>
                                     <corr resp="#NC">Sayeth</corr>
                                 </choice><!--<app><lem resp="#NC">Sayeth</lem><rdg wit="#ADIV_5Fb_1">Saijeth</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Bonsaga">Bonsaga</persName></name>,
-                            <name type="divin"><persName ref="Arasy"><choice>
+                            <name type="divin"><persName ref="#Bonsaga">Bonsaga</persName></name>,
+                            <name type="divin"><persName ref="#Arasy"><choice>
                                     <sic>Arasij</sic>
                                     <corr resp="#NC">Arasy</corr>
                                 </choice><!--<app><lem resp="#NC">Arasy</lem><rdg wit="#ADIV_5Fb_1">Arasij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Yael">Yael</persName></name>, <name
-                            type="divin"><persName ref="Lanur">Lanur</persName></name>, <name
-                            type="divin"><persName ref="Abyacs"><choice>
+                            <name type="divin"><persName ref="#Yael">Yael</persName></name>, <name
+                            type="divin"><persName ref="#Lanur">Lanur</persName></name>, <name
+                            type="divin"><persName ref="#Abyacs"><choice>
                                     <sic>Abijacs</sic>
                                     <corr resp="#NC">Abyacs</corr>
                                 </choice><!--<app><lem resp="#NC">Abyacs</lem><rdg wit="#ADIV_5Fb_1">Abijacs</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Bagoge">Bagoge</persName></name>,
-                            <name type="divin"><persName ref="Byonel"><choice>
+                            <name type="divin"><persName ref="#Bagoge">Bagoge</persName></name>,
+                            <name type="divin"><persName ref="#Byonel"><choice>
                                     <sic>Bijonel</sic>
                                     <corr resp="#NC">Byonel</corr>
                                 </choice><!--<app><lem resp="#NC">Byonel</lem><rdg wit="#ADIV_5Fb_1">Bijonel</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Ogoga">Ogoga</persName></name>, <name
-                            type="divin"><persName ref="Asæ">Asæ</persName></name>, <name
-                            type="divin"><persName ref="Faufalon">Faufalon</persName></name>, <name
-                            type="divin"><persName ref="Alon">Alon</persName></name>, <name
-                            type="divin"><persName ref="Vla">Vla</persName></name>, <name
-                            type="divin"><persName ref="Elaon">Elaon</persName></name>, <name
-                            type="divin"><persName ref="Heman">Heman</persName></name>, <name
-                            type="divin"><persName ref="Halla">Halla</persName></name>, <name
-                            type="divin"><persName ref="Euay"><choice>
+                            <name type="divin"><persName ref="#Ogoga">Ogoga</persName></name>, <name
+                            type="divin"><persName ref="#Asæ">Asæ</persName></name>, <name
+                            type="divin"><persName ref="#Faufalon">Faufalon</persName></name>, <name
+                            type="divin"><persName ref="#Alon">Alon</persName></name>, <name
+                            type="divin"><persName ref="#Vla">Vla</persName></name>, <name
+                            type="divin"><persName ref="#Elaon">Elaon</persName></name>, <name
+                            type="divin"><persName ref="#Heman">Heman</persName></name>, <name
+                            type="divin"><persName ref="#Halla">Halla</persName></name>, <name
+                            type="divin"><persName ref="#Euay"><choice>
                                     <sic>Euaij</sic>
                                     <corr resp="#NC">Euay</corr>
                                 </choice><!--<app><lem resp="#NC">Euay</lem><rdg wit="#ADIV_5Fb_1">Euaij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Lienederon"
-                            >Lienederon</persName></name>, <name type="divin"><persName ref="Thegal"
+                            <name type="divin"><persName ref="#Lienederon"
+                            >Lienederon</persName></name>, <name type="divin"><persName ref="#Thegal"
                                 >Thegal</persName></name>, <name type="divin"><persName
-                                ref="Seghahab">Seghahab</persName></name>, <name type="divin"
-                                ><persName ref="Zachyhe"><choice>
+                                ref="#Seghahab">Seghahab</persName></name>, <name type="divin"
+                                ><persName ref="#Zachyhe"><choice>
                                     <sic>Zachijhe</sic>
                                     <corr resp="#NC">Zachyhe</corr>
                                 </choice><!--<app><lem resp="#NC">Zachyhe</lem><rdg wit="#ADIV_5Fb_1">Zachijhe</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Achata">Achata</persName></name>
-                        <del>Aghata</del>, <name type="divin"><persName ref="Abratha"
+                            <name type="divin"><persName ref="#Achata">Achata</persName></name>
+                        <del>Aghata</del>, <name type="divin"><persName ref="#Abratha"
                                 >Abratha</persName></name>, <name type="divin"><persName
-                                ref="Abrateh">Abrateh</persName></name>, <name type="divin"
-                                ><persName ref="Athamay"><choice>
+                                ref="#Abrateh">Abrateh</persName></name>, <name type="divin"
+                                ><persName ref="#Athamay"><choice>
                                     <sic>Athamaij</sic>
                                     <corr resp="#NC">Athamay</corr>
                                 </choice><!--<app><lem resp="#NC">Athamay</lem><rdg wit="#ADIV_5Fb_1">Athamaij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Anahoman">Anahoman</persName></name>,
-                            <name type="divin"><persName ref="Yota"><choice>
+                            <name type="divin"><persName ref="#Anahoman">Anahoman</persName></name>,
+                            <name type="divin"><persName ref="#Yota"><choice>
                                     <sic>Ijota</sic>
                                     <corr resp="#NC">Yota</corr>
                                 </choice><!--<app><lem resp="#NC">Yota</lem><rdg wit="#ADIV_5Fb_1">Ijota</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Yot">Yot</persName></name>, <name
-                            type="divin"><persName ref="Onan">Onan</persName></name>, <name
-                            type="divin"><persName ref="Nathaman">Nathaman</persName></name>, <name
-                            type="divin"><persName ref="Ban">Ban</persName></name>, <name
-                            type="divin"><persName ref="Tagas">Tagas</persName></name>, <name
-                            type="divin"><persName ref="Gadeon">Gadeon</persName></name>, <name
-                            type="divin"><persName ref="Iehu">Iehu</persName></name>, <name
-                            type="divin"><persName ref="Ogiron">Ogiron</persName></name>, <name
-                            type="divin"><persName ref="Vzion">Vzion</persName></name>, <name
-                            type="divin"><persName ref="Orinhi">Orinhi</persName></name>, <name
-                            type="divin"><persName ref="On">On</persName></name>, <name type="divin"
-                                ><persName ref="Oleha">Oleha</persName></name>, <name type="divin"
-                                ><persName ref="Dansath">Dansath</persName></name>, <name
-                            type="divin"><persName ref="Neouul">Neouul</persName></name>, <name
-                            type="divin"><persName ref="soray"><choice>
+                            <name type="divin"><persName ref="#Yot">Yot</persName></name>, <name
+                            type="divin"><persName ref="#Onan">Onan</persName></name>, <name
+                            type="divin"><persName ref="#Nathaman">Nathaman</persName></name>, <name
+                            type="divin"><persName ref="#Ban">Ban</persName></name>, <name
+                            type="divin"><persName ref="#Tagas">Tagas</persName></name>, <name
+                            type="divin"><persName ref="#Gadeon">Gadeon</persName></name>, <name
+                            type="divin"><persName ref="#Iehu">Iehu</persName></name>, <name
+                            type="divin"><persName ref="#Ogiron">Ogiron</persName></name>, <name
+                            type="divin"><persName ref="#Vzion">Vzion</persName></name>, <name
+                            type="divin"><persName ref="#Orinhi">Orinhi</persName></name>, <name
+                            type="divin"><persName ref="#On">On</persName></name>, <name type="divin"
+                                ><persName ref="#Oleha">Oleha</persName></name>, <name type="divin"
+                                ><persName ref="#Dansath">Dansath</persName></name>, <name
+                            type="divin"><persName ref="#Neouul">Neouul</persName></name>, <name
+                            type="divin"><persName ref="#Soray"><choice>
                                     <sic>Soraij</sic>
                                     <corr resp="#NC">Soray</corr>
                                 </choice><!--<app><lem resp="#NC">Soray</lem><rdg wit="#ADIV_5Fb_1">Soraij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="I">I</persName></name>, <name
-                            type="divin"><persName ref="Iender">Iender</persName></name>, <name
-                            type="divin"><persName ref="Onoico">Onoico</persName></name>, <name
-                            type="divin"><persName ref="Agor">Agor</persName></name>, <name
-                            type="divin"><persName ref="Sahuh">Sahuh</persName></name>, <name
-                            type="divin"><persName ref="Vam">Vam</persName></name>, <name
-                            type="divin"><persName ref="Hemon">Hemon</persName></name>, <name
-                            type="divin"><persName ref="Vam">Vam</persName></name>, <name
-                            type="divin"><persName ref="Amas">Amas</persName></name>, <name
-                            type="divin"><persName ref="Saophay"><choice>
+                            <name type="divin"><persName ref="#I">I</persName></name>, <name
+                            type="divin"><persName ref="#Iender">Iender</persName></name>, <name
+                            type="divin"><persName ref="#Onoico">Onoico</persName></name>, <name
+                            type="divin"><persName ref="#Agor">Agor</persName></name>, <name
+                            type="divin"><persName ref="#Sahuh">Sahuh</persName></name>, <name
+                            type="divin"><persName ref="#Vam">Vam</persName></name>, <name
+                            type="divin"><persName ref="#Hemon">Hemon</persName></name>, <name
+                            type="divin"><persName ref="#Vam">Vam</persName></name>, <name
+                            type="divin"><persName ref="#Amas">Amas</persName></name>, <name
+                            type="divin"><persName ref="#Saophay"><choice>
                                     <sic>Saophaij</sic>
                                     <corr resp="#NC">Saophay</corr>
                                 </choice><!--<app><lem resp="#NC">Saophay</lem><rdg wit="#ADIV_5Fb_1">Saophaij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Abgiach">Abgiach</persName></name>,
-                            <name type="divin"><persName ref="Ylen"><choice>
+                            <name type="divin"><persName ref="#Abgiach">Abgiach</persName></name>,
+                            <name type="divin"><persName ref="#Ylen"><choice>
                                     <sic>Ijlen</sic>
                                     <corr resp="#NC">Ylen</corr>
                                 </choice><!--<app><lem resp="#NC">Ylen</lem><rdg wit="#ADIV_5Fb_1">Ijlen</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Araham">Araham</persName></name>,
-                            <name type="divin"><persName ref="Eyn"><choice>
+                            <name type="divin"><persName ref="#Araham">Araham</persName></name>,
+                            <name type="divin"><persName ref="#Eyn"><choice>
                                     <sic>Eijn</sic>
                                     <corr resp="#NC">Eyn</corr>
                                 </choice><!--<app><lem resp="#NC">Eyn</lem><rdg wit="#ADIV_5Fb_1">Eijn</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Castos">Castos</persName></name>,
-                            <name type="divin"><persName ref="Rabo">Rabo</persName></name>, <name
-                            type="divin"><persName ref="Sey"><choice>
+                            <name type="divin"><persName ref="#Castos">Castos</persName></name>,
+                            <name type="divin"><persName ref="#Rabo">Rabo</persName></name>, <name
+                            type="divin"><persName ref="#Sey"><choice>
                                     <sic>Seij</sic>
                                     <corr resp="#NC">Sey</corr>
                                 </choice><!--<app><lem resp="#NC">Sey</lem><rdg wit="#ADIV_5Fb_1">Seij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Gule">Gule</persName></name>, <name
-                            type="divin"><persName ref="Hase">Hase</persName></name>, <name
-                            type="divin"><persName ref="Cassaicolo">Cassiacolo</persName></name>,
-                            <name type="divin"><persName ref="Igas">Igas</persName></name>, <name
-                            type="divin"><persName ref="Taco">Taco</persName></name>, <name
-                            type="divin"><persName ref="Orchie">Orchie</persName></name>, <name
-                            type="divin"><persName ref="Aranel">Aranel</persName></name>, <name
-                            type="divin"><persName ref="Aimix">Aimix</persName></name>, <name
-                            type="divin"><persName ref="Sarsamahehim"
-                        >Sarsamahehim</persName></name>, <name type="divin"><persName ref="Malathim"
+                            <name type="divin"><persName ref="#Gule">Gule</persName></name>, <name
+                            type="divin"><persName ref="#Hase">Hase</persName></name>, <name
+                            type="divin"><persName ref="#Cassaicolo">Cassiacolo</persName></name>,
+                            <name type="divin"><persName ref="#Igas">Igas</persName></name>, <name
+                            type="divin"><persName ref="#Taco">Taco</persName></name>, <name
+                            type="divin"><persName ref="#Orchie">Orchie</persName></name>, <name
+                            type="divin"><persName ref="#Aranel">Aranel</persName></name>, <name
+                            type="divin"><persName ref="#Aimix">Aimix</persName></name>, <name
+                            type="divin"><persName ref="#Sarsamahehim"
+                        >Sarsamahehim</persName></name>, <name type="divin"><persName ref="#Malathim"
                                 >Malathim</persName></name>, <name type="divin"><persName
-                                ref="Sabachyssim"><choice>
+                                ref="#Sabachyssim"><choice>
                                     <sic>Sabachijssim</sic>
                                     <corr resp="#NC">Sabachyssim</corr>
                                 </choice><!--<app><lem resp="#NC">Sabachyssim</lem><rdg wit="#ADIV_5Fb_1">Sabachijssim</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Osturmina"
-                        >Osturmina</persName></name>, <name type="divin"><persName ref="Hel"
-                                >Hel</persName></name>, <name type="divin"><persName ref="Sarday"><choice>
+                            <name type="divin"><persName ref="#Osturmina"
+                        >Osturmina</persName></name>, <name type="divin"><persName ref="#Hel"
+                                >Hel</persName></name>, <name type="divin"><persName ref="#Sarday"><choice>
                                     <sic>Sardaij</sic>
                                     <corr resp="#NC">Sarday</corr>
                                 </choice><!--<app><lem resp="#NC">Sarday</lem><rdg wit="#ADIV_5Fb_1">Sardaij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Panthangramaton"
+                            <name type="divin"><persName ref="#Panthangramaton"
                                 >Panthangramaton</persName></name>, <name type="divin"><persName
-                                ref="Edicos">Edicos</persName></name>, <name type="divin"><persName
-                                ref="Pachay"><choice>
+                                ref="#Edicos">Edicos</persName></name>, <name type="divin"><persName
+                                ref="#Pachay"><choice>
                                     <sic>Pachaij</sic>
                                     <corr resp="#NC">Pachay</corr>
                                 </choice><!--<app><lem resp="#NC">Pachay</lem><rdg wit="#ADIV_5Fb_1">Pachaij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Moel">Moel</persName></name>, <name
-                            type="divin"><persName ref="Medandala">Medandala</persName></name>,
-                            <name type="divin"><persName ref="Nehauch">Nehauch</persName></name>,
-                            <name type="divin"><persName ref="Soray"><choice>
+                            <name type="divin"><persName ref="#Moel">Moel</persName></name>, <name
+                            type="divin"><persName ref="#Medandala">Medandala</persName></name>,
+                            <name type="divin"><persName ref="#Nehauch">Nehauch</persName></name>,
+                            <name type="divin"><persName ref="#Soray"><choice>
                                     <sic>Soraij</sic>
                                     <corr resp="#NC">Soray</corr>
                                 </choice><!--<app><lem resp="#NC">Soray</lem><rdg wit="#ADIV_5Fb_1">Soraij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Cados">Cados</persName></name>, <name
-                            type="divin"><persName ref="Nau">Nau</persName></name>, <name
-                            type="divin"><persName ref="Anona">Anona</persName></name>, <name
-                            type="divin"><persName ref="Alabay"><choice>
+                            <name type="divin"><persName ref="#Cados">Cados</persName></name>, <name
+                            type="divin"><persName ref="#Nau">Nau</persName></name>, <name
+                            type="divin"><persName ref="#Anona">Anona</persName></name>, <name
+                            type="divin"><persName ref="#Alabay"><choice>
                                     <sic>Alabaij</sic>
                                     <corr resp="#NC">Alabay</corr>
                                 </choice><!--<app><lem resp="#NC">Alabay</lem><rdg wit="#ADIV_5Fb_1">Alabaij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Amura">Amura</persName></name>, <name
-                            type="divin"><persName ref="Araora">Araora</persName></name>, <name
-                            type="divin"><persName ref="Aranthan">ARANTHAN</persName></name>, <name
-                            type="divin"><persName ref="Homousyon"><choice>
+                            <name type="divin"><persName ref="#Amura">Amura</persName></name>, <name
+                            type="divin"><persName ref="#Araora">Araora</persName></name>, <name
+                            type="divin"><persName ref="#Aranthan">ARANTHAN</persName></name>, <name
+                            type="divin"><persName ref="#Homousyon"><choice>
                                     <sic>Homousijon</sic>
                                     <corr resp="#NC">Homousyon</corr>
                                 </choice><!--<app><lem resp="#NC">Homousyon</lem><rdg wit="#ADIV_5Fb_1">Homousijon</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Esenehye">Esenehye</persName></name>,
-                            <name type="divin"><persName ref="Achata">Achata</persName></name>,
-                            <name type="divin"><persName ref="Au">Au</persName></name>, <name
-                            type="divin"><persName ref="Ah">Ah</persName></name>, <name type="divin"
-                                ><persName ref="Iender">Iender</persName></name>, <name type="divin"
-                                ><persName ref="Cos">Cos</persName></name>, <name type="divin"
-                                ><persName ref="Zhye"><choice>
+                            <name type="divin"><persName ref="#Esenehye">Esenehye</persName></name>,
+                            <name type="divin"><persName ref="#Achata">Achata</persName></name>,
+                            <name type="divin"><persName ref="#Au">Au</persName></name>, <name
+                            type="divin"><persName ref="#Ah">Ah</persName></name>, <name type="divin"
+                                ><persName ref="#Iender">Iender</persName></name>, <name type="divin"
+                                ><persName ref="#Cos">Cos</persName></name>, <name type="divin"
+                                ><persName ref="#Zhye"><choice>
                                     <sic>Zhije</sic>
                                     <corr resp="#NC">Zhye</corr>
                                 </choice><!--<app><lem resp="#NC">Zhye</lem><rdg wit="#ADIV_5Fb_1">Zhije</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Hhasidz">Hhasidz</persName></name>,
-                            <name type="divin"><persName ref="Zadie">Zadie</persName></name>, <name
-                            type="divin"><persName ref="Seday"><choice>
+                            <name type="divin"><persName ref="#Hhasidz">Hhasidz</persName></name>,
+                            <name type="divin"><persName ref="#Zadie">Zadie</persName></name>, <name
+                            type="divin"><persName ref="#Seday"><choice>
                                     <sic>Sedaij</sic>
                                     <corr resp="#NC">Seday</corr>
                                 </choice><!--<app><lem resp="#NC">Seday</lem><rdg wit="#ADIV_5Fb_1">Sedaij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Gibor">Gibor</persName></name>, <name
-                            type="divin"><persName ref="Hhesed">Hhesed</persName></name>, <name
-                            type="divin"><persName ref="Relsidion">Relsidion</persName></name>,
-                            <name type="divin"><persName ref="Malahahh">Malahahh</persName></name>,
-                            <name type="divin"><persName ref="Ruahhton">Ruaahhton</persName></name>,
-                            <name type="divin"><persName ref="Mesahh">Mesahh</persName></name>,
-                            <name type="divin"><persName ref="Tazahh">Tazahh</persName></name>, <pb
+                            <name type="divin"><persName ref="#Gibor">Gibor</persName></name>, <name
+                            type="divin"><persName ref="#Hhesed">Hhesed</persName></name>, <name
+                            type="divin"><persName ref="#Relsidion">Relsidion</persName></name>,
+                            <name type="divin"><persName ref="#Malahahh">Malahahh</persName></name>,
+                            <name type="divin"><persName ref="#Ruahhton">Ruaahhton</persName></name>,
+                            <name type="divin"><persName ref="#Mesahh">Mesahh</persName></name>,
+                            <name type="divin"><persName ref="#Tazahh">Tazahh</persName></name>, <pb
                             n="27"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-27.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-27"/><name type="divin"
-                                ><persName ref="Nispha">Nispha</persName></name>, <name type="divin"
-                                ><persName ref="Abytso"><choice>
+                                ><persName ref="#Nispha">Nispha</persName></name>, <name type="divin"
+                                ><persName ref="#Abytso"><choice>
                                     <sic>Abtijso</sic>
                                     <corr resp="#NC">Abtyso</corr>
                                 </choice><!--<app><lem resp="#NC">Abtyso</lem><rdg wit="#ADIV_5Fb_1">Abtijso</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Abhelahab"
-                        >Abhelahab</persName></name>, <name type="divin"><persName ref="Ylen"><choice>
+                            <name type="divin"><persName ref="#Abhelahab"
+                        >Abhelahab</persName></name>, <name type="divin"><persName ref="#Ylen"><choice>
                                     <sic>Ijlen</sic>
                                     <corr resp="#NC">Ylen</corr>
                                 </choice><!--<app><lem resp="#NC">Ylen</lem><rdg wit="#ADIV_5Fb_1">Ijlen</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Eyhelnas"><choice>
+                            <name type="divin"><persName ref="#Eyhelnas"><choice>
                                     <sic>Eijhelnas</sic>
                                     <corr resp="#NC">Eyhelnas</corr>
                                 </choice><!--<app><lem resp="#NC">Eyhelnas</lem><rdg wit="#ADIV_5Fb_1">Eijhelnas</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Rasni">Rasni</persName></name>, <name
-                            type="divin"><persName ref="Fas">Fas</persName></name>, <name
-                            type="divin"><persName ref="Ary"><choice>
+                            <name type="divin"><persName ref="#Rasni">Rasni</persName></name>, <name
+                            type="divin"><persName ref="#Fas">Fas</persName></name>, <name
+                            type="divin"><persName ref="#Ary"><choice>
                                     <sic>Arij</sic>
                                     <corr resp="#NC">Ary</corr>
                                 </choice><!--<app><lem resp="#NC">Ary</lem><rdg wit="#ADIV_5Fb_1">Arij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Rirhohh">Rirhohh</persName></name>,
-                            <name type="divin"><persName ref="Heehfilo">Heehfilo</persName></name>,
-                            <name type="divin"><persName ref="Hemehey"><choice>
+                            <name type="divin"><persName ref="#Rirhohh">Rirhohh</persName></name>,
+                            <name type="divin"><persName ref="#Heehfilo">Heehfilo</persName></name>,
+                            <name type="divin"><persName ref="#Hemehey"><choice>
                                     <sic>Hemeheij</sic>
                                     <corr resp="#NC">Hemehey</corr>
                                 </choice><!--<app><lem resp="#NC">Hemehey</lem><rdg wit="#ADIV_5Fb_1">Hemeheij</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Lehohth">Lehohth</persName></name>,
-                            <name type="divin"><persName ref="Nyas"><choice>
+                            <name type="divin"><persName ref="#Lehohth">Lehohth</persName></name>,
+                            <name type="divin"><persName ref="#Nyas"><choice>
                                     <sic>Nijas</sic>
                                     <corr resp="#NC">Nyas</corr>
                                 </choice><!--<app><lem resp="#NC">Nyas</lem><rdg wit="#ADIV_5Fb_1">Nijas</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Glagla">Glagla</persName></name>,
-                            <name type="divin"><persName ref="Asato">Asato</persName></name>, <name
-                            type="divin"><persName ref="Hascheye"><choice>
+                            <name type="divin"><persName ref="#Glagla">Glagla</persName></name>,
+                            <name type="divin"><persName ref="#Asato">Asato</persName></name>, <name
+                            type="divin"><persName ref="#Hascheye"><choice>
                                     <sic>Hascheije</sic>
                                     <corr resp="#NC">Hascheye</corr>
                                 </choice><!--<app><lem resp="#NC">Hascheye</lem><rdg wit="#ADIV_5Fb_1">Hascheije</rdg></app>--></persName></name>,
-                            <name type="divin"><persName ref="Aumar">Aumar</persName></name>, <name
-                            type="divin"><persName ref="Sol">Sol</persName></name>, <name
-                            type="divin"><persName ref="Thauth">Thauth</persName></name>, <name
-                            type="divin"><persName ref="Va">Va</persName></name>, <name type="divin"
-                                ><persName ref="Benchi">Benchi</persName></name>, <name type="divin"
-                                ><persName ref="Sthason">Sthason</persName></name>, <name
-                            type="divin"><persName ref="Adonias">Adonias</persName></name>, <name
-                            type="divin"><persName ref="Adon">Adon</persName></name>, <name
-                            type="divin"><persName ref="Abiashar">Abiashar</persName></name>, <name
-                            type="divin"><persName ref="Abiagail">Abiagail</persName></name>, <name
-                            type="divin"><persName ref="Elcana">Elcana</persName></name>, <name
-                            type="divin"><persName ref="Elnathan">Elnathan</persName></name>, <name
-                            type="divin"><persName ref="Ezieniel">Ezieniel</persName></name>, <name
-                            type="divin"><persName ref="Cios">Cios</persName></name>, <name
-                            type="divin"><persName ref="Sachiel">Sachiel</persName></name>, <name
-                            type="divin"><persName ref="Sedecsias">Sedecsias</persName></name>,
-                            <name type="divin"><persName ref="Sadæl">Sadæl</persName></name>, <name
-                            type="divin"><persName ref="Ozielozias">Ozielozias</persName></name>,
+                            <name type="divin"><persName ref="#Aumar">Aumar</persName></name>, <name
+                            type="divin"><persName ref="#Sol">Sol</persName></name>, <name
+                            type="divin"><persName ref="#Thauth">Thauth</persName></name>, <name
+                            type="divin"><persName ref="#Va">Va</persName></name>, <name type="divin"
+                                ><persName ref="#Benchi">Benchi</persName></name>, <name type="divin"
+                                ><persName ref="#Sthason">Sthason</persName></name>, <name
+                            type="divin"><persName ref="#Adonias">Adonias</persName></name>, <name
+                            type="divin"><persName ref="#Adon">Adon</persName></name>, <name
+                            type="divin"><persName ref="#Abiashar">Abiashar</persName></name>, <name
+                            type="divin"><persName ref="#Abiagail">Abiagail</persName></name>, <name
+                            type="divin"><persName ref="#Elcana">Elcana</persName></name>, <name
+                            type="divin"><persName ref="#Elnathan">Elnathan</persName></name>, <name
+                            type="divin"><persName ref="#Ezieniel">Ezieniel</persName></name>, <name
+                            type="divin"><persName ref="#Cios">Cios</persName></name>, <name
+                            type="divin"><persName ref="#Sachiel">Sachiel</persName></name>, <name
+                            type="divin"><persName ref="#Sedecsias">Sedecsias</persName></name>,
+                            <name type="divin"><persName ref="#Sadæl">Sadæl</persName></name>, <name
+                            type="divin"><persName ref="#Ozielozias">Ozielozias</persName></name>,
                             <del>Ieosna Selum Somer Thari</del>
-                        <name type="divin"><persName ref="Meschias">Meschias</persName></name>,
-                            <name type="divin"><persName ref="Manahem">Manahem</persName></name>,
-                            <name type="divin"><persName ref="Tesitas">Tesitas</persName></name>,
-                            <name type="divin"><persName ref="Iohacas">Iohacas</persName></name>,
-                            <name type="divin"><persName ref="Ieosna">Ieosna</persName></name>,
-                            <name type="divin"><persName ref="Selum">Selum</persName></name>, <name
-                            type="divin"><persName ref="Somer">Somer</persName></name>, <name
-                            type="divin"><persName ref="Thari">Thari</persName></name>, <name
-                            type="divin"><persName ref="Salomich">Salomich</persName></name>, <name
-                            type="divin"><persName ref="Phanuel">Phanuel</persName></name>, <name
-                            type="divin"><persName ref="Oscheo">Oscheo</persName></name>
+                        <name type="divin"><persName ref="#Meschias">Meschias</persName></name>,
+                            <name type="divin"><persName ref="#Manahem">Manahem</persName></name>,
+                            <name type="divin"><persName ref="#Tesitas">Tesitas</persName></name>,
+                            <name type="divin"><persName ref="#Iohacas">Iohacas</persName></name>,
+                            <name type="divin"><persName ref="#Ieosna">Ieosna</persName></name>,
+                            <name type="divin"><persName ref="#Selum">Selum</persName></name>, <name
+                            type="divin"><persName ref="#Somer">Somer</persName></name>, <name
+                            type="divin"><persName ref="#Thari">Thari</persName></name>, <name
+                            type="divin"><persName ref="#Salomich">Salomich</persName></name>, <name
+                            type="divin"><persName ref="#Phanuel">Phanuel</persName></name>, <name
+                            type="divin"><persName ref="#Oscheo">Oscheo</persName></name>
                     </p>
                 </div>
                 <div n="3" type="section">
@@ -4161,7 +4167,7 @@
                                         <rdg wit="#ADIV_5Fb_1">letis</rdg>
                                     </app>--> manibus aqua rosarum cum
                         sigillo magni Dei, sigilla, candelas sancti <name type="divin"><persName
-                                ref="Hahelaon">Hahelaon</persName></name>, in pari numero, et postea
+                                ref="#Hahelaon">Hahelaon</persName></name>, in pari numero, et postea
                         ad locum suum repones sigillum et reitera per duas alias uices inuocationem,
                         et procul dubio, antequam lumen ueniat, ad figuram sigilli, nuntius
                         apparebit et quidquid uoleris obtinebis.</p>
@@ -4187,7 +4193,7 @@
                 <div n="4" type="section">
                     <p>Tunc ipse maxima cum grauitate cum artista alloquetur, et postea euocarit
                         tunc artista surget et extinguet candelas. Et cum maxima ueneratione,
-                        sanctum <name type="divin"><persName ref="Hahelaon"
+                        sanctum <name type="divin"><persName ref="#Hahelaon"
                             >Hahelaon</persName></name> reponat in loco mundissimo cum odoribus
                         illius altitudinis.</p>
                 </div>
@@ -4218,7 +4224,7 @@
                     <p>Et in omnibus altitudinibus sunt scribenda nomina et nulla alia differentia
                         est nisi color et ueste illa potest uti in omnibus operationibus, multa alia
                         mihi erant dicenda sed quoniam cognoui non esse necessaria, idcirco finem
-                        ponam <name type="divin"><persName ref="Hynothitheo">Hynothitheo<choice>
+                        ponam <name type="divin"><persName ref="#Hynothitheo">Hynothitheo<choice>
                                     <sic>Hijnothitheo</sic>
                                     <corr resp="#NC">Hynothitheo</corr>
                                 </choice><!--<app><lem resp="#NC">Hynothitheo</lem><rdg wit="#ADIV_5Fb_1">Hijnothitheo</rdg></app>--></persName></name>.
@@ -4240,16 +4246,16 @@
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-29"/>
                 <head rend="italic bold">Figura sexta</head>
                 <head rend="italic bold">Forma uestis artistæ Ex alia parte</head>
-                <p><name type="divin"><persName ref="Elizbeth">ELIZBETH</persName></name></p>
+                <p><name type="divin"><persName ref="#Elizbeth">ELIZBETH</persName></name></p>
                 <p>
-                    <name type="divin"><persName ref="Abessalom">ABESSALOM</persName></name></p>
-                <p><name type="divin"><persName ref="Auorra">AVORRA</persName></name></p>
-                <p><name type="divin"><persName ref="Adonay">ADONAY</persName></name></p>
-                <p><name type="divin"><persName ref="Emanuel">EMANVEL</persName></name></p>
-                <p><name type="divin"><persName ref="Oza">OZA</persName></name></p>
-                <p><name type="divin"><persName ref="Saphad">SAPHAD</persName></name></p>
-                <p><name type="divin"><persName ref="Elcana">ELCANA</persName></name></p>
-                <p><name type="divin"><persName ref="Elimelgh">ELIMELGH</persName></name>
+                    <name type="divin"><persName ref="#Abessalom">ABESSALOM</persName></name></p>
+                <p><name type="divin"><persName ref="#Auorra">AVORRA</persName></name></p>
+                <p><name type="divin"><persName ref="#Adonay">ADONAY</persName></name></p>
+                <p><name type="divin"><persName ref="#Emanuel">EMANVEL</persName></name></p>
+                <p><name type="divin"><persName ref="#Oza">OZA</persName></name></p>
+                <p><name type="divin"><persName ref="#Saphad">SAPHAD</persName></name></p>
+                <p><name type="divin"><persName ref="#Elcana">ELCANA</persName></name></p>
+                <p><name type="divin"><persName ref="#Elimelgh">ELIMELGH</persName></name>
                 </p>
             </div>
             <div n="fig6b" type="figure">
@@ -4300,7 +4306,7 @@
                                         <rdg wit="#ADIV_5Fb_1">olebani</rdg>
                                     </app>-->. Finita <del>sul</del>
                         suffumigatione <del>suffumigare</del> illud reponere in sanctum <name
-                            type="divin"><persName ref="Hahelaon">Hahelaon</persName></name>. </p>
+                            type="divin"><persName ref="#Hahelaon">Hahelaon</persName></name>. </p>
                 </div>
                 <div n="4" type="section">
                     <p>Et scias quod sufficit in omnibus altitudinibus hoc sigilum et etiam quod
@@ -4319,13 +4325,13 @@
             </div>
             <div n="20" type="chapitre">
                 <div n="1" type="section">
-                    <p>Oratio. O <name type="divin"><persName ref="Adonay">Adonay</persName></name>,
-                            <name type="divin"><persName ref="Saday">Saday</persName></name>, <name
-                            type="divin"><persName ref="Heloyn"><choice>
+                    <p>Oratio. O <name type="divin"><persName ref="#Adonay">Adonay</persName></name>,
+                            <name type="divin"><persName ref="#Saday">Saday</persName></name>, <name
+                            type="divin"><persName ref="#Heloyn"><choice>
                                     <sic>Heloijn</sic>
                                     <corr resp="#NC">Heloyn</corr>
                                 </choice><!--<app><lem resp="#NC">Heloyn</lem><rdg wit="#ADIV_5Fb_1">Heloijn</rdg></app>--></persName></name>,
-                        qui es <name type="divin"><persName ref="A et ω">A et ω</persName></name>,
+                        qui es <name type="divin"><persName ref="#AetΩ">A et ω</persName></name>,
                         hoc est principium et finis absque principio et fine, in quo uiuens homo
                         cognoscit, Rex <choice>
                             <sic>sum</sic>
@@ -4418,11 +4424,11 @@
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-33"/>
                 <head rend="italic bold">Figura Septima</head>
                 <head rend="italic bold">Hoc est sigillum magnum Dei</head>
-                <p><name type="divin"><persName ref="Heloen">HELOEN</persName></name></p>
-                <p><name type="divin"><persName ref="Adonay">ADONAY</persName></name></p>
-                <p><name type="divin"><persName ref="Pius">PIUS</persName></name></p>
-                <p><name type="divin"><persName ref="Anabona">ANABONA</persName></name></p>
-                <p><name type="divin"><persName ref="Aranitan">ARANITAN</persName></name></p>
+                <p><name type="divin"><persName ref="#Heloen">HELOEN</persName></name></p>
+                <p><name type="divin"><persName ref="#Adonay">ADONAY</persName></name></p>
+                <p><name type="divin"><persName ref="#Pius">PIUS</persName></name></p>
+                <p><name type="divin"><persName ref="#Anabona">ANABONA</persName></name></p>
+                <p><name type="divin"><persName ref="#Aranitan">ARANITAN</persName></name></p>
                 <p>Hæc est <choice>
                         <sic>segunda</sic>
                         <corr resp="#NC">secunda</corr>
@@ -4438,13 +4444,13 @@
                                     <lem resp="#NC">pars</lem>
                                     <rdg wit="#ADIV_5Fb_1">partis</rdg>
                                 </app>--> sigilli</p>
-                <p><name type="divin"><persName ref="Tethagrammaton"
+                <p><name type="divin"><persName ref="#Tethagrammaton"
                         >TETHAGRAMMATON</persName></name></p>
-                <p><name type="divin"><persName ref="Anabona">ANABONA</persName></name></p>
-                <p><name type="divin"><persName ref="Ihehoua">IHEHOVA</persName></name></p>
-                <p><name type="divin"><persName ref="Heloen">HELOEN</persName></name></p>
-                <p><name type="divin"><persName ref="A et ω">A ω</persName></name></p>
-                <p><name type="divin"><persName ref="Adona">ADONA</persName></name>
+                <p><name type="divin"><persName ref="#Anabona">ANABONA</persName></name></p>
+                <p><name type="divin"><persName ref="#Ihehoua">IHEHOVA</persName></name></p>
+                <p><name type="divin"><persName ref="#Heloen">HELOEN</persName></name></p>
+                <p><name type="divin"><persName ref="#AetΩ">A ω</persName></name></p>
+                <p><name type="divin"><persName ref="#Adona">ADONA</persName></name>
                 </p>
             </div>
         </body>
