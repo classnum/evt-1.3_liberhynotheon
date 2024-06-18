@@ -46,7 +46,9 @@
                 <listPerson>
                     <head>Liste des noms</head>
                     <!-- Noms divins, au sein de la liste des noms -->
-                    <person xml:id="AetΩ"><persName type="divin">A et Ω (nom divin) </persName></person>
+                    <person xml:id="AetΩ">
+                        <persName type="divin">A et Ω (nom divin) </persName>
+                    </person>
                     <person xml:id="Abamor">
                         <persName type="divin">Abamor (nom divin) </persName>
                     </person>
@@ -1382,30 +1384,22 @@
                     <titlePart type="main">Liber Hynotheon</titlePart>
                     <titlePart type="sub">Une édition numérique</titlePart>
                 </docTitle>
-
                 <lb/>
                 <lb/>
                 <lb/>
                 <lb/>
-
                 <byline>Transcription, encodage et traduction de<lb/><hi>Nicolas Corre</hi></byline>
-
                 <lb/>
                 <lb/>
-
                 <byline>dans le cadre de son mémoire de master 2</byline>
                 <byline>sous la direction de <hi>Valérie Fauvinet-Ranson</hi></byline>
-
                 <lb/>
                 <lb/>
-
                 <byline>et avec les conseils d’Aurélien Berra</byline>
                 <byline>pour la conception de l’édition numérique</byline>
-
                 <lb/>
                 <lb/>
                 <lb/>
-
                 <docImprint>
                     <publisher>Université Paris-Nanterre</publisher>
                     <lb/>
@@ -1521,13 +1515,11 @@
                                 éd. de Donald Struan ROBERTSON &amp; Paul VALLETTE, Paris, les
                                 Belles Lettres, 2023 (1940).</p>
                         </div>
-
                         <div>
                             <p rend="bold">Aristote</p>
                             <p>ARISTOTE, <emph rend="italic">Physique</emph>, introduction et notes
                                 par Lambros COULOUBARITSIS, Paris, Vrin, 1999.</p>
                         </div>
-
                         <div>
                             <p rend="bold">Cassien, Jean</p>
                             <p>JEAN CASSIEN, <emph rend="italic">De incarnatione Christi. Contra
@@ -1543,36 +1535,30 @@
                             <p>JEAN CASSIEN, <emph rend="italic">Conférences</emph>. Tome I
                                 (I-VIII), Eugène PICHERY (éd.), Paris, Cerf, 2008.</p>
                         </div>
-
                         <div>
                             <p rend="bold">Constitutum Constantini</p>
                             <p>FUHRMANN Horst (éd.), <emph rend="italic">Das Constitutum
                                     Constantini, MGH, Fontes juris, 10</emph>, Hannover, Hahnsche
                                 Buchhandlung, 1968.</p>
                         </div>
-
-
                         <div>
                             <p rend="bold">Dioscoride</p>
                             <p>DIOSCORIDE, <emph rend="italic">Pedanii Dioscuridis Anazarbei De
                                     materia medica libri quinque. Vol. I, quo continentur libri I et
                                     II</emph>, Max WELLMANN (éd.), Berlin, Weidmann, 1907.</p>
                         </div>
-
                         <div>
                             <p rend="bold">Hilaire de Poitiers</p>
                             <p>HILAIRE DE POITIERS, <emph rend="italic">Lettre sur les
                                     synodes</emph>, Michael DURST &amp; André ROCHER (éds.), Paris,
                                 Cerf, 2021.</p>
                         </div>
-
                         <div>
                             <p rend="bold">Marius Victorinus</p>
                             <p>MARIUS VICTORINUS, <emph rend="italic">Ad Justinum Manichaeum</emph>,
                                 éd. Jean-Paul MIGNE, Patrologia Latina, T. VIII, Paris, excudebat
                                 Migne, 1844, col. 999-1010.</p>
                         </div>
-
                         <div>
                             <p rend="bold">Menghi, Giralomo</p>
                             <p>GIRALOMO MENGHI, <emph rend="italic">Fustis daemonum, adiurationes
@@ -1595,8 +1581,6 @@
                                     Renaissance Italy</emph>. Trad. et commentaire de Gaetano PAXLA,
                                 York Beach, Samuel Weiser, 2002.</p>
                         </div>
-
-
                         <div>
                             <p rend="bold">Picatrix</p>
                             <p><emph rend="italic">Picatrix. The Latin Version of the « Ghayat
@@ -1609,7 +1593,6 @@
                                 FAUQUIER &amp; Brigitte PEREZ-JEAN (éds.), Turnhout, Brepols,
                                 2003.</p>
                         </div>
-
                         <div>
                             <p rend="bold">Pline l’Ancien</p>
                             <p>PLINE L’ANCIEN, <emph rend="italic">Histoire naturelle, Livre
@@ -1620,14 +1603,12 @@
                             <p>PLINE L’ANCIEN, <emph rend="italic">Histoire naturelle</emph>, Livre
                                 XII, Alfred ERNOUT (éd.), Paris, Les Belles Lettres, 1949.</p>
                         </div>
-
                         <div>
                             <p rend="bold">Thomas d’Aquin</p>
                             <p>THOMAS D’AQUIN, <emph rend="italic">Summa theologiae</emph>, vol. 3,
                                 Herbert MC CABE (éd.), Cambridge, Cambridge University Press,
                                 2010.</p>
                         </div>
-
                         <div>
                             <p rend="bold">Vulgate</p>
                             <p><emph rend="italic">Biblia sacra iuxta uulgatam Clementinam</emph>,
@@ -1768,10 +1749,8 @@
                         artistæ et de multis adnotationibus ad hanc artem pertinentibus.</p>
                 </div>
                 <div n="2" type="section">
-                    <!-- Exemple de sous-titre en italique et gras -->
                     <head rend="italic bold">Prima altitudo orientis</head>
-                    <p><!--Prima altitudo orientis. -->Altitudo
-                        <!-- Exemple de mot en italique -->prima uocatur <name type="divin"
+                    <p><!--Prima altitudo orientis. -->Altitudo prima uocatur <name type="divin"
                                 ><persName ref="#Cynos"><choice>
                                     <sic>Cijnos</sic>
                                     <corr resp="#NC">Cynos</corr>
@@ -2163,9 +2142,12 @@
                     <p>Et est sciendum quod omnes hæ altitudines habent uirtutem suam die solis, et
                         eius hora, id est in prima hora die solis usque ad meridiem et quando ab
                         artista fiunt, debet esse tempus clarum, et serenum non nubilosum luna
-                        crescente</p></div></div> 
-                        
-                        <div><head rend="italic bold">Finis primi tractatus</head></div>
+                        crescente</p>
+                </div>
+            </div>
+            <div>
+                <head rend="italic bold">Finis primi tractatus</head>
+            </div>
             <div n="2" type="chapitre">
                 <div n="1" type="section">
                     <p>Tractatus secundus de altitudinibus occidentalibus, meridionalibus
@@ -2541,7 +2523,7 @@
                                         <lem resp="#NC">Onchy</lem>
                                         <rdg wit="#ADIV_5Fb_1">Onchij</rdg>
                                     </app>--></persName></name>,
-                            <name type="divin"><persName ref="#Hæhuel">Hæhuel</persName></name>, 
+                            <name type="divin"><persName ref="#Hæhuel">Hæhuel</persName></name>,
                             <name type="divin"><persName ref="#Pyleth"><choice>
                                     <sic>Pijleth</sic>
                                     <corr resp="#NC">Pyleth</corr>
@@ -2571,14 +2553,13 @@
                         </choice><!--<app>
                                     <lem resp="#NC">altitudinibus</lem>
                                     <rdg wit="#ADIV_5Fb_1">altitunibus</rdg>
-                                </app>--> septentrionalibus et sunt tres</head>
-                            <pb n="8"
-                            facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-8.jpg"
-                            xml:id="liber_hynotheon_ms_adiv_5fb1_page-8"/>
-                            <head rend="italic bold">Prima altitudo</head> 
-                            <p>Hæc
-                        uocatur <name type="divin"><persName ref="#Hahanahor"
-                            >Hahanahor</persName></name> et principes qui morantur in ea habent
+                                </app>--> septentrionalibus et sunt
+                        tres</head>
+                    <pb n="8" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-8.jpg"
+                        xml:id="liber_hynotheon_ms_adiv_5fb1_page-8"/>
+                    <head rend="italic bold">Prima altitudo</head>
+                    <p>Hæc uocatur <name type="divin"><persName ref="#Hahanahor"
+                                >Hahanahor</persName></name> et principes qui morantur in ea habent
                         uirtutem et potentiam super fortunam omnis maris et faciunt pluere et <choice>
                             <sic>grandirari</sic>
                             <corr resp="#NC">grandirare</corr>
@@ -2665,8 +2646,8 @@
                                 ref="#Zharahol">Zharahol</persName></name>, <name type="divin"
                                 ><persName ref="#Raphahasel">Raphahasel</persName></name>, <name
                             type="divin"><persName ref="#Zechriahauel"
-                        >Zechriahauel</persName></name>, <name type="divin"><persName ref="#Naniel"
-                                >Naniel</persName></name>.</p>
+                            >Zechriahauel</persName></name>, <name type="divin"><persName
+                                ref="#Naniel">Naniel</persName></name>.</p>
                 </div>
                 <div n="4" type="section">
                     <p>Et est sciendum quod omnes hæ altitudines habent uirtutem et <pb n="9"
@@ -2729,9 +2710,10 @@
                             <name type="divin"><persName ref="#Helyon"><choice>
                                     <sic>Helijon</sic>
                                     <corr resp="#NC">Helijon</corr>
-                                </choice><!--<app><lem resp="#NC">Helyon</lem><rdg wit="#ADIV_5Fb_1">Helijon</rdg></app>--> </persName></name>,
-                            <name type="divin"><persName ref="Pius">Pius</persName></name>. In
-                        secundo, <name type="divin"><persName ref="#Hhælym"><choice>
+                                </choice><!--<app><lem resp="#NC">Helyon</lem><rdg wit="#ADIV_5Fb_1">Helijon</rdg></app>-->
+                            </persName></name>, <name type="divin"><persName ref="Pius"
+                                >Pius</persName></name>. In secundo, <name type="divin"><persName
+                                ref="#Hhælym"><choice>
                                     <sic>Hhælijm</sic>
                                     <corr resp="#NC">Hhælym</corr>
                                 </choice><!--<app>
@@ -2743,8 +2725,9 @@
                                     <corr resp="#NC">Steloy</corr>
                                 </choice><!--<app>
                                             <lem resp="#NC">Steloy</lem><rdg wit="#ADIV_5Fb_1">Steloij</rdg>
-                                        </app>--> </persName></name><del>Stheloij</del>,
-                            <name type="divin"><persName ref="#Stely"><choice>
+                                        </app>-->
+                            </persName></name><del>Stheloij</del>, <name type="divin"><persName
+                                ref="#Stely"><choice>
                                     <sic>Stelij</sic>
                                     <corr resp="#NC">Stely</corr>
                                 </choice><!--<app>
@@ -2978,13 +2961,13 @@
                                         <lem resp="#NC">septentrionalis</lem>
                                         <rdg wit="#ADIV_5Fb_1">septemtrionalis</rdg>
                                     </app>-->. Prima, primum sanctum <name
-                            type="divin"><persName ref="#Stahelaon">Stahelaon</persName></name> primæ
-                        altitudinis et etiam candelæ de cera nigra. Secunda, secundum sanctum <name
                             type="divin"><persName ref="#Stahelaon">Stahelaon</persName></name>
-                        secundæ altitudinis et etiam candelæ de cerea coloris sanguinei. Tertia,
-                        tertium sanctum <name type="divin"><persName ref="#Stahelaon"
-                                >Stahelaon</persName></name> tertiæ altitudinis et etiam candelæ
-                        nigri coloris sed clari.</p>
+                        primæ altitudinis et etiam candelæ de cera nigra. Secunda, secundum sanctum
+                            <name type="divin"><persName ref="#Stahelaon"
+                            >Stahelaon</persName></name> secundæ altitudinis et etiam candelæ de
+                        cerea coloris sanguinei. Tertia, tertium sanctum <name type="divin"
+                                ><persName ref="#Stahelaon">Stahelaon</persName></name> tertiæ
+                        altitudinis et etiam candelæ nigri coloris sed clari.</p>
                     <pb n="12" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-12.jpg"
                         xml:id="liber_hynotheon_ms_adiv_5fb1_page-12"/>
 
@@ -3000,9 +2983,10 @@
                 <p><name type="divin"><persName ref="#Thetagrammaton"
                         >THETAGRAMMATON</persName></name></p>
                 <p><name type="divin"><persName ref="hel">HEL</persName></name></p>
-                <p>1. <name type="divin"><persName ref="#Hynoytheon">Hynoytheon</persName></name></p>
+                <p>1. <name type="divin"><persName ref="#Hynoytheon"
+                    >Hynoytheon</persName></name></p>
                 <p>2. <name type="divin"><persName ref="#Pthiaeumaton"
-                    >Pthiaeumaton</persName></name></p>
+                        >Pthiaeumaton</persName></name></p>
                 <p>3. <name type="divin"><persName ref="#Anbona">Anbona</persName></name></p>
                 <p>4. <name type="divin"><persName ref="#Yhehoua">Yhehoua</persName></name></p>
 
@@ -3015,9 +2999,10 @@
                 <p><name type="divin"><persName ref="#Thethagrammaton"
                         >THETHAGRAMMATON</persName></name></p>
                 <p><name type="divin"><persName ref="#Hel">HEL</persName></name></p>
-                <p>1. <name type="divin"><persName ref="#Hynoytheon">Hynoytheon</persName></name></p>
+                <p>1. <name type="divin"><persName ref="#Hynoytheon"
+                    >Hynoytheon</persName></name></p>
                 <p>2. <name type="divin"><persName ref="#Ptihaeumaton"
-                    >Ptihaeumaton</persName></name></p>
+                        >Ptihaeumaton</persName></name></p>
                 <p>3. <name type="divin"><persName ref="#Anabona">Anabona</persName></name></p>
                 <p>4. <name type="divin"><persName ref="#Ihehoua">Ihehoua</persName></name>
                 </p>
@@ -3554,11 +3539,11 @@
             <div n="14" type="chapitre">
                 <div n="1" type="section">
                     <p>Nota. Sciendum tamen est quod preparatio illa seu oratio quæ incipit « Deus
-                            <persName ref="#Abraham">Abraham</persName>, Deus <persName ref="#Israël"
-                            >Israel</persName> » &amp; est dicenda ante primam horam illius planetæ,
-                        quæ <del>qua</del> operatur altitudo. Etiam est sciendum quod artista, dum
-                        scribit sigillum altitudinis et caractera principum debet etiam genuflexus
-                        permanere.</p>
+                            <persName ref="#Abraham">Abraham</persName>, Deus <persName
+                            ref="#Israël">Israel</persName> » &amp; est dicenda ante primam horam
+                        illius planetæ, quæ <del>qua</del> operatur altitudo. Etiam est sciendum
+                        quod artista, dum scribit sigillum altitudinis et caractera principum debet
+                        etiam genuflexus permanere.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Hæc est inuocatio seu coniuratio principum altitudinis et est dicenda ab
@@ -3705,17 +3690,17 @@
                             type="divin"><persName ref="#Techtron">Techtron</persName></name>, <name
                             type="divin"><persName ref="#Techtron">Techtron</persName></name>, <name
                             type="divin"><persName ref="#Alausim">Alausim</persName></name>, <name
-                            type="divin"><persName ref="#Chalbatl"
-                            >Chalbatl</persName></name>, <del>Ieue</del>
+                            type="divin"><persName ref="#Chalbatl">Chalbatl</persName></name>,
+                            <del>Ieue</del>
                         <name type="divin"><persName ref="#Iobel">Iobel</persName></name>, <name
                             type="divin"><persName ref="#Onio">Onio</persName></name>, <name
                             type="divin"><persName ref="#Vna">Vna</persName></name>, <name
                             type="divin"><persName ref="#Saluator">Saluator</persName></name>, <name
-                            type="divin"><persName ref="#AetΩ">A et Ω</persName></name> ego sum qui sum, <name type="divin"><persName
-                                ref="#Aehec">Aehec</persName></name>, <name type="divin"><persName
-                                ref="#Sehoua">Sehoua</persName></name>, <name type="divin"><persName
-                                ref="#Anabona">Anabona</persName></name>, <name type="divin"
-                                ><persName ref="#Ysaron"><choice>
+                            type="divin"><persName ref="#AetΩ">A et Ω</persName></name> ego sum qui
+                        sum, <name type="divin"><persName ref="#Aehec">Aehec</persName></name>,
+                            <name type="divin"><persName ref="#Sehoua">Sehoua</persName></name>,
+                            <name type="divin"><persName ref="#Anabona">Anabona</persName></name>,
+                            <name type="divin"><persName ref="#Ysaron"><choice>
                                     <sic>Ijsaron</sic>
                                     <corr resp="#NC">Ysaron</corr>
                                 </choice><!--<app><lem resp="#NC">Ysaron</lem>
@@ -3815,7 +3800,7 @@
                                     <corr resp="#NC">Dayclan</corr>
                                 </choice><!--<app><lem resp="#NC">Dayclan</lem><rdg wit="#ADIV_5Fb_1">Daijclan</rdg></app>--></persName></name>,
                             <name type="divin"><persName ref="#Machanhal"
-                        >Machanhal</persName></name>, <name type="divin"><persName ref="#Agya"><choice>
+                            >Machanhal</persName></name>, <name type="divin"><persName ref="#Agya"><choice>
                                     <sic>Agija</sic>
                                     <corr resp="#NC">Agya</corr>
                                 </choice><!--<app><lem resp="#NC">Agya</lem><rdg wit="#ADIV_5Fb_1">Agija</rdg></app>--></persName></name>,
@@ -3868,8 +3853,8 @@
                                     <corr resp="#NC">Euay</corr>
                                 </choice><!--<app><lem resp="#NC">Euay</lem><rdg wit="#ADIV_5Fb_1">Euaij</rdg></app>--></persName></name>,
                             <name type="divin"><persName ref="#Lienederon"
-                            >Lienederon</persName></name>, <name type="divin"><persName ref="#Thegal"
-                                >Thegal</persName></name>, <name type="divin"><persName
+                            >Lienederon</persName></name>, <name type="divin"><persName
+                                ref="#Thegal">Thegal</persName></name>, <name type="divin"><persName
                                 ref="#Seghahab">Seghahab</persName></name>, <name type="divin"
                                 ><persName ref="#Zachyhe"><choice>
                                     <sic>Zachijhe</sic>
@@ -3898,9 +3883,9 @@
                             type="divin"><persName ref="#Ogiron">Ogiron</persName></name>, <name
                             type="divin"><persName ref="#Vzion">Vzion</persName></name>, <name
                             type="divin"><persName ref="#Orinhi">Orinhi</persName></name>, <name
-                            type="divin"><persName ref="#On">On</persName></name>, <name type="divin"
-                                ><persName ref="#Oleha">Oleha</persName></name>, <name type="divin"
-                                ><persName ref="#Dansath">Dansath</persName></name>, <name
+                            type="divin"><persName ref="#On">On</persName></name>, <name
+                            type="divin"><persName ref="#Oleha">Oleha</persName></name>, <name
+                            type="divin"><persName ref="#Dansath">Dansath</persName></name>, <name
                             type="divin"><persName ref="#Neouul">Neouul</persName></name>, <name
                             type="divin"><persName ref="#Soray"><choice>
                                     <sic>Soraij</sic>
@@ -3944,14 +3929,14 @@
                             type="divin"><persName ref="#Aranel">Aranel</persName></name>, <name
                             type="divin"><persName ref="#Aimix">Aimix</persName></name>, <name
                             type="divin"><persName ref="#Sarsamahehim"
-                        >Sarsamahehim</persName></name>, <name type="divin"><persName ref="#Malathim"
-                                >Malathim</persName></name>, <name type="divin"><persName
-                                ref="#Sabachyssim"><choice>
+                            >Sarsamahehim</persName></name>, <name type="divin"><persName
+                                ref="#Malathim">Malathim</persName></name>, <name type="divin"
+                                ><persName ref="#Sabachyssim"><choice>
                                     <sic>Sabachijssim</sic>
                                     <corr resp="#NC">Sabachyssim</corr>
                                 </choice><!--<app><lem resp="#NC">Sabachyssim</lem><rdg wit="#ADIV_5Fb_1">Sabachijssim</rdg></app>--></persName></name>,
                             <name type="divin"><persName ref="#Osturmina"
-                        >Osturmina</persName></name>, <name type="divin"><persName ref="#Hel"
+                            >Osturmina</persName></name>, <name type="divin"><persName ref="#Hel"
                                 >Hel</persName></name>, <name type="divin"><persName ref="#Sarday"><choice>
                                     <sic>Sardaij</sic>
                                     <corr resp="#NC">Sarday</corr>
@@ -3987,10 +3972,10 @@
                             <name type="divin"><persName ref="#Esenehye">Esenehye</persName></name>,
                             <name type="divin"><persName ref="#Achata">Achata</persName></name>,
                             <name type="divin"><persName ref="#Au">Au</persName></name>, <name
-                            type="divin"><persName ref="#Ah">Ah</persName></name>, <name type="divin"
-                                ><persName ref="#Iender">Iender</persName></name>, <name type="divin"
-                                ><persName ref="#Cos">Cos</persName></name>, <name type="divin"
-                                ><persName ref="#Zhye"><choice>
+                            type="divin"><persName ref="#Ah">Ah</persName></name>, <name
+                            type="divin"><persName ref="#Iender">Iender</persName></name>, <name
+                            type="divin"><persName ref="#Cos">Cos</persName></name>, <name
+                            type="divin"><persName ref="#Zhye"><choice>
                                     <sic>Zhije</sic>
                                     <corr resp="#NC">Zhye</corr>
                                 </choice><!--<app><lem resp="#NC">Zhye</lem><rdg wit="#ADIV_5Fb_1">Zhije</rdg></app>--></persName></name>,
@@ -4004,19 +3989,19 @@
                             type="divin"><persName ref="#Hhesed">Hhesed</persName></name>, <name
                             type="divin"><persName ref="#Relsidion">Relsidion</persName></name>,
                             <name type="divin"><persName ref="#Malahahh">Malahahh</persName></name>,
-                            <name type="divin"><persName ref="#Ruahhton">Ruaahhton</persName></name>,
-                            <name type="divin"><persName ref="#Mesahh">Mesahh</persName></name>,
-                            <name type="divin"><persName ref="#Tazahh">Tazahh</persName></name>, <pb
-                            n="27"
+                            <name type="divin"><persName ref="#Ruahhton"
+                        >Ruaahhton</persName></name>, <name type="divin"><persName ref="#Mesahh"
+                                >Mesahh</persName></name>, <name type="divin"><persName
+                                ref="#Tazahh">Tazahh</persName></name>, <pb n="27"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-27.jpg"
                             xml:id="liber_hynotheon_ms_adiv_5fb1_page-27"/><name type="divin"
-                                ><persName ref="#Nispha">Nispha</persName></name>, <name type="divin"
-                                ><persName ref="#Abytso"><choice>
+                                ><persName ref="#Nispha">Nispha</persName></name>, <name
+                            type="divin"><persName ref="#Abytso"><choice>
                                     <sic>Abtijso</sic>
                                     <corr resp="#NC">Abtyso</corr>
                                 </choice><!--<app><lem resp="#NC">Abtyso</lem><rdg wit="#ADIV_5Fb_1">Abtijso</rdg></app>--></persName></name>,
                             <name type="divin"><persName ref="#Abhelahab"
-                        >Abhelahab</persName></name>, <name type="divin"><persName ref="#Ylen"><choice>
+                            >Abhelahab</persName></name>, <name type="divin"><persName ref="#Ylen"><choice>
                                     <sic>Ijlen</sic>
                                     <corr resp="#NC">Ylen</corr>
                                 </choice><!--<app><lem resp="#NC">Ylen</lem><rdg wit="#ADIV_5Fb_1">Ijlen</rdg></app>--></persName></name>,
@@ -4050,9 +4035,9 @@
                             <name type="divin"><persName ref="#Aumar">Aumar</persName></name>, <name
                             type="divin"><persName ref="#Sol">Sol</persName></name>, <name
                             type="divin"><persName ref="#Thauth">Thauth</persName></name>, <name
-                            type="divin"><persName ref="#Va">Va</persName></name>, <name type="divin"
-                                ><persName ref="#Benchi">Benchi</persName></name>, <name type="divin"
-                                ><persName ref="#Sthason">Sthason</persName></name>, <name
+                            type="divin"><persName ref="#Va">Va</persName></name>, <name
+                            type="divin"><persName ref="#Benchi">Benchi</persName></name>, <name
+                            type="divin"><persName ref="#Sthason">Sthason</persName></name>, <name
                             type="divin"><persName ref="#Adonias">Adonias</persName></name>, <name
                             type="divin"><persName ref="#Adon">Adon</persName></name>, <name
                             type="divin"><persName ref="#Abiashar">Abiashar</persName></name>, <name
@@ -4167,10 +4152,10 @@
                                         <rdg wit="#ADIV_5Fb_1">letis</rdg>
                                     </app>--> manibus aqua rosarum cum
                         sigillo magni Dei, sigilla, candelas sancti <name type="divin"><persName
-                                ref="#Hahelaon">Hahelaon</persName></name>, in pari numero, et postea
-                        ad locum suum repones sigillum et reitera per duas alias uices inuocationem,
-                        et procul dubio, antequam lumen ueniat, ad figuram sigilli, nuntius
-                        apparebit et quidquid uoleris obtinebis.</p>
+                                ref="#Hahelaon">Hahelaon</persName></name>, in pari numero, et
+                        postea ad locum suum repones sigillum et reitera per duas alias uices
+                        inuocationem, et procul dubio, antequam lumen ueniat, ad figuram sigilli,
+                        nuntius apparebit et quidquid uoleris obtinebis.</p>
                 </div>
                 <div n="2" type="section">
                     <p>Postquam princeps dabit artistæ nomen ignotum et petitionem cordis sui
@@ -4245,8 +4230,8 @@
                 <pb n="29" facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-29.jpg"
                     xml:id="liber_hynotheon_ms_adiv_5fb1_page-29"/>
                 <head rend="italic bold">Figura sexta</head>
-                <head rend="italic bold">Forma uestis artistæ</head> 
-                
+                <head rend="italic bold">Forma uestis artistæ</head>
+
                 <p><name type="divin"><persName ref="#Elizbeth">ELIZBETH</persName></name></p>
                 <p>
                     <name type="divin"><persName ref="#Abessalom">ABESSALOM</persName></name></p>
@@ -4254,8 +4239,10 @@
                 <p><name type="divin"><persName ref="#Adonay">ADONAY</persName></name></p>
                 <p><name type="divin"><persName ref="#Emanuel">EMANVEL</persName></name></p>
                 <p><name type="divin"><persName ref="#Oza">OZA</persName></name></p>
-                <p><name type="divin"><persName ref="#Saphad">SAPHAD</persName></name></p></div>
-                <div n="fig6a" type="figure"><head rend="italic bold">Ex alia parte</head>
+                <p><name type="divin"><persName ref="#Saphad">SAPHAD</persName></name></p>
+            </div>
+            <div n="fig6a" type="figure">
+                <head rend="italic bold">Ex alia parte</head>
                 <p><name type="divin"><persName ref="#Elcana">ELCANA</persName></name></p>
                 <p><name type="divin"><persName ref="#Elimelgh">ELIMELGH</persName></name>
                 </p>
@@ -4327,9 +4314,9 @@
             </div>
             <div n="20" type="chapitre">
                 <div n="1" type="section">
-                    <p>Oratio. O <name type="divin"><persName ref="#Adonay">Adonay</persName></name>,
-                            <name type="divin"><persName ref="#Saday">Saday</persName></name>, <name
-                            type="divin"><persName ref="#Heloyn"><choice>
+                    <p>Oratio. O <name type="divin"><persName ref="#Adonay"
+                        >Adonay</persName></name>, <name type="divin"><persName ref="#Saday"
+                                >Saday</persName></name>, <name type="divin"><persName ref="#Heloyn"><choice>
                                     <sic>Heloijn</sic>
                                     <corr resp="#NC">Heloyn</corr>
                                 </choice><!--<app><lem resp="#NC">Heloyn</lem><rdg wit="#ADIV_5Fb_1">Heloijn</rdg></app>--></persName></name>,
@@ -4430,8 +4417,10 @@
                 <p><name type="divin"><persName ref="#Adonay">ADONAY</persName></name></p>
                 <p><name type="divin"><persName ref="#Pius">PIUS</persName></name></p>
                 <p><name type="divin"><persName ref="#Anabona">ANABONA</persName></name></p>
-                <p><name type="divin"><persName ref="#Aranitan">ARANITAN</persName></name></p></div>
-                <div n="fig7" type="figure"><head rend="italic bold">Hæc est <choice>
+                <p><name type="divin"><persName ref="#Aranitan">ARANITAN</persName></name></p>
+            </div>
+            <div n="fig7" type="figure">
+                <head rend="italic bold">Hæc est <choice>
                         <sic>segunda</sic>
                         <corr resp="#NC">secunda</corr>
                     </choice><!--<app>
@@ -4462,12 +4451,14 @@
                 <div n="p1" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-1">
                     <div n="1" type="chapitre">
                         <div n="1" type="section">
-                            <p>Au nom du Seigneur Jésus Christ. Ceci est le livre <emph rend="italic">Hynothéon</emph><note
-                                    n="1" place="bottom">Ce nom « divin » est vraisemblablement
-                                    d’origine grecque et pourrait être traduit par « une seule
-                                    divinité (<emph rend="italic">Henotheon)</emph> ». Dans le manuscrit R, il se retrouve
-                                    aussi sous la forme <emph rend="italic">Hynoytheon</emph>, pour être cette fois gravé sur
-                                    l’autel, le « Saint <emph rend="italic">Hælaon</emph> ».</note> du très sage roi
+                            <p>Au nom du Seigneur Jésus Christ. Ceci est le livre <emph
+                                    rend="italic">Hynothéon</emph><note n="1" place="bottom">Ce nom
+                                    « divin » est vraisemblablement d’origine grecque et pourrait
+                                    être traduit par « une seule divinité (<emph rend="italic"
+                                        >Henotheon)</emph> ». Dans le manuscrit R, il se retrouve
+                                    aussi sous la forme <emph rend="italic">Hynoytheon</emph>, pour
+                                    être cette fois gravé sur l’autel, le « Saint <emph
+                                        rend="italic">Hælaon</emph> ».</note> du très sage roi
                                     Salomon<note n="2" place="bottom">Un grand nombre de traités de
                                     magie sont attribués depuis l’Antiquité au fils de David,
                                     considéré par la tradition judéo-chrétienne et musulmane comme
@@ -4497,38 +4488,43 @@
                                     par rapport aux autres traités connus. Traditionnellement, les
                                     altitudes sont réparties en fonction des quatre points
                                     cardinaux, avec trois anges affectés à chacune des directions.
-                                    Cette organisation serait inspirée par le passage de
-                                    l’<emph rend="italic">Apocalypse</emph>, 21, 12-13, qui évoque les portes de la Jérusalem
-                                    céleste.</note>. Dans le troisième, de la manière de faire le
-                                saint Hælaon<note n="6" place="bottom">Le Saint <emph rend="italic">Haelaon</emph> désigne dans
-                                    le texte un petit autel, facilement transportable. À la suite
-                                    d’opérations rituelles relativement complexes et de fumigations
-                                    spécifiques, il permet d’invoquer et de faire apparaître des
-                                    esprits, les « princes des altitudes ». Sa désignation varie
-                                    plusieurs fois au cours du traité, puisqu’il est aussi appelé
-                                    <emph rend="italic">Stahelaon</emph> ou <emph rend="italic">Hahelaon</emph> (V,1). À notre connaissance, cette
+                                    Cette organisation serait inspirée par le passage de l’<emph
+                                        rend="italic">Apocalypse</emph>, 21, 12-13, qui évoque les
+                                    portes de la Jérusalem céleste.</note>. Dans le troisième, de la
+                                manière de faire le saint Hælaon<note n="6" place="bottom">Le Saint
+                                        <emph rend="italic">Haelaon</emph> désigne dans le texte un
+                                    petit autel, facilement transportable. À la suite d’opérations
+                                    rituelles relativement complexes et de fumigations spécifiques,
+                                    il permet d’invoquer et de faire apparaître des esprits, les
+                                    « princes des altitudes ». Sa désignation varie plusieurs fois
+                                    au cours du traité, puisqu’il est aussi appelé <emph
+                                        rend="italic">Stahelaon</emph> ou <emph rend="italic"
+                                        >Hahelaon</emph> (V,1). À notre connaissance, cette
                                     appellation est tout à fait unique. Dans la tradition des
                                     traités de magie salomonique, l’autel est davantage désigné par
-                                    le terme d’almandal (ou apparentés : <emph rend="italic">al-Mandal, almadel,
-                                    almodal, almodellum Salomonis, sefer ha-Almadil</emph>).</note>, et de
-                                la manière de le conserver, avant et après que le maître de l’Art
-                                aura commencé son opération, et de la préparation du maître de
-                                l’Art, et de nombreuses remarques en lien avec cet Art.</p>
+                                    le terme d’almandal (ou apparentés : <emph rend="italic"
+                                        >al-Mandal, almadel, almodal, almodellum Salomonis, sefer
+                                        ha-Almadil</emph>).</note>, et de la manière de le
+                                conserver, avant et après que le maître de l’Art aura commencé son
+                                opération, et de la préparation du maître de l’Art, et de nombreuses
+                                remarques en lien avec cet Art.</p>
                         </div>
                         <div n="2" type="section">
-                            <head rend="italic bold">Première altitude orientale</head> <p>On appelle la première altitude Cynos et
-                                les princes de cette altitude sont appelés Hrauel, Gabriel,
-                                Barachiel, Libes, Heliram. Cette altitude exerce son pouvoir<note
-                                    n="7" place="bottom"> L’auteur confond ici les pouvoirs des
-                                    princes et le temps de l’<emph rend="italic">operatio</emph>, c’est-à-dire le moment où
-                                    ceux-ci doivent être invoqués, ce qui rend difficile la
-                                    compréhension de la phrase.</note> et son opération a lieu le
+                            <head rend="italic bold">Première altitude orientale</head>
+                            <p>On appelle la première altitude Cynos et les princes de cette
+                                altitude sont appelés Hrauel, Gabriel, Barachiel, Libes, Heliram.
+                                Cette altitude exerce son pouvoir<note n="7" place="bottom">
+                                    L’auteur confond ici les pouvoirs des princes et le temps de
+                                        l’<emph rend="italic">operatio</emph>, c’est-à-dire le
+                                    moment où ceux-ci doivent être invoqués, ce qui rend difficile
+                                    la compréhension de la phrase.</note> et son opération a lieu le
                                 jour du soleil et à son heure, alors que la lune est croissante dans
                                 la bonne disposition<note n="8" place="bottom">Chaque altitude est
-                                    dotée d’un nom, qui correspond, selon l’<emph rend="italic">Almandal</emph>, au nom du
-                                    prince principal de l’altitude. Les autres princes qui y
-                                    résident sont placés sous son autorité, et exercent des pouvoirs
-                                    spécifiques. L’<emph rend="italic">operatio</emph> désigne le rituel qui doit être mis en
+                                    dotée d’un nom, qui correspond, selon l’<emph rend="italic"
+                                        >Almandal</emph>, au nom du prince principal de l’altitude.
+                                    Les autres princes qui y résident sont placés sous son autorité,
+                                    et exercent des pouvoirs spécifiques. L’<emph rend="italic"
+                                        >operatio</emph> désigne le rituel qui doit être mis en
                                     œuvre afin d’invoquer ces princes, mais le calendrier de
                                     réalisation de ce rituel est particulier à chaque altitude.
                                     C’est ainsi que le jour du soleil et son heure correspondent au
@@ -4540,25 +4536,26 @@
                                 similaires.</p>
                         </div>
                         <div n="3" type="section">
-                            <head rend="italic bold">Seconde altitude</head> <p>On appelle cette altitude Corora, son opération a
-                                    lieu<note n="9" place="bottom">Le texte présente ici aussi une
-                                    rupture de construction. L’auteur précise uniquement par la
-                                    suite le moment où doit se réaliser l’opération.</note> et son
-                                pouvoir s’exerce sur l’acquisition de tous les biens passant entre
-                                les mains du prince<note n="10" place="bottom">Comme évoquée
-                                    précédemment, la construction quelque peu alambiquée de la
-                                    phrase s’explique par le fait que l’auteur confond, comme dans
-                                    d’autres traités salomoniques avant lui, l’altitude proprement
-                                    dite et le prince « principal » qui la gouverne. L’altitude
-                                    renvoie donc, en fonction des phrases ou des segments de phrase,
-                                    à la fois à un lieu, ou « plan » de la réalité, et à une entité
-                                    supérieure dotée d’un nom et de pouvoir.</note>. Elle a aussi le
-                                pouvoir de distribuer, d’enlever, de donner en fonction de ce qui
-                                lui semble bon des revenus et de l’argent<note n="11" place="bottom"
-                                    >L’auteur confond ici l’altitude proprement dite, le principal
-                                    ange à la tête de cette altitude, et l’ensemble des princes
-                                    angéliques qui y résident. Ceci permet d’expliquer certaines
-                                    erreurs de construction, et notamment le passage du singulier au
+                            <head rend="italic bold">Seconde altitude</head>
+                            <p>On appelle cette altitude Corora, son opération a lieu<note n="9"
+                                    place="bottom">Le texte présente ici aussi une rupture de
+                                    construction. L’auteur précise uniquement par la suite le moment
+                                    où doit se réaliser l’opération.</note> et son pouvoir s’exerce
+                                sur l’acquisition de tous les biens passant entre les mains du
+                                    prince<note n="10" place="bottom">Comme évoquée précédemment, la
+                                    construction quelque peu alambiquée de la phrase s’explique par
+                                    le fait que l’auteur confond, comme dans d’autres traités
+                                    salomoniques avant lui, l’altitude proprement dite et le prince
+                                    « principal » qui la gouverne. L’altitude renvoie donc, en
+                                    fonction des phrases ou des segments de phrase, à la fois à un
+                                    lieu, ou « plan » de la réalité, et à une entité supérieure
+                                    dotée d’un nom et de pouvoir.</note>. Elle a aussi le pouvoir de
+                                distribuer, d’enlever, de donner en fonction de ce qui lui semble
+                                bon des revenus et de l’argent<note n="11" place="bottom">L’auteur
+                                    confond ici l’altitude proprement dite, le principal ange à la
+                                    tête de cette altitude, et l’ensemble des princes angéliques qui
+                                    y résident. Ceci permet d’expliquer certaines erreurs de
+                                    construction, et notamment le passage du singulier au
                                     pluriel.</note>. Cette altitude a son opération le jour du
                                 soleil et à son heure, alors que la lune est croissante. Les noms
                                 des princes de cette altitude sont Pax, Alpharaym, Geongereon,
@@ -4577,11 +4574,12 @@
                 </div>
                 <div n="p2" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-2">
                     <div n="4" type="section">
-                        <head rend="italic bold">Troisième altitude</head> <p>On l’appelle Hermoy et elle exerce son pouvoir sur
-                            les amis, les frères, les proches et les voisins, et sur le mouvement de
-                            toutes les eaux, de la mer et des rivières, et sur le changement
-                            corporel de toutes choses de lieu à lieu, et sur tout ce qui bouge<note
-                                n="13" place="bottom">Le Stagirite (<emph rend="italic">Physique</emph>, III, 1) distinguait
+                        <head rend="italic bold">Troisième altitude</head>
+                        <p>On l’appelle Hermoy et elle exerce son pouvoir sur les amis, les frères,
+                            les proches et les voisins, et sur le mouvement de toutes les eaux, de
+                            la mer et des rivières, et sur le changement corporel de toutes choses
+                            de lieu à lieu, et sur tout ce qui bouge<note n="13" place="bottom">Le
+                                Stagirite (<emph rend="italic">Physique</emph>, III, 1) distinguait
                                 quatre types de mouvements : le mouvement local suivant la catégorie
                                 du « lieu », -ou mouvement dans l’espace-, l’altération selon la
                                 catégorie de la « qualité », l’accroissement selon la « quantité »,
@@ -4598,54 +4596,60 @@
                                 comme Thomas d’Aquin (1225-1275), Guillaume d’Ockham (1285-1347) ou
                                 Albert de Saxe (1316-1390). Thomas d’Aquin s’est ainsi engagé dans
                                 la discussion théologique sur les procédés du mouvement local des
-                                anges. Pour le « docteur angélique », <emph rend="italic">Summa theologiae, Quaestio</emph> 53,
-                                « <emph rend="italic">Utrum Angelus possit moueri localiter</emph> », art. 1 : <emph rend="italic">Et hoc modo
-                                Angelus, propter indigentiam nostram, localiter mouetur</emph> (« L’ange se
-                                meut sur ce mode ; à cause de notre indigence, l’ange se meut
-                                localement »). En effet, la puissance angélique n’est pas soumise au
-                                changement, mais elle consent à faire l’expérience de la corporéité,
-                                ce qui rend possibles des déplacements de toute sorte, tantôt
-                                parfaits, tantôt sur le mode corporel. Ce passage du <emph rend="italic">Liber Hynotheon</emph>
+                                anges. Pour le « docteur angélique », <emph rend="italic">Summa
+                                    theologiae, Quaestio</emph> 53, « <emph rend="italic">Utrum
+                                    Angelus possit moueri localiter</emph> », art. 1 : <emph
+                                    rend="italic">Et hoc modo Angelus, propter indigentiam nostram,
+                                    localiter mouetur</emph> (« L’ange se meut sur ce mode ; à cause
+                                de notre indigence, l’ange se meut localement »). En effet, la
+                                puissance angélique n’est pas soumise au changement, mais elle
+                                consent à faire l’expérience de la corporéité, ce qui rend possibles
+                                des déplacements de toute sorte, tantôt parfaits, tantôt sur le mode
+                                corporel. Ce passage du <emph rend="italic">Liber Hynotheon</emph>
                                 serait un lointain écho des discussions théologiques qui animèrent
                                 l’Université de Paris entre le XIIIe et le XIVe siècle.</note>. Les
                             princes de cette altitude empêchent ou permettent le mouvement local
                             selon ce qui leur plaît<note n="14" place="bottom">Les pouvoirs de cette
                                 altitude évoquent fortement ceux de la troisième altitude, décrite
-                                dans la <emph rend="italic">Cabale Divine</emph> : « De l’ordre appelée Hermon, ou Hermus, sous
-                                le signe du sagitaire à l’orient. Les princes de cet ordre
-                                s’apellent le dimanche. Ils onts pouvoir sur les amis, et les frères
-                                et l’approche des voisins, sur le mouvement de la mer et des
-                                rivières, sur le changement de lieu en lieu pour diverses choses et
-                                sur le mouvement des éléments dans la génération et corruption et
-                                sur le mouvement cæleste des cieux et des étoilles, de leur rayons
-                                et influances et sur tout ce qui est un mouvement local… Ses anges
-                                sont Gathamal, Coyenel, Primaton, Gathannay, Helem, Enthiley ». Dans
-                                la mesure où nous considérons que la <emph rend="italic">Cabale</emph> et le <emph rend="italic">Liber</emph> s’inspirent
-                                d’un modèle latin commun, nous avons adopté la traduction de <emph rend="italic">flumen</emph>
-                                par rivière, et pas fleuve, comme cela était possible.</note>. Les
-                            noms des princes de cette altitude sont Yachanay, Ziziel, Prinuemator,
+                                dans la <emph rend="italic">Cabale Divine</emph> : « De l’ordre
+                                appelée Hermon, ou Hermus, sous le signe du sagitaire à l’orient.
+                                Les princes de cet ordre s’apellent le dimanche. Ils onts pouvoir
+                                sur les amis, et les frères et l’approche des voisins, sur le
+                                mouvement de la mer et des rivières, sur le changement de lieu en
+                                lieu pour diverses choses et sur le mouvement des éléments dans la
+                                génération et corruption et sur le mouvement cæleste des cieux et
+                                des étoilles, de leur rayons et influances et sur tout ce qui est un
+                                mouvement local… Ses anges sont Gathamal, Coyenel, Primaton,
+                                Gathannay, Helem, Enthiley ». Dans la mesure où nous considérons que
+                                la <emph rend="italic">Cabale</emph> et le <emph rend="italic"
+                                    >Liber</emph> s’inspirent d’un modèle latin commun, nous avons
+                                adopté la traduction de <emph rend="italic">flumen</emph> par
+                                rivière, et pas fleuve, comme cela était possible.</note>. Les noms
+                            des princes de cette altitude sont Yachanay, Ziziel, Prinuemator,
                             Yachanay, Helem, Enthithoi.</p>
                     </div>
                     <div n="5" type="section">
-                        <head rend="italic bold">Quatrième altitude</head> <p>On l’appelle Panteon, et les princes qui y demeurent
-                            ont du pouvoir et de la puissance sur les trésors, les successions, les
-                            biens et celui d’accorder des charges, en fonction de ce qui leur semble
-                            bon. Les noms des princes de cette altitude sont Yaræth, Yran, Arneth,
-                            Zanay, Aranoy, Susceye<note n="15" place="bottom"><emph rend="italic">Cabale Divine</emph>,
-                                quatrième altitude : « De l’ordre appelée Patheon, ou Pantheon, sous
-                                le signe du teaureau, au midy, et s’appelent le jour du mardy. Ses
-                                princes onts puissances sur tous les trésors et successions, … Et
-                                entre les anges de cet ordre sont Yrath, Yarain, Armeth, Zaremy,
-                                Lux, Et, Ebriel ».</note>.</p>
+                        <head rend="italic bold">Quatrième altitude</head>
+                        <p>On l’appelle Panteon, et les princes qui y demeurent ont du pouvoir et de
+                            la puissance sur les trésors, les successions, les biens et celui
+                            d’accorder des charges, en fonction de ce qui leur semble bon. Les noms
+                            des princes de cette altitude sont Yaræth, Yran, Arneth, Zanay, Aranoy,
+                                Susceye<note n="15" place="bottom"><emph rend="italic">Cabale
+                                    Divine</emph>, quatrième altitude : « De l’ordre appelée
+                                Patheon, ou Pantheon, sous le signe du teaureau, au midy, et
+                                s’appelent le jour du mardy. Ses princes onts puissances sur tous
+                                les trésors et successions, … Et entre les anges de cet ordre sont
+                                Yrath, Yarain, Armeth, Zaremy, Lux, Et, Ebriel ».</note>.</p>
                     </div>
                     <div n="6" type="section">
-                        <head rend="italic bold">Cinquième altitude</head> <p>On l’appelle Cym, et les princes qui y demeurent ont
-                            le pouvoir, selon leur office, de faire mouvoir d’un mouvement céleste
-                            tous les êtres vivants selon leur nature, afin qu’ils procréent des
-                            descendants et qu'ils se multiplient dans la lignée de chaque espèce,
-                            tant sous la terre &lt;que sur la terre&gt;<note n="16" place="bottom"
-                                    ><emph rend="italic">Almadel</emph> [31] (éd. VÉRONÈSE 2012, p.
-                                152) : <emph rend="italic">Quinta altitudo vocatur Bym et principes
+                        <head rend="italic bold">Cinquième altitude</head>
+                        <p>On l’appelle Cym, et les princes qui y demeurent ont le pouvoir, selon
+                            leur office, de faire mouvoir d’un mouvement céleste tous les êtres
+                            vivants selon leur nature, afin qu’ils procréent des descendants et
+                            qu'ils se multiplient dans la lignée de chaque espèce, tant sous la
+                            terre &lt;que sur la terre&gt;<note n="16" place="bottom"><emph
+                                    rend="italic">Almadel</emph> [31] (éd. VÉRONÈSE 2012, p. 152) :
+                                    <emph rend="italic">Quinta altitudo vocatur Bym et principes
                                     ejus habent potestatem ex officio cum motu celi movere omnia
                                     animalia secundum naturam ad filios procreandos et ad
                                     multiplicandum sibi similem speciem tam sub terra, ut sunt
@@ -4672,22 +4676,22 @@
                                 de ‘science naturelle' », puisqu’elle figure dans les arts illicites
                                  ».</note>. Les noms des princes de cette altitude sont Abnay,
                             Cercy, Crahel, Monosim, Aurache, Hanalay<note n="18" place="bottom"
-                                ><emph rend="italic">Cabale Divine</emph>, cinquième altitude : « De l’ordre appelée Eyam, ou
-                                Lini, ou Fim, sonts sous le signe de la vierge, au midy, et
-                                s’apellent le jour du mardy, les princes de cet ordre onts pouvoir
-                                et office sur le mouvement du premier ciel, ou premier mobile, comme
-                                aussi de mouvoir tous les animeaux, selon la nature et son espèce, à
-                                la génération pour multiplier comme aussi les poissons, les oiseaux
-                                desquels ils règles le cours par les mouvements naturels, et par un
-                                don de Dieu, ils onts le pouvoir d’infuser les sciences comme la
-                                phisique, la médecine et la chimie en toutes leurs parties. Leurs
-                                noms sont Althay, Ezey, Zabel, Monoyn, Aurath, Etbouley
-                             ».</note>.</p>
+                                    ><emph rend="italic">Cabale Divine</emph>, cinquième altitude :
+                                « De l’ordre appelée Eyam, ou Lini, ou Fim, sonts sous le signe de
+                                la vierge, au midy, et s’apellent le jour du mardy, les princes de
+                                cet ordre onts pouvoir et office sur le mouvement du premier ciel,
+                                ou premier mobile, comme aussi de mouvoir tous les animeaux, selon
+                                la nature et son espèce, à la génération pour multiplier comme aussi
+                                les poissons, les oiseaux desquels ils règles le cours par les
+                                mouvements naturels, et par un don de Dieu, ils onts le pouvoir
+                                d’infuser les sciences comme la phisique, la médecine et la chimie
+                                en toutes leurs parties. Leurs noms sont Althay, Ezey, Zabel,
+                                Monoyn, Aurath, Etbouley  ».</note>.</p>
                     </div>
                     <div n="7" type="section" xml:id="p2-3-ante" next="#p2-3-post">
-                        <head rend="italic bold">Sixième altitude</head> <p>On l’appelle celle-ci Noxin, et les princes qui y
-                            demeurent exercent par leur office leur pouvoir et leur efficience sur
-                            les États</p>
+                        <head rend="italic bold">Sixième altitude</head>
+                        <p>On l’appelle celle-ci Noxin, et les princes qui y demeurent exercent par
+                            leur office leur pouvoir et leur efficience sur les États</p>
                     </div>
                 </div>
                 <div n="p3" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-3">
@@ -4703,66 +4707,69 @@
                             infuser la science aux hommes, à savoir la musique, la logique, et la
                             philosophie morale<note n="19" place="bottom">Ces ‘sciences’
                                 correspondent au <emph rend="italic">triuium</emph>, les précédentes
-                                (I, 6) à un <emph rend="italic">quadriuium</emph> adapté aux goûts de l’auteur : physique et
-                                alchimie. Ces <emph rend="italic">artes liberales</emph> font référence au contexte
-                                intellectuel de production des premières versions de l’<emph
-                                    rend="italic">Almandal</emph>. La répartition proposée n’a rien
-                                de « canonique » : la musique n’est plus considérée comme une
-                                science exacte, mais comme un « art de la parole ». Cf. RICHÉ 1999,
-                                p. 246-286.</note>. Les noms des princes de cette altitude sont
-                            Heros, Bissezeos, Onayora, Echuel, Oymali, Sytain, Ythos, Alphareth,
-                                Alay<note n="20" place="bottom"><emph rend="italic">Cabale Divine</emph> (annexe 4), sixième
-                                altitude : « De l’ordre appellée Mohim, ou Molhim, ou Hain, sonts
-                                sous le signe du capricorne, s’appelent le jour du mardy, au midy,
-                                les princes de cet ordre onts puissance sur tous les États du monde,
-                                remuant et changeant toutes les monarchies, les empires et
-                                principautée du monde, de région en région, par un mouvement et une
-                                ordination caeleste. Ils distingues les maîtres et les seigneurs
-                                d’avec les serviteurs, et les sujets sous la puissance de leurs
-                                seigneurs, ils ont le pouvoir de traitter comme ils veulent les
-                                serviteurs en maîtres, et les maîtres en serviteurs. Ils gouvernent
-                                les démonds, et les assujettisent. Ils défendent les hommes de leurs
-                                illusions, ils donnent et infusent trois sciences, la musique, la
-                                logique et la philosophie. Les princes de cet ordre sont Heros,
-                                Scistheros, Onoy, Orneth, Gareth, Alay ».</note>.</p>
+                                (I, 6) à un <emph rend="italic">quadriuium</emph> adapté aux goûts
+                                de l’auteur : physique et alchimie. Ces <emph rend="italic">artes
+                                    liberales</emph> font référence au contexte intellectuel de
+                                production des premières versions de l’<emph rend="italic"
+                                    >Almandal</emph>. La répartition proposée n’a rien de
+                                « canonique » : la musique n’est plus considérée comme une science
+                                exacte, mais comme un « art de la parole ». Cf. RICHÉ 1999, p.
+                                246-286.</note>. Les noms des princes de cette altitude sont Heros,
+                            Bissezeos, Onayora, Echuel, Oymali, Sytain, Ythos, Alphareth, Alay<note
+                                n="20" place="bottom"><emph rend="italic">Cabale Divine</emph>
+                                (annexe 4), sixième altitude : « De l’ordre appellée Mohim, ou
+                                Molhim, ou Hain, sonts sous le signe du capricorne, s’appelent le
+                                jour du mardy, au midy, les princes de cet ordre onts puissance sur
+                                tous les États du monde, remuant et changeant toutes les monarchies,
+                                les empires et principautée du monde, de région en région, par un
+                                mouvement et une ordination caeleste. Ils distingues les maîtres et
+                                les seigneurs d’avec les serviteurs, et les sujets sous la puissance
+                                de leurs seigneurs, ils ont le pouvoir de traitter comme ils veulent
+                                les serviteurs en maîtres, et les maîtres en serviteurs. Ils
+                                gouvernent les démonds, et les assujettisent. Ils défendent les
+                                hommes de leurs illusions, ils donnent et infusent trois sciences,
+                                la musique, la logique et la philosophie. Les princes de cet ordre
+                                sont Heros, Scistheros, Onoy, Orneth, Gareth, Alay ».</note>.</p>
                     </div>
                     <div n="8" type="section">
-                        <head rend="italic bold">Septième altitude</head> <p>On appelle cette altitude Creor, et les princes qui y
-                            demeurent exercent leur puissance sur les serments qui sont faits entre
-                            les créatures et Dieu, ainsi qu’entre les créatures et d’autres
-                            créatures. Ils les forcent par l’angoisse de châtiments à observer ce
-                            pacte, et ils forcent les démons à observer leurs pactes avec les
-                            hommes. À l’inverse, ils punissent les uns et les autres sur l’ordre de
-                            Dieu aussi bien dans le premier cas que dans le second. Ils exercent
-                            aussi leur puissance sur les âmes séparées<note n="21" place="bottom">s.
-                                e. du corps. Ce concept d’origine platonicienne est fréquemment
-                                employé par THOMAS D’AQUIN, <emph rend="italic">Summa
-                                    theologiae</emph>, I, 76, <emph rend="italic">ad 1m</emph> :
-                                    <emph rend="italic">anima humana est quidem separata, sed tamen
-                                    in materia</emph>. (« l’âme humaine est sans doute séparée, mais
-                                elle cependant dans la matière »).</note> ; ils les gouvernent et en
-                            disposent pour une bonne ou mauvaise fin. Ils infligent la mort ou la
-                            vie aux créatures. Grâce à leur position, ils ont la puissance d’infuser
-                            la géomancie, la théologie et la magie<note n="22" place="bottom"
-                                >L’auteur propose à nouveau une nouvelle forme de <emph rend="italic">triuium</emph> toute
-                                personnelle, dans laquelle il met sur le même plan théologie et
-                                magie.</note>. Les noms des princes de cette altitude sont Amayn,
+                        <head rend="italic bold">Septième altitude</head>
+                        <p>On appelle cette altitude Creor, et les princes qui y demeurent exercent
+                            leur puissance sur les serments qui sont faits entre les créatures et
+                            Dieu, ainsi qu’entre les créatures et d’autres créatures. Ils les
+                            forcent par l’angoisse de châtiments à observer ce pacte, et ils forcent
+                            les démons à observer leurs pactes avec les hommes. À l’inverse, ils
+                            punissent les uns et les autres sur l’ordre de Dieu aussi bien dans le
+                            premier cas que dans le second. Ils exercent aussi leur puissance sur
+                            les âmes séparées<note n="21" place="bottom">s. e. du corps. Ce concept
+                                d’origine platonicienne est fréquemment employé par THOMAS D’AQUIN,
+                                    <emph rend="italic">Summa theologiae</emph>, I, 76, <emph
+                                    rend="italic">ad 1m</emph> : <emph rend="italic">anima humana
+                                    est quidem separata, sed tamen in materia</emph>. (« l’âme
+                                humaine est sans doute séparée, mais elle cependant dans la
+                                matière »).</note> ; ils les gouvernent et en disposent pour une
+                            bonne ou mauvaise fin. Ils infligent la mort ou la vie aux créatures.
+                            Grâce à leur position, ils ont la puissance d’infuser la géomancie, la
+                            théologie et la magie<note n="22" place="bottom">L’auteur propose à
+                                nouveau une nouvelle forme de <emph rend="italic">triuium</emph>
+                                toute personnelle, dans laquelle il met sur le même plan théologie
+                                et magie.</note>. Les noms des princes de cette altitude sont Amayn,
                             Amas, Anay, Geomitio, Gebedonay, Pas, Sarama, Clyominth<note n="23"
-                                place="bottom">À comparer avec la <emph rend="italic">Cabale Divine</emph>, huitième altitude :
-                                « De l’ordre appellée Eroy, ou Bleor, sous le signe des balances, à
-                                l’occident, s’appelent le jour du jeudy. Les princes de cet ordre
-                                onts pouvoir sur les partis et conventions que les hommes fonts avec
-                                les démonds ou autres esprits, ou même que les hommes fonts entre
-                                eux. Ils les forcent sous de rigoureuses peines d’observer leur
-                                convention, et ce aux deux parties, ils leurs permettent en
-                                punissant l’un ou l’autre, ou quelques fois tous deux ensemble par
-                                le commandement de Dieu, ainsy qu’ils leurs plaits, ils ont le
-                                pouvoir sur les âmes de les diriger en bonne ou mauvaise fin, ils
-                                sont arbitres de la vie et de la mort et de toutes les créatures par
-                                un effet de leur dignitée. Ils onts le pouvoir d’infuser aux hommes
-                                la théologie, la géométrie et la méthaphisique. De cet ordre, les
-                                princes sont Amayn, Anay, Ghelomitas, Arapzaramane, Ghedobany, et
-                                Elonmith, ou Elonnith ». L’auteur de la <emph rend="italic">Cabale Divine</emph> précise que
+                                place="bottom">À comparer avec la <emph rend="italic">Cabale
+                                    Divine</emph>, huitième altitude : « De l’ordre appellée Eroy,
+                                ou Bleor, sous le signe des balances, à l’occident, s’appelent le
+                                jour du jeudy. Les princes de cet ordre onts pouvoir sur les partis
+                                et conventions que les hommes fonts avec les démonds ou autres
+                                esprits, ou même que les hommes fonts entre eux. Ils les forcent
+                                sous de rigoureuses peines d’observer leur convention, et ce aux
+                                deux parties, ils leurs permettent en punissant l’un ou l’autre, ou
+                                quelques fois tous deux ensemble par le commandement de Dieu, ainsy
+                                qu’ils leurs plaits, ils ont le pouvoir sur les âmes de les diriger
+                                en bonne ou mauvaise fin, ils sont arbitres de la vie et de la mort
+                                et de toutes les créatures par un effet de leur dignitée. Ils onts
+                                le pouvoir d’infuser aux hommes la théologie, la géométrie et la
+                                méthaphisique. De cet ordre, les princes sont Amayn, Anay,
+                                Ghelomitas, Arapzaramane, Ghedobany, et Elonmith, ou Elonnith ».
+                                L’auteur de la <emph rend="italic">Cabale Divine</emph> précise que
                                 les anges peuvent infuser aux hommes la « théologie, la géométrie et
                                 la métaphysique », des sciences enseignées de manière tout à fait
                                 autorisée à l’Université. Ceci s’inscrit dans la tradition de la
@@ -4784,27 +4791,29 @@
                                 magiques ».</note>.</p>
                     </div>
                     <div n="9" type="section">
-                        <head rend="italic bold">Huitième altitude</head> <p>On appelle cette altitude Sapheth et les princes qui y
-                            demeurent ont la puissance et l’efficience de concéder la génération
-                            pour les êtres vivants en faisant procéder à la génération des éléments
-                            par les animaux. Les princes de cette altitude grâce un ordre de Dieu
-                            emmènent les hommes de région en région, d’une course très rapide. Ils
-                            exercent leur emprise sur tout mouvement. Les noms des princes de cette
-                            altitude sont Zajar, Zabin, Zadanay, Arphel, Alphanay, Ladatin<note
-                                n="24" place="bottom">À comparer avec la <emph rend="italic">Cabale Divine</emph>, neuvième
-                                altitude : « les princes de cet ordre portent les hommes promptement
-                                à passer d’une religion en une autre, et onts leurs dominations sur
-                                toutes sortes de mouvements. Leurs noms sonts Zaaan, Zadanay, Zabin,
-                                Arphel, Alahanay, et Zadam ». L’auteur de la Cabale divine a lu dans
-                                sa source <emph rend="italic">religione</emph> (« religion »), celui
-                                du <emph rend="italic">Liber Hynotheon</emph>
+                        <head rend="italic bold">Huitième altitude</head>
+                        <p>On appelle cette altitude Sapheth et les princes qui y demeurent ont la
+                            puissance et l’efficience de concéder la génération pour les êtres
+                            vivants en faisant procéder à la génération des éléments par les
+                            animaux. Les princes de cette altitude grâce un ordre de Dieu emmènent
+                            les hommes de région en région, d’une course très rapide. Ils exercent
+                            leur emprise sur tout mouvement. Les noms des princes de cette altitude
+                            sont Zajar, Zabin, Zadanay, Arphel, Alphanay, Ladatin<note n="24"
+                                place="bottom">À comparer avec la <emph rend="italic">Cabale
+                                    Divine</emph>, neuvième altitude : « les princes de cet ordre
+                                portent les hommes promptement à passer d’une religion en une autre,
+                                et onts leurs dominations sur toutes sortes de mouvements. Leurs
+                                noms sonts Zaaan, Zadanay, Zabin, Arphel, Alahanay, et Zadam ».
+                                L’auteur de la Cabale divine a lu dans sa source <emph rend="italic"
+                                    >religione</emph> (« religion »), celui du <emph rend="italic"
+                                    >Liber Hynotheon</emph>
                                 <emph rend="italic">regione</emph> (« région »). Ceci peut
                                 s’expliquer par l’insistance mise sur la vitesse et la rapidité de
                                 l’action.</note>.</p>
                     </div>
                     <div n="10" type="section" xml:id="p3-4-ante" next="#p3-4-post">
-                        <head rend="italic bold">Neuvième altitude</head> <p>On appelle Suphor et les princes qui y demeurent ont
-                            le pouvoir</p>
+                        <head rend="italic bold">Neuvième altitude</head>
+                        <p>On appelle Suphor et les princes qui y demeurent ont le pouvoir</p>
                     </div>
                 </div>
                 <div n="p4" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-4">
@@ -4826,56 +4835,57 @@
                                 sept, et d’abord de la première.</p>
                         </div>
                         <div n="2" type="section">
-                            <head rend="italic bold">Première altitude occidentale</head> <p>On appelle cette altitude occidentale
-                                Giphor, et les princes qui y demeurent ont de la puissance sur les
-                                inimitiés et les amitiés de toutes les créatures, et sur les
-                                combats, sur les rivalités et sur les outrages, et particulièrement
-                                sur la conduite des armées et sur les armes surtout, et ils veillent
-                                à ce que rien de bien ou de mal ne soit mené à son terme sans leur
-                                commandement et leur permission. Par un don de Dieu, ils peuvent
-                                &lt;infuser aux&gt; hommes &lt;l’astrologie et la science
-                                    arithmétique&gt;<note n="25" place="bottom">Le texte latin est
-                                    elliptique, et doit être complété selon nous à partir de la
-                                    version française de la <emph rend="italic">Cabale
-                                    Divine</emph> : « D’air. 7e apparition. De l’ordre appellée
-                                    Goffort, ou Gelphor, sous le signe des gémeaux, à l’occident,
-                                    s’appelle le jour du jeudy, les princes de cet ordre onts
-                                    puissance sur les amitiez et inimitiez sur toutes les créatures,
-                                    les querelles, les batailles, les contestations, les outrages,
-                                    et particulièrement sur toutes les armées dans toutes les
-                                    parties du monde et de la terre, et rien du bien ny du mal ne
-                                    peut arriver sans leur ordination et permission, ils ont le
-                                    pouvoir par un don de Dieu, d’infuser dans l’esprit des hommes
-                                    l’astrologie et la sc(ience) arithmétique. Leurs noms sonts
-                                    Albain, Raël, Albanay, Ratau, et Carasay ». Dans la mesure où le
-                                    texte de la Cabale Divine est selon toute vraisemblance
-                                    postérieur à celui du <emph rend="italic">Liber
-                                    Hynotheon</emph>, ceci suggère qu’il existe bien une autre
-                                    version qui aurait servi de modèle commun à nos deux manuscrits.
-                                    Le texte latin du Liber évoque d’ailleurs que les princes
-                                    exercent leur puissance sur les armes <emph rend="italic"
-                                        >utique</emph> (« surtout »), alors que la <emph
-                                        rend="italic">Cabale divine</emph> parle plutôt d’un pouvoir
-                                    qui s’applique « dans toutes les parties du monde et de la terre
-                                     ». L’auteur de ce dernier livre a vraisemblablement lu la leçon
-                                        <emph rend="italic">ubique</emph> dans la source Ω, ce qui
-                                    expliquerait son choix de traduction. Nous ne pouvons cependant
-                                    avoir de certitude, aussi nous avons choisi de conserver la
-                                    variante <emph rend="italic">utique</emph>, dans la mesure où
-                                    nous éditons avant tout le manuscrit de Rennes, et nous
-                                    n’entendons pas reconstituer, pour l’instant, la source du <emph
-                                        rend="italic">Liber Hynoytheon</emph>.</note>. Les princes
-                                de cette altitude sont Melach, Bedahoih, Gylor, Vauhæl, Fumabel,
-                                Aryl.</p>
+                            <head rend="italic bold">Première altitude occidentale</head>
+                            <p>On appelle cette altitude occidentale Giphor, et les princes qui y
+                                demeurent ont de la puissance sur les inimitiés et les amitiés de
+                                toutes les créatures, et sur les combats, sur les rivalités et sur
+                                les outrages, et particulièrement sur la conduite des armées et sur
+                                les armes surtout, et ils veillent à ce que rien de bien ou de mal
+                                ne soit mené à son terme sans leur commandement et leur permission.
+                                Par un don de Dieu, ils peuvent &lt;infuser aux&gt; hommes
+                                &lt;l’astrologie et la science arithmétique&gt;<note n="25"
+                                    place="bottom">Le texte latin est elliptique, et doit être
+                                    complété selon nous à partir de la version française de la <emph
+                                        rend="italic">Cabale Divine</emph> : « D’air. 7e apparition.
+                                    De l’ordre appellée Goffort, ou Gelphor, sous le signe des
+                                    gémeaux, à l’occident, s’appelle le jour du jeudy, les princes
+                                    de cet ordre onts puissance sur les amitiez et inimitiez sur
+                                    toutes les créatures, les querelles, les batailles, les
+                                    contestations, les outrages, et particulièrement sur toutes les
+                                    armées dans toutes les parties du monde et de la terre, et rien
+                                    du bien ny du mal ne peut arriver sans leur ordination et
+                                    permission, ils ont le pouvoir par un don de Dieu, d’infuser
+                                    dans l’esprit des hommes l’astrologie et la sc(ience)
+                                    arithmétique. Leurs noms sonts Albain, Raël, Albanay, Ratau, et
+                                    Carasay ». Dans la mesure où le texte de la Cabale Divine est
+                                    selon toute vraisemblance postérieur à celui du <emph
+                                        rend="italic">Liber Hynotheon</emph>, ceci suggère qu’il
+                                    existe bien une autre version qui aurait servi de modèle commun
+                                    à nos deux manuscrits. Le texte latin du Liber évoque d’ailleurs
+                                    que les princes exercent leur puissance sur les armes <emph
+                                        rend="italic">utique</emph> (« surtout »), alors que la
+                                        <emph rend="italic">Cabale divine</emph> parle plutôt d’un
+                                    pouvoir qui s’applique « dans toutes les parties du monde et de
+                                    la terre  ». L’auteur de ce dernier livre a vraisemblablement lu
+                                    la leçon <emph rend="italic">ubique</emph> dans la source Ω, ce
+                                    qui expliquerait son choix de traduction. Nous ne pouvons
+                                    cependant avoir de certitude, aussi nous avons choisi de
+                                    conserver la variante <emph rend="italic">utique</emph>, dans la
+                                    mesure où nous éditons avant tout le manuscrit de Rennes, et
+                                    nous n’entendons pas reconstituer, pour l’instant, la source du
+                                        <emph rend="italic">Liber Hynoytheon</emph>.</note>. Les
+                                princes de cette altitude sont Melach, Bedahoih, Gylor, Vauhæl,
+                                Fumabel, Aryl.</p>
                         </div>
                         <div n="3" type="section" xml:id="p4-5-ante" next="#p4-5-post">
-                            <head rend="italic bold">Seconde altitude</head> <p>On appelle celle-ci Nayn, et les princes qui y
-                                demeurent ont de la puissance sur les ennemis et les amis, sur les
-                                hommes amoureux et les femmes amoureuses. Par leur office, ils ont
-                                la puissance et l’efficience pour faire d’elles et eux des ennemis.
-                                Ils ont la maîtrise des rixes et des tortures. Ils rendent les
-                                hommes belliqueux ou lâches, victorieux ou non. Les noms des princes
-                                de cette altitude sont</p>
+                            <head rend="italic bold">Seconde altitude</head>
+                            <p>On appelle celle-ci Nayn, et les princes qui y demeurent ont de la
+                                puissance sur les ennemis et les amis, sur les hommes amoureux et
+                                les femmes amoureuses. Par leur office, ils ont la puissance et
+                                l’efficience pour faire d’elles et eux des ennemis. Ils ont la
+                                maîtrise des rixes et des tortures. Ils rendent les hommes
+                                belliqueux ou lâches, victorieux ou non. Les noms des princes de
+                                cette altitude sont</p>
                         </div>
                     </div>
                 </div>
@@ -4884,37 +4894,41 @@
                         <p>Briel, Malamacoy, Malachim, Radasieh, Baidahath, Odmachiel.</p>
                     </div>
                     <div n="4" type="section">
-                        <head rend="italic bold">Troisième altitude</head> <p>On appelle celle-ci Lehæsor, et les princes qui y
-                            demeurent ont de la puissance et de l’efficience sur toutes les
-                            infirmités, et par leur office, ils rendent les hommes infirmes, ou non.
-                            Ils donnent le sommeil aux hommes, ou non, et font des choses
-                            similaires. Les noms des princes de cette altitude sont Selon, Belfry,
-                            Ahey, Verechiel, Pactohaget, Machdeynchi, Nobemarach.</p>
+                        <head rend="italic bold">Troisième altitude</head>
+                        <p>On appelle celle-ci Lehæsor, et les princes qui y demeurent ont de la
+                            puissance et de l’efficience sur toutes les infirmités, et par leur
+                            office, ils rendent les hommes infirmes, ou non. Ils donnent le sommeil
+                            aux hommes, ou non, et font des choses similaires. Les noms des princes
+                            de cette altitude sont Selon, Belfry, Ahey, Verechiel, Pactohaget,
+                            Machdeynchi, Nobemarach.</p>
                     </div>
                     <div n="5" type="section">
-                        <head rend="italic bold">Quatrième altitude</head> <p>On appelle celle-ci Chrimehit, et les princes qui y
-                            demeurent ont de la puissance et du pouvoir sur les eaux marines et
-                            fluviales, et ont celui de submerger ou non, et de noyer les hommes et
-                            tous les animaux, ou non. Ils rendent les marchands riches ou pauvres,
-                            et par leur office, ils donnent aux hommes la connaissance de
-                            l’efficience de toutes les plantes. Les princes de cette altitude sont
-                            Galfu, Melchiel, Clbeday, Lauyson, Ratyeh, Alyabith.</p>
+                        <head rend="italic bold">Quatrième altitude</head>
+                        <p>On appelle celle-ci Chrimehit, et les princes qui y demeurent ont de la
+                            puissance et du pouvoir sur les eaux marines et fluviales, et ont celui
+                            de submerger ou non, et de noyer les hommes et tous les animaux, ou non.
+                            Ils rendent les marchands riches ou pauvres, et par leur office, ils
+                            donnent aux hommes la connaissance de l’efficience de toutes les
+                            plantes. Les princes de cette altitude sont Galfu, Melchiel, Clbeday,
+                            Lauyson, Ratyeh, Alyabith.</p>
                     </div>
                     <div n="6" type="section">
-                        <head rend="italic bold">Cinquième altitude</head> <p>Celle-ci s’appelle Giephatin, et les princes qui y
-                            demeurent ont le pouvoir et l’efficience d’infuser l’Art aux hommes et
-                            d’éclairer leur esprit, ou non. Ils rendent les hommes sages, ou non.
-                            Par leur office, ils rendent les hommes victorieux au jeu, ou non, comme
-                            bon leur semble. Les noms des princes de cette altitude sont Osthos,
-                            Layngyron, Pessino, Fas, Han, Syachy, Zamnathor, Camyn.</p>
+                        <head rend="italic bold">Cinquième altitude</head>
+                        <p>Celle-ci s’appelle Giephatin, et les princes qui y demeurent ont le
+                            pouvoir et l’efficience d’infuser l’Art aux hommes et d’éclairer leur
+                            esprit, ou non. Ils rendent les hommes sages, ou non. Par leur office,
+                            ils rendent les hommes victorieux au jeu, ou non, comme bon leur semble.
+                            Les noms des princes de cette altitude sont Osthos, Layngyron, Pessino,
+                            Fas, Han, Syachy, Zamnathor, Camyn.</p>
                     </div>
                     <div n="7" type="section">
-                        <head rend="italic bold">Sixième altitude</head> <p>On l’appelle Agusth, et les princes qui y demeurent ont
-                            de la puissance et de l’efficience sur tous les oiseaux du ciel et les
-                            animaux de la terre et les enchanteurs ont celui de les attraper ou non,
-                            comme bon leur semble<note n="26" place="bottom">Le texte latin propose
-                                comme leçon <emph rend="italic">cauiatores</emph>, mais ce terme n’a
-                                pas de signification claire. Nous proposons de corriger ce terme en
+                        <head rend="italic bold">Sixième altitude</head>
+                        <p>On l’appelle Agusth, et les princes qui y demeurent ont de la puissance
+                            et de l’efficience sur tous les oiseaux du ciel et les animaux de la
+                            terre et les enchanteurs ont celui de les attraper ou non, comme bon
+                            leur semble<note n="26" place="bottom">Le texte latin propose comme
+                                leçon <emph rend="italic">cauiatores</emph>, mais ce terme n’a pas
+                                de signification claire. Nous proposons de corriger ce terme en
                                     <emph rend="italic">cantatores</emph> (« enchanteurs »). Il ne
                                 s’agit pas de latin classique, même si Apulée (<emph rend="italic"
                                     >Les métamorphoses ou l’Âne d’or</emph>, II, 20) l’emploie sous
@@ -4944,12 +4958,12 @@
                 </div>
                 <div n="p6" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-6">
                     <div n="8" type="section">
-                        <head rend="italic bold">Septième et ultime altitude occidentale</head> <p>On l’appelle Steher, et les
-                            princes qui y demeurent ont la puissance de dévoiler un vol, ou non, et
-                            sur les embuscades des voleurs, aussi bien sur terre que sur mer. Ils
-                            mettent en danger les hommes et les femmes, ou non, comme il leur plaît.
-                            Les noms des princes de cette altitude sont Maxuel, Arahath, Sarohoth,
-                            Maguth, Mehestrach, Dyebuzon.</p>
+                        <head rend="italic bold">Septième et ultime altitude occidentale</head>
+                        <p>On l’appelle Steher, et les princes qui y demeurent ont la puissance de
+                            dévoiler un vol, ou non, et sur les embuscades des voleurs, aussi bien
+                            sur terre que sur mer. Ils mettent en danger les hommes et les femmes,
+                            ou non, comme il leur plaît. Les noms des princes de cette altitude sont
+                            Maxuel, Arahath, Sarohoth, Maguth, Mehestrach, Dyebuzon.</p>
                     </div>
                     <div n="9" type="section">
                         <p>Il faut savoir que toutes ces altitudes exercent leur efficience le jour
@@ -5155,21 +5169,23 @@
                                         scribatur hoc nomen : Honoytheon</emph>. La phrase est un
                                     peu obscure, mais elle s’éclaire grâce au modèle figuré proposé
                                     par l’auteur du Liber : le signe en question correspond au «
-                                    sceau de Salomon (<emph rend="italic">signum Salomonis</emph>) », une étoile à six
-                                    branches. Ceci explique d’ailleurs la précision du <emph rend="italic">signum
-                                    nostrum</emph> : l’auteur du texte, comme il est précisé dans
-                                    l’incipit, est censé être Salomon, fils de David. De chaque côté
-                                    de l’autel, le maître de l’Art doit graver un de ces sceaux, et
-                                    au milieu de la table, le même sceau de Salomon, avec en son
-                                    centre, écrit le « nom divin » Hel.</note> ! Et que le saint nom
-                                de Hel soit mis au centre, comme sur le dessin, au centre le saint
-                                nom de Hel<note n="37" place="bottom">Le texte latin indique : <emph rend="italic">ut in
-                                    exemplo in medio autem ficti debet nomen sanctum Hel ut in
-                                    exemplo, in medio sanctum nomen Hel</emph>. La répétition suggère que
-                                    le scribe a recopié un modèle et n’a pas eu conscience de
-                                    reprendre inutilement deux fois le même passage. Nous l’avons
-                                    gardée dans la transcription dans la mesure où il s’agit d’un
-                                    signe important qui nous renseigne sur le mode de composition du
+                                    sceau de Salomon (<emph rend="italic">signum
+                                    Salomonis</emph>) », une étoile à six branches. Ceci explique
+                                    d’ailleurs la précision du <emph rend="italic">signum
+                                        nostrum</emph> : l’auteur du texte, comme il est précisé
+                                    dans l’incipit, est censé être Salomon, fils de David. De chaque
+                                    côté de l’autel, le maître de l’Art doit graver un de ces
+                                    sceaux, et au milieu de la table, le même sceau de Salomon, avec
+                                    en son centre, écrit le « nom divin » Hel.</note> ! Et que le
+                                saint nom de Hel soit mis au centre, comme sur le dessin, au centre
+                                le saint nom de Hel<note n="37" place="bottom">Le texte latin
+                                    indique : <emph rend="italic">ut in exemplo in medio autem ficti
+                                        debet nomen sanctum Hel ut in exemplo, in medio sanctum
+                                        nomen Hel</emph>. La répétition suggère que le scribe a
+                                    recopié un modèle et n’a pas eu conscience de reprendre
+                                    inutilement deux fois le même passage. Nous l’avons gardée dans
+                                    la transcription dans la mesure où il s’agit d’un signe
+                                    important qui nous renseigne sur le mode de composition du
                                     livre.</note>. Le coffret ne doit pas être creux. Et sur ce
                                 coffret, un autre doit être fabriqué avec la même cire, comme sur le
                                 dessin, d’une longueur d’une demi paume et d’une largeur en
@@ -5218,7 +5234,8 @@
                                 >Comme le précise le <emph rend="italic">Robert</emph> (1986), le
                                 storax (ou styrax) calamitus désigne une substance résineuse
                                 aromatique provenant de certaines espèces d’« aliboufier (styrax)».
-                                Le nom latin <emph rend="italic">styrax</emph>, du grec <emph rend="italic">sturax</emph>, désigne à la fois l’arbre et le
+                                Le nom latin <emph rend="italic">styrax</emph>, du grec <emph
+                                    rend="italic">sturax</emph>, désigne à la fois l’arbre et le
                                 baume qui en est issu.</note>, et on le couvrira d’une pièce de soie
                                 blanche<note n="40" place="bottom">La phrase semble présenter une
                                 rupture de construction.</note>. Voici les noms du sceau : Steloen,
@@ -5284,17 +5301,26 @@
 
                 <div n="p13" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-13">
                     <div n="fig1" type="figure">
-                        <head rend="italic bold">Figure 1</head> <head rend="italic bold">La manière dont doit être façonné le saint Stahelaon</head> <p><emph rend="italic">Sur le
-                            second coffret</emph> : THETAGRAMMATON</p> <p><emph rend="italic">Sur le premier coffret, au centre</emph> :
-                            HEL</p> <p><emph rend="italic">Ensuite aux angles</emph> 1 : Hynoytheon</p> <p>2 : Pthiaeumaton</p> <p>3 : Anbona</p> <p>4 :
-                            Yhehoua</p>
+                        <head rend="italic bold">Figure 1</head>
+                        <head rend="italic bold">La manière dont doit être façonné le saint
+                            Stahelaon</head>
+                        <p><emph rend="italic">Sur le second coffret</emph> : THETAGRAMMATON</p>
+                        <p><emph rend="italic">Sur le premier coffret, au centre</emph> : HEL</p>
+                        <p><emph rend="italic">Ensuite aux angles</emph> 1 : Hynoytheon</p>
+                        <p>2 : Pthiaeumaton</p>
+                        <p>3 : Anbona</p>
+                        <p>4 : Yhehoua</p>
                     </div>
                 </div>
                 <div n="p14" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-14">
                     <div n="fig2" type="figure">
-                        <head rend="italic bold">Figure 2</head> <p><emph rend="italic">Sur le second coffret</emph> : THETHAGRAMMATON</p> <p><emph rend="italic">Sur le premier
-                            coffret, au centre</emph> : HEL</p> <p><emph rend="italic">Ensuite aux angles</emph> 1 : Hynoytheon</p> <p>2:
-                            Ptihæumaton</p> <p>3 : Anabona</p> <p>4 : Ihehoua</p>
+                        <head rend="italic bold">Figure 2</head>
+                        <p><emph rend="italic">Sur le second coffret</emph> : THETHAGRAMMATON</p>
+                        <p><emph rend="italic">Sur le premier coffret, au centre</emph> : HEL</p>
+                        <p><emph rend="italic">Ensuite aux angles</emph> 1 : Hynoytheon</p>
+                        <p>2: Ptihæumaton</p>
+                        <p>3 : Anabona</p>
+                        <p>4 : Ihehoua</p>
                     </div>
                 </div>
                 <div n="p15" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-15">
@@ -5346,58 +5372,70 @@
                                     odeur vive et pénétrante, très caractéristique. Le camphre est
                                     obtenu à partir de la distillation du bois de camphrier, de la
                                     famille des Lauracées, présent en Asie orientale. Comme le fait
-                                    remarquer Le <emph rend="italic">Robert</emph> (1986), le terme est emprunté au latin
-                                    médiéval <emph rend="italic">camphora</emph> (XIIe s.), attestée depuis le IXe s. sous la
-                                    forme <emph rend="italic">cafora</emph>, altération de l’arabe <emph rend="italic">kafour</emph>, lui-même d’origine
+                                    remarquer Le <emph rend="italic">Robert</emph> (1986), le terme
+                                    est emprunté au latin médiéval <emph rend="italic"
+                                        >camphora</emph> (XIIe s.), attestée depuis le IXe s. sous
+                                    la forme <emph rend="italic">cafora</emph>, altération de
+                                    l’arabe <emph rend="italic">kafour</emph>, lui-même d’origine
                                     sanscrite, peut-être aussi emprunté au malais kapur. La graphie
                                     savante camphora souligne le souci des traducteurs de faire
                                     usage d’une « langue soignée », mais il s’agit d’un purisme
                                     déplacé, mais dans la mesure où ce mot n’a jamais existé en grec
                                     ancien. Cf. JACQUESSON 1983.</note> et de cannelle. En
                                 quatrième, la quatrième avec des odeurs de bois de santal rouge<note
-                                    n="42" place="bottom">Le manuscrit comporte la mention <emph rend="italic">sandaloni
-                                    rubroni</emph>, que nous proposons de corriger en <emph rend="italic">sandali rubri</emph>. Selon
-                                    JAUCOURT 1751, p. 627-628, le santal rouge, ou <emph rend="italic">santalum rubrum</emph> «
-                                    est un bois solide, compacte, pesant, dont les fibres sont
-                                    tantôt droites, tantôt ondées ; le bois du milieu de l’arbre,
-                                    dont on apporte de grands morceaux séparés de l’écorce &amp; de
-                                    la superficie ligneuse, est à l’extérieur d’un rouge brun, &amp;
-                                    presque noir, &amp; intérieurement d’un rouge foncé ; il a un
-                                    goût légèrement astringent &amp; acide, mais aucune odeur
-                                    manifeste ». Cependant, on trouve aussi fréquemment chez les
-                                    droguistes, des bois rouges qu’on donne pour du santal rouge, ou
-                                    « faux-santal rouge », <emph rend="italic">Pterocarpus santalinus</emph>, originaire de
-                                    l’Inde. Les copeaux de ce bois se combinent bien avec d’autres
-                                    encens à base de résine et de plantes pour produire un parfum
-                                    boisé, agréable et doux. La forme au génitif du manuscrit,
-                                    <emph rend="italic">sandaloni rubroni</emph>, est fautive, mais elle est riche
-                                    d’enseignements sur le mode de confection du <emph rend="italic">Liber</emph> : le copiste
+                                    n="42" place="bottom">Le manuscrit comporte la mention <emph
+                                        rend="italic">sandaloni rubroni</emph>, que nous proposons
+                                    de corriger en <emph rend="italic">sandali rubri</emph>. Selon
+                                    JAUCOURT 1751, p. 627-628, le santal rouge, ou <emph
+                                        rend="italic">santalum rubrum</emph> « est un bois solide,
+                                    compacte, pesant, dont les fibres sont tantôt droites, tantôt
+                                    ondées ; le bois du milieu de l’arbre, dont on apporte de grands
+                                    morceaux séparés de l’écorce &amp; de la superficie ligneuse,
+                                    est à l’extérieur d’un rouge brun, &amp; presque noir, &amp;
+                                    intérieurement d’un rouge foncé ; il a un goût légèrement
+                                    astringent &amp; acide, mais aucune odeur manifeste ».
+                                    Cependant, on trouve aussi fréquemment chez les droguistes, des
+                                    bois rouges qu’on donne pour du santal rouge, ou « faux-santal
+                                    rouge », <emph rend="italic">Pterocarpus santalinus</emph>,
+                                    originaire de l’Inde. Les copeaux de ce bois se combinent bien
+                                    avec d’autres encens à base de résine et de plantes pour
+                                    produire un parfum boisé, agréable et doux. La forme au génitif
+                                    du manuscrit, <emph rend="italic">sandaloni rubroni</emph>, est
+                                    fautive, mais elle est riche d’enseignements sur le mode de
+                                    confection du <emph rend="italic">Liber</emph> : le copiste
                                     aurait mal lu l’expression qui devait être au neutre à
-                                    l’origine, <emph rend="italic">sandalum rubrum</emph>. Le changement de cas indique aussi
-                                    que le scribe a composé son texte en ré-arrangeant à sa manière
-                                    des passages de sa source principale. Si <emph rend="italic">santalum</emph> désigne bien
-                                    le santal en latin moderne, la forme <emph rend="italic">sandalum</emph>, héritage du latin
-                                    médiéval, est correcte, et même plus juste d’un point de vue
-                                    étymologique. Selon Émile Littré, ce nom est une transcription
-                                    du portugais <emph rend="italic">sandalo</emph>, emprunté à l’arabe <emph rend="italic">sandal</emph>, lui-même formé
-                                    à partir du sanscrit <emph rend="italic">tchandana</emph>.</note> et de safran. En
-                                cinquième, la cinquième avec des odeurs de clous de girofle<note
-                                    n="43" place="bottom">PLINE L’ANCIEN, <emph rend="italic"
-                                        >Histoire naturelle</emph>, XII, 30, nomme le clou de
-                                    girofle <emph rend="italic">caryophyllon</emph>, visiblement un emprunt au grec
-                                    καρυόφυλλον. En bas latin, ou latin tardif, ce terme évolue en
-                                    <emph rend="italic">gariofilum</emph>, d’où vient l’italien <emph rend="italic">garofano</emph>, « giroflier » ou «
-                                    œillet », et en français, « girofle ». Le <emph rend="italic">garhiofilatum</emph> désigne
-                                    depuis le Moyen-Âge un vin blanc doux parfumé aux épices, et en
-                                    particulier aux clous de girofle. La variante adoptée par
-                                    l’auteur, <emph rend="italic">garofilorum</emph>, déclinaison de <emph rend="italic">garofilum</emph>, peut sembler
-                                    fautive, mais elle se retrouve notamment sous la plume du fils
-                                    de Dante, Pietro ALIGHIERI, (NANNUCCI, VERNON, &amp; PONTA 1845,
-                                    p. 253): <emph rend="italic">qui assare faciebat pullos de prunis
-                                    garofilorum</emph>.</note>. En sixième, la sixième avec des odeurs de
-                                storax calamitus, et de cannelle. En septième, la septième avec des
-                                odeurs d’oliban et de safran. En huitième, la huitième avec des
-                                odeurs de santal et de myrrhe. En neuvième, la neuvième avec des
+                                    l’origine, <emph rend="italic">sandalum rubrum</emph>. Le
+                                    changement de cas indique aussi que le scribe a composé son
+                                    texte en ré-arrangeant à sa manière des passages de sa source
+                                    principale. Si <emph rend="italic">santalum</emph> désigne bien
+                                    le santal en latin moderne, la forme <emph rend="italic"
+                                        >sandalum</emph>, héritage du latin médiéval, est correcte,
+                                    et même plus juste d’un point de vue étymologique. Selon Émile
+                                    Littré, ce nom est une transcription du portugais <emph
+                                        rend="italic">sandalo</emph>, emprunté à l’arabe <emph
+                                        rend="italic">sandal</emph>, lui-même formé à partir du
+                                    sanscrit <emph rend="italic">tchandana</emph>.</note> et de
+                                safran. En cinquième, la cinquième avec des odeurs de clous de
+                                    girofle<note n="43" place="bottom">PLINE L’ANCIEN, <emph
+                                        rend="italic">Histoire naturelle</emph>, XII, 30, nomme le
+                                    clou de girofle <emph rend="italic">caryophyllon</emph>,
+                                    visiblement un emprunt au grec καρυόφυλλον. En bas latin, ou
+                                    latin tardif, ce terme évolue en <emph rend="italic"
+                                        >gariofilum</emph>, d’où vient l’italien <emph rend="italic"
+                                        >garofano</emph>, « giroflier » ou « œillet », et en
+                                    français, « girofle ». Le <emph rend="italic"
+                                        >garhiofilatum</emph> désigne depuis le Moyen-Âge un vin
+                                    blanc doux parfumé aux épices, et en particulier aux clous de
+                                    girofle. La variante adoptée par l’auteur, <emph rend="italic"
+                                        >garofilorum</emph>, déclinaison de <emph rend="italic"
+                                        >garofilum</emph>, peut sembler fautive, mais elle se
+                                    retrouve notamment sous la plume du fils de Dante, Pietro
+                                    ALIGHIERI, (NANNUCCI, VERNON, &amp; PONTA 1845, p. 253): <emph
+                                        rend="italic">qui assare faciebat pullos de prunis
+                                        garofilorum</emph>.</note>. En sixième, la sixième avec des
+                                odeurs de storax calamitus, et de cannelle. En septième, la septième
+                                avec des odeurs d’oliban et de safran. En huitième, la huitième avec
+                                des odeurs de santal et de myrrhe. En neuvième, la neuvième avec des
                                 odeurs de bois d’aloès et de benjoin<note n="44" place="bottom">Le
                                     benjoin est une résine qui provient de diverses plantes du genre
                                     styrax, et plus particulièrement du styrax dit benzoin. Selon sa
@@ -5422,15 +5460,17 @@
                             cinquième avec des odeurs de storax et de safran ; la sixième avec des
                             odeurs de camphre et de benjoin ; la septième avec des odeurs de racines
                             d’herbe à fie et d’angélique<note n="45" place="bottom">Le texte porte
-                                comme mention <emph rend="italic">phie</emph> et <emph rend="italic">anglicæ</emph>. D’une part, on retrouve dans la
-                                tradition populaire française des appellations comme l’ « herbe à fi
-                                (ou fie) », ou bien encore « l’herbe aux fis (ou au fic)», qui
-                                désignent diversement la ficaire, voire plus sûrement selon nous
-                                l’hellébore fétide. D’autre part, il nous semble que l’auteur a sans
-                                doute voulu parler d’<emph rend="italic">angelica</emph>, et non d’<emph rend="italic">anglica</emph>. La mention de l’ «
-                                herbe aux anges », de son nom scientifique <emph rend="italic">angelica archangelica</emph>,
-                                serait tout à fait justifiée dans un traité consacré aux «
-                                puissances angéliques ».</note>.</p>
+                                comme mention <emph rend="italic">phie</emph> et <emph rend="italic"
+                                    >anglicæ</emph>. D’une part, on retrouve dans la tradition
+                                populaire française des appellations comme l’ « herbe à fi (ou
+                                fie) », ou bien encore « l’herbe aux fis (ou au fic)», qui désignent
+                                diversement la ficaire, voire plus sûrement selon nous l’hellébore
+                                fétide. D’autre part, il nous semble que l’auteur a sans doute voulu
+                                parler d’<emph rend="italic">angelica</emph>, et non d’<emph
+                                    rend="italic">anglica</emph>. La mention de l’ « herbe aux
+                                anges », de son nom scientifique <emph rend="italic">angelica
+                                    archangelica</emph>, serait tout à fait justifiée dans un traité
+                                consacré aux « puissances angéliques ».</note>.</p>
                     </div>
                     <div n="3" type="section">
                         <p>Suivent maintenant les suffumigations des altitudes méridionales. Il faut
@@ -5442,22 +5482,24 @@
                                 pharmacopée traditionnelle, leurs propriétés astringentes ou
                                 diurétiques ou expectorantes étaient reconnues.</note>; la troisième
                             avec des odeurs, avec des odeurs de myrrhe et de racines de pois
-                                chiche<note n="47" place="bottom">Le texte latin indique <emph rend="italic">cum
-                                odoribus cum odoribus</emph>. Cette répétition inutile constitue encore une
-                                fois le signe que le scribe suivait bien un modèle, et pour cela que
-                                nous l’avons conservée dans la transcription.</note> ; la quatrième
-                            avec des odeurs de camphre et de storax calamitus ; la cinquième avec
-                            des odeurs de racines d’asaret<note n="48" place="bottom">Le genre
-                                asarum regroupe une cinquantaine d’espèces de plantes vivaces au
-                                feuillage persistant de la famille des <emph rend="italic">Aristolochiaceae</emph>, qui sont
+                                chiche<note n="47" place="bottom">Le texte latin indique <emph
+                                    rend="italic">cum odoribus cum odoribus</emph>. Cette répétition
+                                inutile constitue encore une fois le signe que le scribe suivait
+                                bien un modèle, et pour cela que nous l’avons conservée dans la
+                                transcription.</note> ; la quatrième avec des odeurs de camphre et
+                            de storax calamitus ; la cinquième avec des odeurs de racines
+                                d’asaret<note n="48" place="bottom">Le genre asarum regroupe une
+                                cinquantaine d’espèces de plantes vivaces au feuillage persistant de
+                                la famille des <emph rend="italic">Aristolochiaceae</emph>, qui sont
                                 originaires des régions tempérées de l’hémisphère nord. Autrement
                                 plus connues sous le nom d’asaret, ces plantes comportent de jolies
                                 feuilles arrondies bien vertes, qui dégagent une odeur et de petites
-                                fleurs rouges. Comme le précise DIOSCORIDE, <emph rend="italic">De materia medica</emph>, I, 9,
-                                l’asaret produit des racines noueuses, subtiles, entortillées,
-                                semblables à celles de dent-de-chien, mais plus subtiles et plus
-                                odoriférantes, qui échauffent et attaquent fortement la langue quand
-                                on les mâche.</note> et de bois d’aloès.</p>
+                                fleurs rouges. Comme le précise DIOSCORIDE, <emph rend="italic">De
+                                    materia medica</emph>, I, 9, l’asaret produit des racines
+                                noueuses, subtiles, entortillées, semblables à celles de
+                                dent-de-chien, mais plus subtiles et plus odoriférantes, qui
+                                échauffent et attaquent fortement la langue quand on les
+                                mâche.</note> et de bois d’aloès.</p>
                     </div>
                     <div n="4" type="section">
                         <p>Suivent maintenant les suffumigations des altitudes septentrionales. La
@@ -5529,12 +5571,14 @@
                         <div n="3" type="section">
                             <p>À la fin de la suffumigation, il doit réciter les psaumes de notre
                                 père David à savoir les 71 ; 142 ; 85 ; 45 ; 16 ; 5 ; 1<note n="49"
-                                    place="bottom">Dans la <emph rend="italic">Vulgate</emph>, la numérotation des <emph rend="italic">Psaumes</emph>
-                                    attribués au Roi David va de 1 à 150, avec des décalages par
-                                    rapport à la numérotation hébraïque. C’est vers la fin du Moyen
-                                    Âge que se développa une pratique « magique » des <emph rend="italic">Psaumes</emph>. Selon
-                                    les lois de la kabbale, chacun de ces psaumes détient une vertu
-                                    magique spécifique. En effet, les <emph rend="italic">Tehillim</emph> (« Psaumes »)
+                                    place="bottom">Dans la <emph rend="italic">Vulgate</emph>, la
+                                    numérotation des <emph rend="italic">Psaumes</emph> attribués au
+                                    Roi David va de 1 à 150, avec des décalages par rapport à la
+                                    numérotation hébraïque. C’est vers la fin du Moyen Âge que se
+                                    développa une pratique « magique » des <emph rend="italic"
+                                        >Psaumes</emph>. Selon les lois de la kabbale, chacun de ces
+                                    psaumes détient une vertu magique spécifique. En effet, les
+                                        <emph rend="italic">Tehillim</emph> (« Psaumes »)
                                     fournissent une prière appropriée pour chaque occasion, et à
                                     chaque psaume était associé une « intelligence » particulière,
                                     ainsi qu’un sceau spécifique. Pour obtenir l’obtention d’une
@@ -5552,15 +5596,16 @@
                             <p>Prière. « Dieu d’Abraham, Dieu d’Isaac, Dieu de Jacob, Dieu de Moïse,
                                 Dieu de tous ceux qui espèrent en toi, mon Dieu et protecteur de ma
                                     vie<note n="50" place="bottom">Le texte s’inspire d’un des
-                                    psaumes (Ps. 17, 31 : <emph rend="italic">Deus meus inpolluta uia eius eloquia
-                                    Domini igne examinata : protector est omnium sperantium in se</emph>),
-                                    mais l’auteur du texte n’en conserve que quelques fragments et
-                                    les réorganise à sa guise. Il se les approprie pour leur donner
-                                    un sens nouveau (XI, 1 : <emph rend="italic">Deus omnium in te sperantium, Deus meus
-                                    et protector uitæ meæ</emph>).</note>, Seigneur, ô Très Bienveillant,
-                                Seigneur, je prie ta divine Majesté autant que je peux prier afin
-                                que tu daignes concéder une telle grâce à moi ton serviteur n.
-                                (c'est-à-dire « un tel »).</p>
+                                    psaumes (Ps. 17, 31 : <emph rend="italic">Deus meus inpolluta
+                                        uia eius eloquia Domini igne examinata : protector est
+                                        omnium sperantium in se</emph>), mais l’auteur du texte n’en
+                                    conserve que quelques fragments et les réorganise à sa guise. Il
+                                    se les approprie pour leur donner un sens nouveau (XI, 1 : <emph
+                                        rend="italic">Deus omnium in te sperantium, Deus meus et
+                                        protector uitæ meæ</emph>).</note>, Seigneur, ô Très
+                                Bienveillant, Seigneur, je prie ta divine Majesté autant que je peux
+                                prier afin que tu daignes concéder une telle grâce à moi ton
+                                serviteur n. (c'est-à-dire « un tel »).</p>
                         </div>
                     </div>
                 </div>
@@ -5575,14 +5620,15 @@
                         <p>Seigneur, mon Dieu, prête l’oreille pour écouter ma prière, rends-toi
                             attentif à la voix de l’humble supplication que je te présente<note
                                 n="51" place="bottom">Le texte cite presque directement un des
-                                psaumes (Ps. 85, 6 : <emph rend="italic">Auribus percipe, Domine, orationem meam, et
-                                intende uoci deprecationis meae</emph>).</note>, lorsque je te prie,
-                            lorsque je te prie, lorsque j’élève mes mains vers ton saint temple<note
-                                n="52" place="bottom">À quelques mots près (<emph rend="italic">dum
-                                    oro ad te</emph> est répété deux fois), le texte évoque Ps. 27,
-                                2. L’auteur établit ainsi un parallèle entre le Temple de Jérusalem
-                                et le « saint Stahelaon ».</note>. Ainsi soit-il, ainsi soit-il,
-                            ainsi soit-il ».</p>
+                                psaumes (Ps. 85, 6 : <emph rend="italic">Auribus percipe, Domine,
+                                    orationem meam, et intende uoci deprecationis
+                                meae</emph>).</note>, lorsque je te prie, lorsque je te prie,
+                            lorsque j’élève mes mains vers ton saint temple<note n="52"
+                                place="bottom">À quelques mots près (<emph rend="italic">dum oro ad
+                                    te</emph> est répété deux fois), le texte évoque Ps. 27, 2.
+                                L’auteur établit ainsi un parallèle entre le Temple de Jérusalem et
+                                le « saint Stahelaon ».</note>. Ainsi soit-il, ainsi soit-il, ainsi
+                            soit-il ».</p>
                     </div>
                     <div n="4" type="section">
                         <p>Note qu’il faut que dans la pièce, une table soit recouverte d’une toile
@@ -5595,41 +5641,43 @@
                         <div n="1" type="section">
                             <p>Prière « Dieu, dont la divinité est sans fin<note n="53"
                                     place="bottom">Le texte cite de manière partielle l’Ap. 1, 8
-                                    (<emph rend="italic">principium et finis</emph>).</note>, Dieu créateur de toutes les
-                                créatures, le commencement et la fin, Dieu Adonay, Dieu Iahoua, Dieu
-                                Cados, et Dieu de tous ceux qui espèrent en toi, Dieu très vertueux
-                                ainsi que très sage, Sauveur des cœurs, ais pitié de moi, entends ma
-                                prière, sois attentif à la voix de ma prière, lorsque je crie vers
-                                toi, lorsque j’élève les mains vers ton saint temple.</p>
+                                        (<emph rend="italic">principium et finis</emph>).</note>,
+                                Dieu créateur de toutes les créatures, le commencement et la fin,
+                                Dieu Adonay, Dieu Iahoua, Dieu Cados, et Dieu de tous ceux qui
+                                espèrent en toi, Dieu très vertueux ainsi que très sage, Sauveur des
+                                cœurs, ais pitié de moi, entends ma prière, sois attentif à la voix
+                                de ma prière, lorsque je crie vers toi, lorsque j’élève les mains
+                                vers ton saint temple.</p>
                         </div>
                         <div n="2" type="section">
                             <p>Mais toi, ô mon Dieu, tu es doux, véritable, et patient, et gouvernes
                                 tout par ton conseil<note n="55" place="bottom">Le texte cite
-                                    presque directement un des versets de la <emph rend="italic">Sagesse</emph> dit de Salomon
-                                    (Sg, 15, 1 : <emph rend="italic">tu autem Deus noster suauis et
-                                        uerus es patiens et misericordia disponens omnia</emph>) et
-                                    le Ps. 72, 24 : <emph rend="italic">in tuo consilio</emph>. Si
-                                    la traduction du verset reprend celle de Lemaître de Sacy, nous
+                                    presque directement un des versets de la <emph rend="italic"
+                                        >Sagesse</emph> dit de Salomon (Sg, 15, 1 : <emph
+                                        rend="italic">tu autem Deus noster suauis et uerus es
+                                        patiens et misericordia disponens omnia</emph>) et le Ps.
+                                    72, 24 : <emph rend="italic">in tuo consilio</emph>. Si la
+                                    traduction du verset reprend celle de Lemaître de Sacy, nous
                                     avons choisi de ne pas conserver le vouvoiement employé par le
-                                    maître de Port-Royal.</note>, Seigneur Dieu, toi qui es assis sous les
-                                Chérubins, c’est toi seul &lt;qui est le Dieu&gt; de tous les rois
-                                du monde, c’est toi qui as fait le ciel et la terre<note n="56"
-                                    place="bottom">L’auteur reprend un passage du deuxième Livre des
-                                    Rois pour en retourner le sens (2R, 19, 15 : <emph rend="italic"
-                                        >Domine Deus Israel, qui sedes super cherubim, tu es Deus
-                                        solus regum omnium terrae: tu fecisti caelum et
+                                    maître de Port-Royal.</note>, Seigneur Dieu, toi qui es assis
+                                sous les Chérubins, c’est toi seul &lt;qui est le Dieu&gt; de tous
+                                les rois du monde, c’est toi qui as fait le ciel et la terre<note
+                                    n="56" place="bottom">L’auteur reprend un passage du deuxième
+                                    Livre des Rois pour en retourner le sens (2R, 19, 15 : <emph
+                                        rend="italic">Domine Deus Israel, qui sedes super cherubim,
+                                        tu es Deus solus regum omnium terrae: tu fecisti caelum et
                                         terram</emph>).</note>, prête l’oreille et exauce-moi, ouvre
                                 les yeux, Seigneur, et considère ! Exauce toutes mes paroles et
                                     exauce-moi<note n="57" place="bottom">L’auteur poursuit sa
-                                    citation du deuxième <emph rend="italic">Livre des Rois</emph> (2R, 19, 16 : <emph
-                                        rend="italic">Inclina aurem tuam, et audi: aperi, Domine,
-                                        oculos tuos, et uide: audi omnia uerba Sennacherib</emph>).
-                                    Dans le texte biblique, les paroles évoquées renvoient à des
-                                    blasphèmes prononcés à l’encontre du dieu des Hébreux par les
-                                    Assyriens ou « Chaldéens », alors que dans le manuscrit, ces
-                                        <emph rend="italic">uerba</emph> correspondent à des prières
-                                    adressées au même dieu. Le phénomène d’inversion se
-                                    poursuit.</note>.</p>
+                                    citation du deuxième <emph rend="italic">Livre des Rois</emph>
+                                    (2R, 19, 16 : <emph rend="italic">Inclina aurem tuam, et audi:
+                                        aperi, Domine, oculos tuos, et uide: audi omnia uerba
+                                        Sennacherib</emph>). Dans le texte biblique, les paroles
+                                    évoquées renvoient à des blasphèmes prononcés à l’encontre du
+                                    dieu des Hébreux par les Assyriens ou « Chaldéens », alors que
+                                    dans le manuscrit, ces <emph rend="italic">uerba</emph>
+                                    correspondent à des prières adressées au même dieu. Le phénomène
+                                    d’inversion se poursuit.</note>.</p>
                         </div>
                         <div n="3" type="section">
                             <p>Dieu, toi qui a créé l’homme de terre et l’as formé à ton image, tu
@@ -5675,11 +5723,12 @@
                     <div n="5" type="section">
                         <p>Rappelle-toi, Dieu très bienveillant, que tu as dit que ta miséricorde
                             était bâtie pour l’éternité<note n="59" place="bottom">Ceci est
-                                clairement un rappel du Ps. 135, 1 : <emph rend="italic">quoniam in aeternum
-                                misericordia eius</emph>.</note>. Exauce ma voix, très pieux Seigneur<note
-                                n="60" place="bottom">Le texte évoque un des psaumes (Ps. 26, 7 :
-                                <emph rend="italic">Exaudi, Domine, uocem meam</emph>).</note>, et accorde la requête de ma
-                            voix. Ainsi soit-il, ainsi soit-il, ainsi soit-il ».</p>
+                                clairement un rappel du Ps. 135, 1 : <emph rend="italic">quoniam in
+                                    aeternum misericordia eius</emph>.</note>. Exauce ma voix, très
+                            pieux Seigneur<note n="60" place="bottom">Le texte évoque un des psaumes
+                                (Ps. 26, 7 : <emph rend="italic">Exaudi, Domine, uocem
+                                meam</emph>).</note>, et accorde la requête de ma voix. Ainsi
+                            soit-il, ainsi soit-il, ainsi soit-il ».</p>
                     </div>
                     <div n="6" type="section">
                         <p>Et ceci doit être préparé avant que le maître de l’Art n’entame son
@@ -5692,21 +5741,23 @@
                                 terminée, il devra écrire avec la plus grande dévotion le grand et
                                 terrible Nom, c’est-à-dire le gracieux Thethagramaton, en
                                 majuscules, avec un stylet d’argent<note n="61" place="bottom">Le
-                                    manuscrit donne <emph rend="italic">delictens</emph>, qui, malgré les apparences, n’est pas
-                                    un participe latin classique, et constitue en hapax. Par contre,
-                                    en moyen français, parlé environ de 1340 à 1611, on trouve la
-                                    forme <emph rend="italic">delictans</emph> (avec des variantes comme delittans ou
+                                    manuscrit donne <emph rend="italic">delictens</emph>, qui,
+                                    malgré les apparences, n’est pas un participe latin classique,
+                                    et constitue en hapax. Par contre, en moyen français, parlé
+                                    environ de 1340 à 1611, on trouve la forme <emph rend="italic"
+                                        >delictans</emph> (avec des variantes comme delittans ou
                                     delittens) avec le sens d’ « agréable, gracieux, délicieux »,
                                     notamment chez Christine de Pisan (1364-1430) dans le Dit de
                                     Poissy, V. 625 : « De retourner au lieu si delictans » (éd. de
                                     Paul POUGIN 1857, p. 549). Le terme est lui-même
                                     vraisemblablement formé à partir du latin delectabilis (« qui
-                                    plaît, qui a du charme »). Son emploi dans le <emph rend="italic">Liber Hynotheon</emph>
-                                    témoignerait d’une forme de contamination entre le français et
-                                    le latin.</note>. Il faut écrire cedit saint Nom sur le second
-                                coffret, comme nous l’avons dit. Il faut que le maître de l’Art ait
-                                écrit sa requête sur un papier vierge, et qu’il le mette à côté du
-                                sceau, comme nous l’avons indiqué précédemment.</p>
+                                    plaît, qui a du charme »). Son emploi dans le <emph
+                                        rend="italic">Liber Hynotheon</emph> témoignerait d’une
+                                    forme de contamination entre le français et le latin.</note>. Il
+                                faut écrire cedit saint Nom sur le second coffret, comme nous
+                                l’avons dit. Il faut que le maître de l’Art ait écrit sa requête sur
+                                un papier vierge, et qu’il le mette à côté du sceau, comme nous
+                                l’avons indiqué précédemment.</p>
                         </div>
                         <div n="2" type="section">
                             <p>Ensuite, avec une très grande vénération, qu’il allume les cierges du
@@ -5722,21 +5773,24 @@
                                 stylet d’argent jusqu’au saint nom Stahelaon. À l’intérieur, il
                                 devra déposer le sceau de l’altitude et les caractères des princes,
                                 avec leurs noms appropriés<note n="62" place="bottom">Les «
-                                    caractères des Princes (<emph rend="italic">caractera principum</emph>) » constitueraient
-                                    une forme d’écriture qui permettrait d’évoquer les entités
-                                    supérieures sous leur nom véritable. L’usage de <emph rend="italic">caractera</emph> -ou
-                                    <emph rend="italic">charakteres</emph> en grec- constituent une pratique bien établie,
-                                    héritée de la magie antique, et que l’on retrouve aussi bien sur
-                                    les lamelles de <emph rend="italic">defixio</emph> que dans les <emph rend="italic">Papyrus Grecs Magiques</emph>.
-                                    Même si l’inventaire de ces caractères et leur possible
-                                    déchiffrement restent encore à faire, on peut néanmoins les
-                                    regarder, selon GRAF 2015, p. 230, « comme un développement du
-                                    système graphique des hiéroglyphes qui offrait la possibilité
-                                    d’écrire avec des signes non-alphabétiques ». Cf. GRÉVIN &amp;
-                                    VÉRONÈSE 2004.</note>. Ensuite, il devra fermer le trou. Avant
-                                que le maître de l’Art n’ait mis le sceau de l’altitude et les
-                                caractères des princes dans le trou, il doit suffumiger ceux-ci avec
-                                leurs odeurs caractéristiques.</p>
+                                    caractères des Princes (<emph rend="italic">caractera
+                                        principum</emph>) » constitueraient une forme d’écriture qui
+                                    permettrait d’évoquer les entités supérieures sous leur nom
+                                    véritable. L’usage de <emph rend="italic">caractera</emph> -ou
+                                        <emph rend="italic">charakteres</emph> en grec- constituent
+                                    une pratique bien établie, héritée de la magie antique, et que
+                                    l’on retrouve aussi bien sur les lamelles de <emph rend="italic"
+                                        >defixio</emph> que dans les <emph rend="italic">Papyrus
+                                        Grecs Magiques</emph>. Même si l’inventaire de ces
+                                    caractères et leur possible déchiffrement restent encore à
+                                    faire, on peut néanmoins les regarder, selon GRAF 2015, p. 230,
+                                    « comme un développement du système graphique des hiéroglyphes
+                                    qui offrait la possibilité d’écrire avec des signes
+                                    non-alphabétiques ». Cf. GRÉVIN &amp; VÉRONÈSE 2004.</note>.
+                                Ensuite, il devra fermer le trou. Avant que le maître de l’Art n’ait
+                                mis le sceau de l’altitude et les caractères des princes dans le
+                                trou, il doit suffumiger ceux-ci avec leurs odeurs
+                                caractéristiques.</p>
                         </div>
                         <div n="4" type="section" xml:id="p19-20-ante" next="#p19-20-post">
                             <p>Note</p>
@@ -5760,19 +5814,20 @@
                         <p>Les sceaux des altitudes méridionales ainsi que les caractères de leurs
                             princes sont écrits avec une plume de ~ pape tirée de l’aile gauche<note
                                 n="63" place="bottom">La première mention d’un pape apparaît dans un
-                                ouvrage de langue française, l’<emph rend="italic">Histoire de la Louisiane</emph> du
-                                naturaliste de LE PAGE DU PRATZ 1758. Cette date constitue un
-                                <emph rend="italic">terminus post quem</emph> pour la composition du manuscrit. Le terme se
-                                retrouve ensuite dans le <emph rend="italic">Dictionnaire raisonné et universel des
-                                animaux</emph> d’AUBERT DE LA CHESNAYE DES BOIS 1759, p. 330. L’ouvrage de
-                                BUFFON 1778, p. 176 va contribuer à la vulgarisation du terme.
-                                L’oiseau décrit par Antoine-Simon LE PAGE DU PRATZ pourrait être un
-                                oriole mais les dictionnaires français vont progressivement réserver
-                                au passerin nonpareil l’appellation de « pape ».</note>. Les sceaux
-                            des altitudes septentrionales de même que les caractères de leurs
-                            princes doivent être écrits avec une plume d’hirondelle tirée de l’aile
-                            droite s’il s’agit d’une bonne fin, ou avec la plume d’un coq noir s’il
-                            s’agit d’une mauvaise fin.</p>
+                                ouvrage de langue française, l’<emph rend="italic">Histoire de la
+                                    Louisiane</emph> du naturaliste de LE PAGE DU PRATZ 1758. Cette
+                                date constitue un <emph rend="italic">terminus post quem</emph> pour
+                                la composition du manuscrit. Le terme se retrouve ensuite dans le
+                                    <emph rend="italic">Dictionnaire raisonné et universel des
+                                    animaux</emph> d’AUBERT DE LA CHESNAYE DES BOIS 1759, p. 330.
+                                L’ouvrage de BUFFON 1778, p. 176 va contribuer à la vulgarisation du
+                                terme. L’oiseau décrit par Antoine-Simon LE PAGE DU PRATZ pourrait
+                                être un oriole mais les dictionnaires français vont progressivement
+                                réserver au passerin nonpareil l’appellation de « pape ».</note>.
+                            Les sceaux des altitudes septentrionales de même que les caractères de
+                            leurs princes doivent être écrits avec une plume d’hirondelle tirée de
+                            l’aile droite s’il s’agit d’une bonne fin, ou avec la plume d’un coq
+                            noir s’il s’agit d’une mauvaise fin.</p>
                     </div>
                     <div n="7" type="section">
                         <p>Voici quels sont les sceaux et les caractères des altitudes occidentales,
@@ -5782,18 +5837,20 @@
                 </div>
                 <div n="p21" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-21">
                     <div n="fig3" type="figure">
-                        <head rend="italic bold">Figure 3</head> <p>Sceau de la première altitude orientale. Caractères des
-                            princes</p>
+                        <head rend="italic bold">Figure 3</head>
+                        <p>Sceau de la première altitude orientale. Caractères des princes</p>
                     </div>
                 </div>
                 <div n="p22" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-22">
                     <div n="fig4" type="figure">
-                        <head rend="italic bold">Figure 4</head> <p>Sceau de la seconde altitude orientale 2</p>
+                        <head rend="italic bold">Figure 4</head>
+                        <p>Sceau de la seconde altitude orientale 2</p>
                     </div>
                 </div>
                 <div n="p23" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-23">
                     <div n="fig5" type="figure">
-                        <head rend="italic bold">Figure 5</head> <p>Sceau de la troisième altitude</p>
+                        <head rend="italic bold">Figure 5</head>
+                        <p>Sceau de la troisième altitude</p>
                     </div>
                 </div>
                 <div n="p24" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-24"/>
@@ -5915,24 +5972,25 @@
                                 alpha et omega. Cf. XX, 1 ; figura septima.</note>, Je Suis Celui
                             Qui Est<note n="69" place="bottom">Au moment où Moïse demande à Dieu de
                                 lui révéler son Nom, celui-ci répond, selon la Vulgate, (Ex. 3,
-                                14) : <emph rend="italic">Ego sum qui sum</emph>. Cf. VIGNAUX 1978.</note>, Aehec Sehoua,
-                            Anabona, Ysaron, Alyeon, Syalos, Ane, Adneth, Esba, Athoth, Yotlya,
-                            Ayan, Ayac, Dyeron, Zasaday, Oin, Vlath, Vnias, Yonas, Otheth, Ihegh,
-                            Abamor, Adyos, Vertahel, Bemon, Zeloy, Zeray, Manay, Alba, Abatha,
-                            Nethon, Auhulo, Anarna, Sanel, Ferglaon, Dayclan, Machanhal, Agya, Aray,
-                            Looh, Pothozetda, Zelietenero, Aga, Betha, Than, Opeto, Ypatos, Sosa,
-                            Sayeth, Bonsaga, Arasy y Ael, Lanur, Abyacs, Bagoge, Byonel, Ogogo, Asæ,
-                            Faufalon, Alon, Vla, Elaon, Heman, Halla, Euay, Lienederon, Thegal,
-                            Seghahab, Zachyhe, Achata, Abratha, Abrateh, Athamay, Anahoman, Yota,
-                            Yot, Onan, Nathaman, Ban, Tagas, Gadeon, Iehu, Ogiron, Vzion, Orinhi,
-                            On, Oleha, Dansath, Neouul, Soray, I, Iender, Onoico, Agor, Sahuh, Vam,
-                            Hemon, Vam, Amas, Saophay, Abgiach, Ylen, Araham, Eyn, Castos, Rabo,
-                            Sey, Gule, Hase, Cassiacolo, Igas, Taco, Orchie, Aranel, Aimix,
-                            Sarsamahehim, Malathim, Sabachyssim, Osturmina, Hel, Sarday,
-                            Panthangramaton, Edicos, Pachay, Moel, Medandala, Nehauch, Soray, Cados,
-                            Nau, Anona, Alabay, Amura, Araora, ARANTHAN, Homousyon, Esenehye,
-                            Achata, Au, Ah, Iender, Cos, Zhye, Hhasidz, Zadie, Seday, Gibor, Hhesed,
-                            Relsidion, Malahahh, Ruaahhton, Mesahh, Tazahh,</p>
+                                14) : <emph rend="italic">Ego sum qui sum</emph>. Cf. VIGNAUX
+                                1978.</note>, Aehec Sehoua, Anabona, Ysaron, Alyeon, Syalos, Ane,
+                            Adneth, Esba, Athoth, Yotlya, Ayan, Ayac, Dyeron, Zasaday, Oin, Vlath,
+                            Vnias, Yonas, Otheth, Ihegh, Abamor, Adyos, Vertahel, Bemon, Zeloy,
+                            Zeray, Manay, Alba, Abatha, Nethon, Auhulo, Anarna, Sanel, Ferglaon,
+                            Dayclan, Machanhal, Agya, Aray, Looh, Pothozetda, Zelietenero, Aga,
+                            Betha, Than, Opeto, Ypatos, Sosa, Sayeth, Bonsaga, Arasy y Ael, Lanur,
+                            Abyacs, Bagoge, Byonel, Ogogo, Asæ, Faufalon, Alon, Vla, Elaon, Heman,
+                            Halla, Euay, Lienederon, Thegal, Seghahab, Zachyhe, Achata, Abratha,
+                            Abrateh, Athamay, Anahoman, Yota, Yot, Onan, Nathaman, Ban, Tagas,
+                            Gadeon, Iehu, Ogiron, Vzion, Orinhi, On, Oleha, Dansath, Neouul, Soray,
+                            I, Iender, Onoico, Agor, Sahuh, Vam, Hemon, Vam, Amas, Saophay, Abgiach,
+                            Ylen, Araham, Eyn, Castos, Rabo, Sey, Gule, Hase, Cassiacolo, Igas,
+                            Taco, Orchie, Aranel, Aimix, Sarsamahehim, Malathim, Sabachyssim,
+                            Osturmina, Hel, Sarday, Panthangramaton, Edicos, Pachay, Moel,
+                            Medandala, Nehauch, Soray, Cados, Nau, Anona, Alabay, Amura, Araora,
+                            ARANTHAN, Homousyon, Esenehye, Achata, Au, Ah, Iender, Cos, Zhye,
+                            Hhasidz, Zadie, Seday, Gibor, Hhesed, Relsidion, Malahahh, Ruaahhton,
+                            Mesahh, Tazahh,</p>
                     </div>
                 </div>
                 <div n="p27" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-27">
@@ -5955,28 +6013,28 @@
                         <div n="1" type="section">
                             <p>L’invocation terminée, apparaîtra un seul prince de cette altitude,
                                 vêtu d’une longue stole blanche<note n="69" place="bottom">Le texte
-                                    latin précise que le prince porte une <emph rend="italic">stola</emph> (« longue robe »),
-                                    ce qui désignait dans l’Antiquité la tunique portée par les
-                                    matrones romaines, mais aussi la tenue des prêtres d’Isis. La
-                                    stole était aussi à l’occasion portée par les mages, et peut
-                                    tout à fait être empruntée par un magicien.</note>, et sous
-                                l’apparence d’un jeune homme très beau, portant des fleurs de roses
-                                sur sa tête, à la manière d’une couronne<note n="70" place="bottom"
-                                    >Cette description correspond partiellement à la représentation
-                                    traditionnelle des archanges. La série réalisée par le peintre
-                                    espagnol Bartolomé Roman (1587-1647) est emblématique à cet
-                                    égard, notamment le tableau de l’archange Barachiel actuellement
-                                    conservé au Museu de Mallorca.</note>. Que le maître de l’Art
-                                ait alors un petit vase, une sorte de praxède neuf<note n="71"
-                                    place="bottom">Ce nom constitue un hapax, et désigne
-                                    vraisemblablement un vase. Sainte Praxède, fille de saint
-                                    Pudens, et sœur de sainte Pudentienne, est fêtée le 21 juillet.
-                                    Elle est habituellement représentée en train de recueillir le
-                                    sang des martyrs dans un vase, artefact qui constitue son
-                                    attribut iconographique. Par antonomase, le vase de sainte
-                                    Praxède aurait été appelé un praxède.</note>, et à l’intérieur,
-                                qu’il mette des charbons embrasés obtenus à partir de romarin, et
-                                par-dessus, qu’il jette les substances des odeurs de
+                                    latin précise que le prince porte une <emph rend="italic"
+                                        >stola</emph> (« longue robe »), ce qui désignait dans
+                                    l’Antiquité la tunique portée par les matrones romaines, mais
+                                    aussi la tenue des prêtres d’Isis. La stole était aussi à
+                                    l’occasion portée par les mages, et peut tout à fait être
+                                    empruntée par un magicien.</note>, et sous l’apparence d’un
+                                jeune homme très beau, portant des fleurs de roses sur sa tête, à la
+                                manière d’une couronne<note n="70" place="bottom">Cette description
+                                    correspond partiellement à la représentation traditionnelle des
+                                    archanges. La série réalisée par le peintre espagnol Bartolomé
+                                    Roman (1587-1647) est emblématique à cet égard, notamment le
+                                    tableau de l’archange Barachiel actuellement conservé au Museu
+                                    de Mallorca.</note>. Que le maître de l’Art ait alors un petit
+                                vase, une sorte de praxède neuf<note n="71" place="bottom">Ce nom
+                                    constitue un hapax, et désigne vraisemblablement un vase. Sainte
+                                    Praxède, fille de saint Pudens, et sœur de sainte Pudentienne,
+                                    est fêtée le 21 juillet. Elle est habituellement représentée en
+                                    train de recueillir le sang des martyrs dans un vase, artefact
+                                    qui constitue son attribut iconographique. Par antonomase, le
+                                    vase de sainte Praxède aurait été appelé un praxède.</note>, et
+                                à l’intérieur, qu’il mette des charbons embrasés obtenus à partir de
+                                romarin, et par-dessus, qu’il jette les substances des odeurs de
                                 l’altitude !</p>
                         </div>
                         <div n="2" type="section">
@@ -6085,12 +6143,18 @@
                 </div>
                 <div n="p29" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-29">
                     <div n="fig6" type="figure">
-                        <head rend="italic bold">Figure 6</head> <head rend="italic bold">Dessin de la tenue du maître de l’Art</head> <p><emph rend="italic">Sur la manche droite</emph> :
-                            ELIZBETH</p> <p><emph rend="italic">Sur la manche gauche</emph> : ABESSALOM</p> <p><emph rend="italic">En triangle</emph> : AVORRA ADONAY
-                            EMANVEL</p> <p><emph rend="italic">Dans le bas</emph> : OZA, <emph rend="italic">caractères</emph>, SAPHAD </p></div> 
-                            <div n="fig6" type="figure">
-                            <head rend="italic bold">De l’autre côté</head>
-                            <p>ELCANA, <emph rend="italic">caractères</emph>, ELIMELGH, <emph rend="italic">caractères</emph>.</p>
+                        <head rend="italic bold">Figure 6</head>
+                        <head rend="italic bold">Dessin de la tenue du maître de l’Art</head>
+                        <p><emph rend="italic">Sur la manche droite</emph> : ELIZBETH</p>
+                        <p><emph rend="italic">Sur la manche gauche</emph> : ABESSALOM</p>
+                        <p><emph rend="italic">En triangle</emph> : AVORRA ADONAY EMANVEL</p>
+                        <p><emph rend="italic">Dans le bas</emph> : OZA, <emph rend="italic"
+                                >caractères</emph>, SAPHAD </p>
+                    </div>
+                    <div n="fig6" type="figure">
+                        <head rend="italic bold">De l’autre côté</head>
+                        <p>ELCANA, <emph rend="italic">caractères</emph>, ELIMELGH, <emph
+                                rend="italic">caractères</emph>.</p>
                     </div>
                 </div>
                 <div n="p30" type="page" corresp="#liber_hynotheon_ms_adiv_5fb1_page-30"/>
