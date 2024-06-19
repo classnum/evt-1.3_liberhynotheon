@@ -586,7 +586,7 @@
                     <person xml:id="Han">
                         <persName type="divin">Han (nom divin) </persName>
                     </person>
-                      <person xml:id="Hanalay">
+                    <person xml:id="Hanalay">
                         <persName type="divin">Hanalay (nom divin) </persName>
                     </person>
                     <person xml:id="Hascheye">
@@ -1774,7 +1774,8 @@
                         etiam habet potestatem distribuere, auferre, donare pro ut eis uidetur
                         redditus et pecuniam, habet operationem suam die Solis et eius hora luna
                         crescente. Nomina principum huius altitudinis sunt <name type="divin"
-                            ><persName ref="#Pax">Pax</persName></name>, <name type="divin"><persName ref="#Alpharaym"><choice>
+                                ><persName ref="#Pax">Pax</persName></name>, <name type="divin"
+                                ><persName ref="#Alpharaym"><choice>
                                     <sic>Alpharaijm</sic>
                                     <corr resp="#NC">Alpharaym</corr>
                                 </choice><!--<app>
@@ -3987,7 +3988,7 @@
                             type="divin"><persName ref="#Relsidion">Relsidion</persName></name>,
                             <name type="divin"><persName ref="#Malahahh">Malahahh</persName></name>,
                             <name type="divin"><persName ref="#Ruaahhton"
-                        >Ruaahhton</persName></name>, <name type="divin"><persName ref="#Mesahh"
+                            >Ruaahhton</persName></name>, <name type="divin"><persName ref="#Mesahh"
                                 >Mesahh</persName></name>, <name type="divin"><persName
                                 ref="#Tazahh">Tazahh</persName></name>, <pb n="27"
                             facs="data/images/single/liber_hynotheon_ms_adiv_5fb1_page-27.jpg"
